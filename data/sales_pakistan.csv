@@ -1,0 +1,2881 @@
+month,city,category,channel,units,revenue_pkr
+2024-01,Karachi,Electronics,Retail Store,121,5411719
+2024-01,Karachi,Electronics,Distributor,68,3120395
+2024-01,Karachi,Electronics,Online,27,1209149
+2024-01,Karachi,Apparel,Retail Store,900,3240110
+2024-01,Karachi,Apparel,Distributor,485,1689078
+2024-01,Karachi,Apparel,Online,260,901394
+2024-01,Karachi,Groceries,Retail Store,3980,2670498
+2024-01,Karachi,Groceries,Distributor,2240,1416286
+2024-01,Karachi,Groceries,Online,1111,656119
+2024-01,Karachi,Home & Kitchen,Retail Store,529,3215790
+2024-01,Karachi,Home & Kitchen,Distributor,266,1572782
+2024-01,Karachi,Home & Kitchen,Online,148,876764
+2024-01,Karachi,Beauty,Retail Store,1051,1834032
+2024-01,Karachi,Beauty,Distributor,619,1063371
+2024-01,Karachi,Beauty,Online,306,532838
+2024-01,Lahore,Electronics,Retail Store,123,5793767
+2024-01,Lahore,Electronics,Distributor,55,2442939
+2024-01,Lahore,Electronics,Online,30,1242675
+2024-01,Lahore,Apparel,Retail Store,784,2737333
+2024-01,Lahore,Apparel,Distributor,403,1434452
+2024-01,Lahore,Apparel,Online,228,783320
+2024-01,Lahore,Groceries,Retail Store,3190,2034594
+2024-01,Lahore,Groceries,Distributor,1817,1217044
+2024-01,Lahore,Groceries,Online,968,585088
+2024-01,Lahore,Home & Kitchen,Retail Store,470,2718410
+2024-01,Lahore,Home & Kitchen,Distributor,253,1443218
+2024-01,Lahore,Home & Kitchen,Online,122,706864
+2024-01,Lahore,Beauty,Retail Store,855,1582204
+2024-01,Lahore,Beauty,Distributor,508,920686
+2024-01,Lahore,Beauty,Online,258,424174
+2024-01,Islamabad,Electronics,Retail Store,61,2737066
+2024-01,Islamabad,Electronics,Distributor,31,1431967
+2024-01,Islamabad,Electronics,Online,18,773623
+2024-01,Islamabad,Apparel,Retail Store,523,1794613
+2024-01,Islamabad,Apparel,Distributor,262,911197
+2024-01,Islamabad,Apparel,Online,144,474420
+2024-01,Islamabad,Groceries,Retail Store,1975,1249594
+2024-01,Islamabad,Groceries,Distributor,1111,706363
+2024-01,Islamabad,Groceries,Online,606,380264
+2024-01,Islamabad,Home & Kitchen,Retail Store,265,1635140
+2024-01,Islamabad,Home & Kitchen,Distributor,157,933182
+2024-01,Islamabad,Home & Kitchen,Online,77,424283
+2024-01,Islamabad,Beauty,Retail Store,587,1013284
+2024-01,Islamabad,Beauty,Distributor,298,534355
+2024-01,Islamabad,Beauty,Online,158,270208
+2024-01,Rawalpindi,Electronics,Retail Store,54,2477706
+2024-01,Rawalpindi,Electronics,Distributor,30,1333938
+2024-01,Rawalpindi,Electronics,Online,13,562990
+2024-01,Rawalpindi,Apparel,Retail Store,342,1147642
+2024-01,Rawalpindi,Apparel,Distributor,193,706701
+2024-01,Rawalpindi,Apparel,Online,111,376446
+2024-01,Rawalpindi,Groceries,Retail Store,1706,1160927
+2024-01,Rawalpindi,Groceries,Distributor,932,618939
+2024-01,Rawalpindi,Groceries,Online,444,267926
+2024-01,Rawalpindi,Home & Kitchen,Retail Store,203,1267037
+2024-01,Rawalpindi,Home & Kitchen,Distributor,128,745142
+2024-01,Rawalpindi,Home & Kitchen,Online,62,356200
+2024-01,Rawalpindi,Beauty,Retail Store,460,857528
+2024-01,Rawalpindi,Beauty,Distributor,265,487468
+2024-01,Rawalpindi,Beauty,Online,134,232057
+2024-01,Faisalabad,Electronics,Retail Store,67,3060179
+2024-01,Faisalabad,Electronics,Distributor,29,1294013
+2024-01,Faisalabad,Electronics,Online,16,683589
+2024-01,Faisalabad,Apparel,Retail Store,475,1603402
+2024-01,Faisalabad,Apparel,Distributor,271,956813
+2024-01,Faisalabad,Apparel,Online,115,398631
+2024-01,Faisalabad,Groceries,Retail Store,1918,1227609
+2024-01,Faisalabad,Groceries,Distributor,1134,701926
+2024-01,Faisalabad,Groceries,Online,476,293410
+2024-01,Faisalabad,Home & Kitchen,Retail Store,253,1454658
+2024-01,Faisalabad,Home & Kitchen,Distributor,156,935130
+2024-01,Faisalabad,Home & Kitchen,Online,69,396121
+2024-01,Faisalabad,Beauty,Retail Store,451,792883
+2024-01,Faisalabad,Beauty,Distributor,277,499631
+2024-01,Faisalabad,Beauty,Online,141,229576
+2024-01,Multan,Electronics,Retail Store,42,1964874
+2024-01,Multan,Electronics,Distributor,21,950106
+2024-01,Multan,Electronics,Online,9,391377
+2024-01,Multan,Apparel,Retail Store,295,1055937
+2024-01,Multan,Apparel,Distributor,163,548122
+2024-01,Multan,Apparel,Online,77,249118
+2024-01,Multan,Groceries,Retail Store,1218,796043
+2024-01,Multan,Groceries,Distributor,842,565349
+2024-01,Multan,Groceries,Online,384,232784
+2024-01,Multan,Home & Kitchen,Retail Store,177,1039795
+2024-01,Multan,Home & Kitchen,Distributor,88,515115
+2024-01,Multan,Home & Kitchen,Online,42,231371
+2024-01,Multan,Beauty,Retail Store,349,624123
+2024-01,Multan,Beauty,Distributor,177,331079
+2024-01,Multan,Beauty,Online,111,197228
+2024-01,Peshawar,Electronics,Retail Store,45,2028819
+2024-01,Peshawar,Electronics,Distributor,27,1248050
+2024-01,Peshawar,Electronics,Online,12,506519
+2024-01,Peshawar,Apparel,Retail Store,358,1283923
+2024-01,Peshawar,Apparel,Distributor,191,697701
+2024-01,Peshawar,Apparel,Online,84,268764
+2024-01,Peshawar,Groceries,Retail Store,1752,1099316
+2024-01,Peshawar,Groceries,Distributor,814,534358
+2024-01,Peshawar,Groceries,Online,382,231411
+2024-01,Peshawar,Home & Kitchen,Retail Store,202,1269185
+2024-01,Peshawar,Home & Kitchen,Distributor,104,601779
+2024-01,Peshawar,Home & Kitchen,Online,53,293933
+2024-01,Peshawar,Beauty,Retail Store,426,780423
+2024-01,Peshawar,Beauty,Distributor,193,347620
+2024-01,Peshawar,Beauty,Online,107,184454
+2024-01,Quetta,Electronics,Retail Store,24,1112845
+2024-01,Quetta,Electronics,Distributor,15,691131
+2024-01,Quetta,Electronics,Online,7,287991
+2024-01,Quetta,Apparel,Retail Store,205,710151
+2024-01,Quetta,Apparel,Distributor,105,367080
+2024-01,Quetta,Apparel,Online,56,194684
+2024-01,Quetta,Groceries,Retail Store,869,588845
+2024-01,Quetta,Groceries,Distributor,471,307840
+2024-01,Quetta,Groceries,Online,243,144139
+2024-01,Quetta,Home & Kitchen,Retail Store,110,654662
+2024-01,Quetta,Home & Kitchen,Distributor,72,436149
+2024-01,Quetta,Home & Kitchen,Online,27,158584
+2024-01,Quetta,Beauty,Retail Store,213,394318
+2024-01,Quetta,Beauty,Distributor,135,233502
+2024-01,Quetta,Beauty,Online,62,109167
+2024-02,Karachi,Electronics,Retail Store,98,4423569
+2024-02,Karachi,Electronics,Distributor,59,2752635
+2024-02,Karachi,Electronics,Online,39,1652673
+2024-02,Karachi,Apparel,Retail Store,830,2949136
+2024-02,Karachi,Apparel,Distributor,418,1456255
+2024-02,Karachi,Apparel,Online,295,955045
+2024-02,Karachi,Groceries,Retail Store,3623,2429500
+2024-02,Karachi,Groceries,Distributor,2669,1659654
+2024-02,Karachi,Groceries,Online,1090,649260
+2024-02,Karachi,Home & Kitchen,Retail Store,565,3325703
+2024-02,Karachi,Home & Kitchen,Distributor,265,1656934
+2024-02,Karachi,Home & Kitchen,Online,145,808707
+2024-02,Karachi,Beauty,Retail Store,1080,1869251
+2024-02,Karachi,Beauty,Distributor,584,1004463
+2024-02,Karachi,Beauty,Online,314,512959
+2024-02,Lahore,Electronics,Retail Store,109,4993640
+2024-02,Lahore,Electronics,Distributor,58,2562496
+2024-02,Lahore,Electronics,Online,30,1330594
+2024-02,Lahore,Apparel,Retail Store,748,2498482
+2024-02,Lahore,Apparel,Distributor,429,1463871
+2024-02,Lahore,Apparel,Online,252,830884
+2024-02,Lahore,Groceries,Retail Store,3315,2127517
+2024-02,Lahore,Groceries,Distributor,1965,1226374
+2024-02,Lahore,Groceries,Online,1093,644688
+2024-02,Lahore,Home & Kitchen,Retail Store,458,2637836
+2024-02,Lahore,Home & Kitchen,Distributor,258,1610331
+2024-02,Lahore,Home & Kitchen,Online,113,663553
+2024-02,Lahore,Beauty,Retail Store,991,1809216
+2024-02,Lahore,Beauty,Distributor,517,896591
+2024-02,Lahore,Beauty,Online,269,460644
+2024-02,Islamabad,Electronics,Retail Store,73,3272780
+2024-02,Islamabad,Electronics,Distributor,35,1596981
+2024-02,Islamabad,Electronics,Online,19,782990
+2024-02,Islamabad,Apparel,Retail Store,426,1478608
+2024-02,Islamabad,Apparel,Distributor,308,1063718
+2024-02,Islamabad,Apparel,Online,150,490146
+2024-02,Islamabad,Groceries,Retail Store,2195,1453251
+2024-02,Islamabad,Groceries,Distributor,1171,795315
+2024-02,Islamabad,Groceries,Online,653,402458
+2024-02,Islamabad,Home & Kitchen,Retail Store,301,1812400
+2024-02,Islamabad,Home & Kitchen,Distributor,171,1041655
+2024-02,Islamabad,Home & Kitchen,Online,83,474648
+2024-02,Islamabad,Beauty,Retail Store,610,1074739
+2024-02,Islamabad,Beauty,Distributor,357,623477
+2024-02,Islamabad,Beauty,Online,182,322446
+2024-02,Rawalpindi,Electronics,Retail Store,53,2412280
+2024-02,Rawalpindi,Electronics,Distributor,30,1380472
+2024-02,Rawalpindi,Electronics,Online,15,669205
+2024-02,Rawalpindi,Apparel,Retail Store,395,1445940
+2024-02,Rawalpindi,Apparel,Distributor,207,731287
+2024-02,Rawalpindi,Apparel,Online,118,403929
+2024-02,Rawalpindi,Groceries,Retail Store,1622,1028299
+2024-02,Rawalpindi,Groceries,Distributor,869,541976
+2024-02,Rawalpindi,Groceries,Online,511,317592
+2024-02,Rawalpindi,Home & Kitchen,Retail Store,231,1381286
+2024-02,Rawalpindi,Home & Kitchen,Distributor,123,757478
+2024-02,Rawalpindi,Home & Kitchen,Online,64,364514
+2024-02,Rawalpindi,Beauty,Retail Store,405,760437
+2024-02,Rawalpindi,Beauty,Distributor,277,479509
+2024-02,Rawalpindi,Beauty,Online,153,265760
+2024-02,Faisalabad,Electronics,Retail Store,63,2912770
+2024-02,Faisalabad,Electronics,Distributor,34,1504547
+2024-02,Faisalabad,Electronics,Online,17,745830
+2024-02,Faisalabad,Apparel,Retail Store,456,1574325
+2024-02,Faisalabad,Apparel,Distributor,240,811239
+2024-02,Faisalabad,Apparel,Online,130,451102
+2024-02,Faisalabad,Groceries,Retail Store,1817,1167269
+2024-02,Faisalabad,Groceries,Distributor,1211,791321
+2024-02,Faisalabad,Groceries,Online,524,332640
+2024-02,Faisalabad,Home & Kitchen,Retail Store,265,1570341
+2024-02,Faisalabad,Home & Kitchen,Distributor,149,913468
+2024-02,Faisalabad,Home & Kitchen,Online,74,405707
+2024-02,Faisalabad,Beauty,Retail Store,647,1180564
+2024-02,Faisalabad,Beauty,Distributor,250,453972
+2024-02,Faisalabad,Beauty,Online,148,240737
+2024-02,Multan,Electronics,Retail Store,43,1997965
+2024-02,Multan,Electronics,Distributor,19,851456
+2024-02,Multan,Electronics,Online,10,419032
+2024-02,Multan,Apparel,Retail Store,310,1115520
+2024-02,Multan,Apparel,Distributor,144,529051
+2024-02,Multan,Apparel,Online,84,273265
+2024-02,Multan,Groceries,Retail Store,1372,856700
+2024-02,Multan,Groceries,Distributor,730,455066
+2024-02,Multan,Groceries,Online,381,224186
+2024-02,Multan,Home & Kitchen,Retail Store,156,902587
+2024-02,Multan,Home & Kitchen,Distributor,91,529522
+2024-02,Multan,Home & Kitchen,Online,45,260508
+2024-02,Multan,Beauty,Retail Store,356,609108
+2024-02,Multan,Beauty,Distributor,211,383823
+2024-02,Multan,Beauty,Online,92,153207
+2024-02,Peshawar,Electronics,Retail Store,37,1591279
+2024-02,Peshawar,Electronics,Distributor,26,1220052
+2024-02,Peshawar,Electronics,Online,13,566761
+2024-02,Peshawar,Apparel,Retail Store,384,1282196
+2024-02,Peshawar,Apparel,Distributor,177,596264
+2024-02,Peshawar,Apparel,Online,97,330433
+2024-02,Peshawar,Groceries,Retail Store,1556,1046913
+2024-02,Peshawar,Groceries,Distributor,802,533531
+2024-02,Peshawar,Groceries,Online,405,244354
+2024-02,Peshawar,Home & Kitchen,Retail Store,205,1289065
+2024-02,Peshawar,Home & Kitchen,Distributor,93,533141
+2024-02,Peshawar,Home & Kitchen,Online,50,271957
+2024-02,Peshawar,Beauty,Retail Store,420,771844
+2024-02,Peshawar,Beauty,Distributor,248,428174
+2024-02,Peshawar,Beauty,Online,114,204298
+2024-02,Quetta,Electronics,Retail Store,25,1156959
+2024-02,Quetta,Electronics,Distributor,14,634562
+2024-02,Quetta,Electronics,Online,7,312597
+2024-02,Quetta,Apparel,Retail Store,193,680770
+2024-02,Quetta,Apparel,Distributor,117,415611
+2024-02,Quetta,Apparel,Online,61,195694
+2024-02,Quetta,Groceries,Retail Store,873,562004
+2024-02,Quetta,Groceries,Distributor,556,347639
+2024-02,Quetta,Groceries,Online,250,150949
+2024-02,Quetta,Home & Kitchen,Retail Store,119,708852
+2024-02,Quetta,Home & Kitchen,Distributor,61,370927
+2024-02,Quetta,Home & Kitchen,Online,31,175088
+2024-02,Quetta,Beauty,Retail Store,211,383154
+2024-02,Quetta,Beauty,Distributor,120,205979
+2024-02,Quetta,Beauty,Online,67,114274
+2024-03,Karachi,Electronics,Retail Store,130,5892388
+2024-03,Karachi,Electronics,Distributor,67,3075904
+2024-03,Karachi,Electronics,Online,34,1475656
+2024-03,Karachi,Apparel,Retail Store,1364,4911220
+2024-03,Karachi,Apparel,Distributor,769,2673041
+2024-03,Karachi,Apparel,Online,381,1249173
+2024-03,Karachi,Groceries,Retail Store,5879,3911804
+2024-03,Karachi,Groceries,Distributor,3173,2149291
+2024-03,Karachi,Groceries,Online,1686,1043216
+2024-03,Karachi,Home & Kitchen,Retail Store,466,2744120
+2024-03,Karachi,Home & Kitchen,Distributor,253,1517111
+2024-03,Karachi,Home & Kitchen,Online,153,834779
+2024-03,Karachi,Beauty,Retail Store,1190,2046803
+2024-03,Karachi,Beauty,Distributor,583,1031994
+2024-03,Karachi,Beauty,Online,313,525269
+2024-03,Lahore,Electronics,Retail Store,90,3853447
+2024-03,Lahore,Electronics,Distributor,48,2237014
+2024-03,Lahore,Electronics,Online,34,1403153
+2024-03,Lahore,Apparel,Retail Store,1088,3663171
+2024-03,Lahore,Apparel,Distributor,480,1757016
+2024-03,Lahore,Apparel,Online,404,1379852
+2024-03,Lahore,Groceries,Retail Store,4904,3247420
+2024-03,Lahore,Groceries,Distributor,2450,1574639
+2024-03,Lahore,Groceries,Online,1517,890915
+2024-03,Lahore,Home & Kitchen,Retail Store,470,2827075
+2024-03,Lahore,Home & Kitchen,Distributor,254,1473084
+2024-03,Lahore,Home & Kitchen,Online,139,831054
+2024-03,Lahore,Beauty,Retail Store,898,1671207
+2024-03,Lahore,Beauty,Distributor,587,1018731
+2024-03,Lahore,Beauty,Online,317,536247
+2024-03,Islamabad,Electronics,Retail Store,74,3415025
+2024-03,Islamabad,Electronics,Distributor,36,1615031
+2024-03,Islamabad,Electronics,Online,18,744947
+2024-03,Islamabad,Apparel,Retail Store,696,2325077
+2024-03,Islamabad,Apparel,Distributor,344,1178964
+2024-03,Islamabad,Apparel,Online,202,677456
+2024-03,Islamabad,Groceries,Retail Store,2594,1615978
+2024-03,Islamabad,Groceries,Distributor,1514,1017913
+2024-03,Islamabad,Groceries,Online,959,601015
+2024-03,Islamabad,Home & Kitchen,Retail Store,271,1668748
+2024-03,Islamabad,Home & Kitchen,Distributor,153,905755
+2024-03,Islamabad,Home & Kitchen,Online,85,476673
+2024-03,Islamabad,Beauty,Retail Store,627,1126633
+2024-03,Islamabad,Beauty,Distributor,339,631680
+2024-03,Islamabad,Beauty,Online,177,315066
+2024-03,Rawalpindi,Electronics,Retail Store,49,2282235
+2024-03,Rawalpindi,Electronics,Distributor,26,1169862
+2024-03,Rawalpindi,Electronics,Online,14,574858
+2024-03,Rawalpindi,Apparel,Retail Store,574,2092843
+2024-03,Rawalpindi,Apparel,Distributor,316,1070332
+2024-03,Rawalpindi,Apparel,Online,181,583265
+2024-03,Rawalpindi,Groceries,Retail Store,2534,1717507
+2024-03,Rawalpindi,Groceries,Distributor,1461,931373
+2024-03,Rawalpindi,Groceries,Online,665,390406
+2024-03,Rawalpindi,Home & Kitchen,Retail Store,225,1377410
+2024-03,Rawalpindi,Home & Kitchen,Distributor,122,767268
+2024-03,Rawalpindi,Home & Kitchen,Online,71,403790
+2024-03,Rawalpindi,Beauty,Retail Store,477,893230
+2024-03,Rawalpindi,Beauty,Distributor,214,403043
+2024-03,Rawalpindi,Beauty,Online,139,246409
+2024-03,Faisalabad,Electronics,Retail Store,63,2900889
+2024-03,Faisalabad,Electronics,Distributor,29,1311930
+2024-03,Faisalabad,Electronics,Online,17,760894
+2024-03,Faisalabad,Apparel,Retail Store,586,2007566
+2024-03,Faisalabad,Apparel,Distributor,406,1456523
+2024-03,Faisalabad,Apparel,Online,184,588788
+2024-03,Faisalabad,Groceries,Retail Store,2592,1731527
+2024-03,Faisalabad,Groceries,Distributor,1509,1028474
+2024-03,Faisalabad,Groceries,Online,863,558371
+2024-03,Faisalabad,Home & Kitchen,Retail Store,259,1599638
+2024-03,Faisalabad,Home & Kitchen,Distributor,149,898958
+2024-03,Faisalabad,Home & Kitchen,Online,69,410004
+2024-03,Faisalabad,Beauty,Retail Store,581,997376
+2024-03,Faisalabad,Beauty,Distributor,258,443442
+2024-03,Faisalabad,Beauty,Online,147,255777
+2024-03,Multan,Electronics,Retail Store,35,1618111
+2024-03,Multan,Electronics,Distributor,20,921549
+2024-03,Multan,Electronics,Online,12,489862
+2024-03,Multan,Apparel,Retail Store,411,1456035
+2024-03,Multan,Apparel,Distributor,227,755133
+2024-03,Multan,Apparel,Online,129,436529
+2024-03,Multan,Groceries,Retail Store,1998,1285889
+2024-03,Multan,Groceries,Distributor,1015,671072
+2024-03,Multan,Groceries,Online,517,330510
+2024-03,Multan,Home & Kitchen,Retail Store,187,1161645
+2024-03,Multan,Home & Kitchen,Distributor,87,526715
+2024-03,Multan,Home & Kitchen,Online,47,261868
+2024-03,Multan,Beauty,Retail Store,359,626012
+2024-03,Multan,Beauty,Distributor,208,368482
+2024-03,Multan,Beauty,Online,94,165682
+2024-03,Peshawar,Electronics,Retail Store,54,2380516
+2024-03,Peshawar,Electronics,Distributor,24,1040777
+2024-03,Peshawar,Electronics,Online,14,628280
+2024-03,Peshawar,Apparel,Retail Store,454,1604129
+2024-03,Peshawar,Apparel,Distributor,279,1017054
+2024-03,Peshawar,Apparel,Online,170,544583
+2024-03,Peshawar,Groceries,Retail Store,2546,1583270
+2024-03,Peshawar,Groceries,Distributor,1282,793107
+2024-03,Peshawar,Groceries,Online,612,382994
+2024-03,Peshawar,Home & Kitchen,Retail Store,212,1261873
+2024-03,Peshawar,Home & Kitchen,Distributor,91,559757
+2024-03,Peshawar,Home & Kitchen,Online,52,290014
+2024-03,Peshawar,Beauty,Retail Store,423,741230
+2024-03,Peshawar,Beauty,Distributor,202,378474
+2024-03,Peshawar,Beauty,Online,119,208421
+2024-03,Quetta,Electronics,Retail Store,28,1279333
+2024-03,Quetta,Electronics,Distributor,13,569870
+2024-03,Quetta,Electronics,Online,8,330216
+2024-03,Quetta,Apparel,Retail Store,343,1207882
+2024-03,Quetta,Apparel,Distributor,162,583093
+2024-03,Quetta,Apparel,Online,90,298539
+2024-03,Quetta,Groceries,Retail Store,1412,933825
+2024-03,Quetta,Groceries,Distributor,675,424937
+2024-03,Quetta,Groceries,Online,400,237167
+2024-03,Quetta,Home & Kitchen,Retail Store,106,664960
+2024-03,Quetta,Home & Kitchen,Distributor,61,363547
+2024-03,Quetta,Home & Kitchen,Online,34,202710
+2024-03,Quetta,Beauty,Retail Store,227,389848
+2024-03,Quetta,Beauty,Distributor,108,185954
+2024-03,Quetta,Beauty,Online,66,113042
+2024-04,Karachi,Electronics,Retail Store,130,5587312
+2024-04,Karachi,Electronics,Distributor,59,2624336
+2024-04,Karachi,Electronics,Online,39,1700293
+2024-04,Karachi,Apparel,Retail Store,1208,4144316
+2024-04,Karachi,Apparel,Distributor,698,2422628
+2024-04,Karachi,Apparel,Online,395,1262425
+2024-04,Karachi,Groceries,Retail Store,5314,3281821
+2024-04,Karachi,Groceries,Distributor,3107,2017430
+2024-04,Karachi,Groceries,Online,1541,945033
+2024-04,Karachi,Home & Kitchen,Retail Store,485,3009290
+2024-04,Karachi,Home & Kitchen,Distributor,270,1591243
+2024-04,Karachi,Home & Kitchen,Online,124,705377
+2024-04,Karachi,Beauty,Retail Store,1017,1780854
+2024-04,Karachi,Beauty,Distributor,612,1149011
+2024-04,Karachi,Beauty,Online,303,516097
+2024-04,Lahore,Electronics,Retail Store,110,4776975
+2024-04,Lahore,Electronics,Distributor,60,2602315
+2024-04,Lahore,Electronics,Online,33,1341519
+2024-04,Lahore,Apparel,Retail Store,1230,4103218
+2024-04,Lahore,Apparel,Distributor,550,1948129
+2024-04,Lahore,Apparel,Online,380,1272245
+2024-04,Lahore,Groceries,Retail Store,4729,3181261
+2024-04,Lahore,Groceries,Distributor,2831,1905175
+2024-04,Lahore,Groceries,Online,1790,1068047
+2024-04,Lahore,Home & Kitchen,Retail Store,430,2671717
+2024-04,Lahore,Home & Kitchen,Distributor,242,1512809
+2024-04,Lahore,Home & Kitchen,Online,124,714110
+2024-04,Lahore,Beauty,Retail Store,1116,1980985
+2024-04,Lahore,Beauty,Distributor,493,871285
+2024-04,Lahore,Beauty,Online,312,538894
+2024-04,Islamabad,Electronics,Retail Store,73,3256758
+2024-04,Islamabad,Electronics,Distributor,38,1637857
+2024-04,Islamabad,Electronics,Online,20,841874
+2024-04,Islamabad,Apparel,Retail Store,729,2466149
+2024-04,Islamabad,Apparel,Distributor,354,1264783
+2024-04,Islamabad,Apparel,Online,250,816051
+2024-04,Islamabad,Groceries,Retail Store,3284,2154629
+2024-04,Islamabad,Groceries,Distributor,1757,1101361
+2024-04,Islamabad,Groceries,Online,893,533393
+2024-04,Islamabad,Home & Kitchen,Retail Store,278,1750028
+2024-04,Islamabad,Home & Kitchen,Distributor,150,856492
+2024-04,Islamabad,Home & Kitchen,Online,96,551831
+2024-04,Islamabad,Beauty,Retail Store,611,1143495
+2024-04,Islamabad,Beauty,Distributor,334,603376
+2024-04,Islamabad,Beauty,Online,169,282435
+2024-04,Rawalpindi,Electronics,Retail Store,50,2271278
+2024-04,Rawalpindi,Electronics,Distributor,30,1372089
+2024-04,Rawalpindi,Electronics,Online,13,528972
+2024-04,Rawalpindi,Apparel,Retail Store,625,2128718
+2024-04,Rawalpindi,Apparel,Distributor,341,1164100
+2024-04,Rawalpindi,Apparel,Online,164,548220
+2024-04,Rawalpindi,Groceries,Retail Store,2646,1750449
+2024-04,Rawalpindi,Groceries,Distributor,1549,1013590
+2024-04,Rawalpindi,Groceries,Online,774,501050
+2024-04,Rawalpindi,Home & Kitchen,Retail Store,216,1297890
+2024-04,Rawalpindi,Home & Kitchen,Distributor,119,735136
+2024-04,Rawalpindi,Home & Kitchen,Online,68,384033
+2024-04,Rawalpindi,Beauty,Retail Store,463,865874
+2024-04,Rawalpindi,Beauty,Distributor,257,471046
+2024-04,Rawalpindi,Beauty,Online,151,270128
+2024-04,Faisalabad,Electronics,Retail Store,57,2487933
+2024-04,Faisalabad,Electronics,Distributor,29,1301059
+2024-04,Faisalabad,Electronics,Online,15,665513
+2024-04,Faisalabad,Apparel,Retail Store,653,2289390
+2024-04,Faisalabad,Apparel,Distributor,390,1396550
+2024-04,Faisalabad,Apparel,Online,204,683044
+2024-04,Faisalabad,Groceries,Retail Store,2635,1781941
+2024-04,Faisalabad,Groceries,Distributor,1484,993354
+2024-04,Faisalabad,Groceries,Online,857,513554
+2024-04,Faisalabad,Home & Kitchen,Retail Store,286,1634171
+2024-04,Faisalabad,Home & Kitchen,Distributor,156,924501
+2024-04,Faisalabad,Home & Kitchen,Online,86,509199
+2024-04,Faisalabad,Beauty,Retail Store,555,980931
+2024-04,Faisalabad,Beauty,Distributor,375,680467
+2024-04,Faisalabad,Beauty,Online,157,271202
+2024-04,Multan,Electronics,Retail Store,38,1704466
+2024-04,Multan,Electronics,Distributor,23,1022291
+2024-04,Multan,Electronics,Online,12,494076
+2024-04,Multan,Apparel,Retail Store,446,1589810
+2024-04,Multan,Apparel,Distributor,200,731843
+2024-04,Multan,Apparel,Online,121,386189
+2024-04,Multan,Groceries,Retail Store,1922,1296903
+2024-04,Multan,Groceries,Distributor,994,626852
+2024-04,Multan,Groceries,Online,524,324282
+2024-04,Multan,Home & Kitchen,Retail Store,158,925195
+2024-04,Multan,Home & Kitchen,Distributor,92,550978
+2024-04,Multan,Home & Kitchen,Online,53,306708
+2024-04,Multan,Beauty,Retail Store,310,536277
+2024-04,Multan,Beauty,Distributor,199,350849
+2024-04,Multan,Beauty,Online,110,195186
+2024-04,Peshawar,Electronics,Retail Store,47,2217486
+2024-04,Peshawar,Electronics,Distributor,23,1081885
+2024-04,Peshawar,Electronics,Online,12,494419
+2024-04,Peshawar,Apparel,Retail Store,557,1959813
+2024-04,Peshawar,Apparel,Distributor,221,800247
+2024-04,Peshawar,Apparel,Online,143,477489
+2024-04,Peshawar,Groceries,Retail Store,2179,1381402
+2024-04,Peshawar,Groceries,Distributor,1198,806105
+2024-04,Peshawar,Groceries,Online,647,408916
+2024-04,Peshawar,Home & Kitchen,Retail Store,201,1190473
+2024-04,Peshawar,Home & Kitchen,Distributor,109,671005
+2024-04,Peshawar,Home & Kitchen,Online,58,320907
+2024-04,Peshawar,Beauty,Retail Store,406,703077
+2024-04,Peshawar,Beauty,Distributor,228,394000
+2024-04,Peshawar,Beauty,Online,130,230002
+2024-04,Quetta,Electronics,Retail Store,25,1115276
+2024-04,Quetta,Electronics,Distributor,15,657805
+2024-04,Quetta,Electronics,Online,8,354016
+2024-04,Quetta,Apparel,Retail Store,322,1130477
+2024-04,Quetta,Apparel,Distributor,175,596869
+2024-04,Quetta,Apparel,Online,85,295061
+2024-04,Quetta,Groceries,Retail Store,1299,867769
+2024-04,Quetta,Groceries,Distributor,692,449378
+2024-04,Quetta,Groceries,Online,386,239227
+2024-04,Quetta,Home & Kitchen,Retail Store,108,624138
+2024-04,Quetta,Home & Kitchen,Distributor,60,376281
+2024-04,Quetta,Home & Kitchen,Online,36,214500
+2024-04,Quetta,Beauty,Retail Store,250,452449
+2024-04,Quetta,Beauty,Distributor,120,210669
+2024-04,Quetta,Beauty,Online,79,129942
+2024-05,Karachi,Electronics,Retail Store,122,5392022
+2024-05,Karachi,Electronics,Distributor,68,3049294
+2024-05,Karachi,Electronics,Online,38,1629680
+2024-05,Karachi,Apparel,Retail Store,925,3395686
+2024-05,Karachi,Apparel,Distributor,506,1813790
+2024-05,Karachi,Apparel,Online,245,786348
+2024-05,Karachi,Groceries,Retail Store,4160,2661111
+2024-05,Karachi,Groceries,Distributor,2061,1318538
+2024-05,Karachi,Groceries,Online,1214,758844
+2024-05,Karachi,Home & Kitchen,Retail Store,500,3088091
+2024-05,Karachi,Home & Kitchen,Distributor,308,1926315
+2024-05,Karachi,Home & Kitchen,Online,145,837989
+2024-05,Karachi,Beauty,Retail Store,1098,2073909
+2024-05,Karachi,Beauty,Distributor,588,1012049
+2024-05,Karachi,Beauty,Online,373,614168
+2024-05,Lahore,Electronics,Retail Store,104,4741908
+2024-05,Lahore,Electronics,Distributor,59,2767002
+2024-05,Lahore,Electronics,Online,30,1311508
+2024-05,Lahore,Apparel,Retail Store,872,3100817
+2024-05,Lahore,Apparel,Distributor,387,1350814
+2024-05,Lahore,Apparel,Online,262,857448
+2024-05,Lahore,Groceries,Retail Store,3627,2399537
+2024-05,Lahore,Groceries,Distributor,2001,1240853
+2024-05,Lahore,Groceries,Online,996,639169
+2024-05,Lahore,Home & Kitchen,Retail Store,434,2645663
+2024-05,Lahore,Home & Kitchen,Distributor,259,1623547
+2024-05,Lahore,Home & Kitchen,Online,160,933752
+2024-05,Lahore,Beauty,Retail Store,971,1758605
+2024-05,Lahore,Beauty,Distributor,567,1021512
+2024-05,Lahore,Beauty,Online,312,529215
+2024-05,Islamabad,Electronics,Retail Store,66,2923182
+2024-05,Islamabad,Electronics,Distributor,35,1565558
+2024-05,Islamabad,Electronics,Online,21,861097
+2024-05,Islamabad,Apparel,Retail Store,527,1873185
+2024-05,Islamabad,Apparel,Distributor,289,962924
+2024-05,Islamabad,Apparel,Online,142,457882
+2024-05,Islamabad,Groceries,Retail Store,2137,1439143
+2024-05,Islamabad,Groceries,Distributor,1112,734932
+2024-05,Islamabad,Groceries,Online,704,424945
+2024-05,Islamabad,Home & Kitchen,Retail Store,270,1584930
+2024-05,Islamabad,Home & Kitchen,Distributor,155,968160
+2024-05,Islamabad,Home & Kitchen,Online,90,515159
+2024-05,Islamabad,Beauty,Retail Store,509,957697
+2024-05,Islamabad,Beauty,Distributor,275,482878
+2024-05,Islamabad,Beauty,Online,192,322426
+2024-05,Rawalpindi,Electronics,Retail Store,58,2583815
+2024-05,Rawalpindi,Electronics,Distributor,27,1157072
+2024-05,Rawalpindi,Electronics,Online,16,709657
+2024-05,Rawalpindi,Apparel,Retail Store,432,1503524
+2024-05,Rawalpindi,Apparel,Distributor,232,840744
+2024-05,Rawalpindi,Apparel,Online,116,387418
+2024-05,Rawalpindi,Groceries,Retail Store,1880,1238155
+2024-05,Rawalpindi,Groceries,Distributor,912,577636
+2024-05,Rawalpindi,Groceries,Online,537,345653
+2024-05,Rawalpindi,Home & Kitchen,Retail Store,205,1288819
+2024-05,Rawalpindi,Home & Kitchen,Distributor,109,671309
+2024-05,Rawalpindi,Home & Kitchen,Online,70,398226
+2024-05,Rawalpindi,Beauty,Retail Store,435,762660
+2024-05,Rawalpindi,Beauty,Distributor,270,475761
+2024-05,Rawalpindi,Beauty,Online,155,267328
+2024-05,Faisalabad,Electronics,Retail Store,59,2580356
+2024-05,Faisalabad,Electronics,Distributor,31,1445300
+2024-05,Faisalabad,Electronics,Online,17,690958
+2024-05,Faisalabad,Apparel,Retail Store,412,1484901
+2024-05,Faisalabad,Apparel,Distributor,274,924316
+2024-05,Faisalabad,Apparel,Online,139,444414
+2024-05,Faisalabad,Groceries,Retail Store,1967,1342300
+2024-05,Faisalabad,Groceries,Distributor,1013,635665
+2024-05,Faisalabad,Groceries,Online,698,436173
+2024-05,Faisalabad,Home & Kitchen,Retail Store,238,1496661
+2024-05,Faisalabad,Home & Kitchen,Distributor,139,803809
+2024-05,Faisalabad,Home & Kitchen,Online,81,451110
+2024-05,Faisalabad,Beauty,Retail Store,555,1015329
+2024-05,Faisalabad,Beauty,Distributor,266,494722
+2024-05,Faisalabad,Beauty,Online,182,308839
+2024-05,Multan,Electronics,Retail Store,38,1710131
+2024-05,Multan,Electronics,Distributor,23,1050803
+2024-05,Multan,Electronics,Online,11,493735
+2024-05,Multan,Apparel,Retail Store,298,1000779
+2024-05,Multan,Apparel,Distributor,170,623362
+2024-05,Multan,Apparel,Online,104,344459
+2024-05,Multan,Groceries,Retail Store,1401,869800
+2024-05,Multan,Groceries,Distributor,758,485474
+2024-05,Multan,Groceries,Online,444,283276
+2024-05,Multan,Home & Kitchen,Retail Store,156,928200
+2024-05,Multan,Home & Kitchen,Distributor,97,596481
+2024-05,Multan,Home & Kitchen,Online,51,290446
+2024-05,Multan,Beauty,Retail Store,360,624925
+2024-05,Multan,Beauty,Distributor,201,347187
+2024-05,Multan,Beauty,Online,112,192168
+2024-05,Peshawar,Electronics,Retail Store,43,1848468
+2024-05,Peshawar,Electronics,Distributor,25,1117836
+2024-05,Peshawar,Electronics,Online,14,570660
+2024-05,Peshawar,Apparel,Retail Store,343,1239291
+2024-05,Peshawar,Apparel,Distributor,189,638140
+2024-05,Peshawar,Apparel,Online,92,315784
+2024-05,Peshawar,Groceries,Retail Store,1525,1022891
+2024-05,Peshawar,Groceries,Distributor,944,607125
+2024-05,Peshawar,Groceries,Online,541,325965
+2024-05,Peshawar,Home & Kitchen,Retail Store,195,1170489
+2024-05,Peshawar,Home & Kitchen,Distributor,106,633754
+2024-05,Peshawar,Home & Kitchen,Online,50,276997
+2024-05,Peshawar,Beauty,Retail Store,409,754715
+2024-05,Peshawar,Beauty,Distributor,246,424467
+2024-05,Peshawar,Beauty,Online,130,215083
+2024-05,Quetta,Electronics,Retail Store,28,1247212
+2024-05,Quetta,Electronics,Distributor,15,650512
+2024-05,Quetta,Electronics,Online,8,340247
+2024-05,Quetta,Apparel,Retail Store,202,733518
+2024-05,Quetta,Apparel,Distributor,122,442921
+2024-05,Quetta,Apparel,Online,56,181001
+2024-05,Quetta,Groceries,Retail Store,864,549755
+2024-05,Quetta,Groceries,Distributor,427,279394
+2024-05,Quetta,Groceries,Online,261,166463
+2024-05,Quetta,Home & Kitchen,Retail Store,127,725925
+2024-05,Quetta,Home & Kitchen,Distributor,58,351534
+2024-05,Quetta,Home & Kitchen,Online,29,161336
+2024-05,Quetta,Beauty,Retail Store,225,415445
+2024-05,Quetta,Beauty,Distributor,116,210078
+2024-05,Quetta,Beauty,Online,78,130322
+2024-06,Karachi,Electronics,Retail Store,124,5476630
+2024-06,Karachi,Electronics,Distributor,70,3205646
+2024-06,Karachi,Electronics,Online,41,1665300
+2024-06,Karachi,Apparel,Retail Store,804,2925016
+2024-06,Karachi,Apparel,Distributor,507,1716289
+2024-06,Karachi,Apparel,Online,292,967983
+2024-06,Karachi,Groceries,Retail Store,4343,2945901
+2024-06,Karachi,Groceries,Distributor,2324,1467575
+2024-06,Karachi,Groceries,Online,1520,910018
+2024-06,Karachi,Home & Kitchen,Retail Store,465,2710232
+2024-06,Karachi,Home & Kitchen,Distributor,250,1456048
+2024-06,Karachi,Home & Kitchen,Online,157,865918
+2024-06,Karachi,Beauty,Retail Store,1096,2043876
+2024-06,Karachi,Beauty,Distributor,570,1011714
+2024-06,Karachi,Beauty,Online,335,564679
+2024-06,Lahore,Electronics,Retail Store,109,4959193
+2024-06,Lahore,Electronics,Distributor,56,2617868
+2024-06,Lahore,Electronics,Online,33,1354296
+2024-06,Lahore,Apparel,Retail Store,715,2406235
+2024-06,Lahore,Apparel,Distributor,359,1209000
+2024-06,Lahore,Apparel,Online,290,988768
+2024-06,Lahore,Groceries,Retail Store,3942,2568977
+2024-06,Lahore,Groceries,Distributor,2070,1284169
+2024-06,Lahore,Groceries,Online,1216,737660
+2024-06,Lahore,Home & Kitchen,Retail Store,426,2575646
+2024-06,Lahore,Home & Kitchen,Distributor,254,1473760
+2024-06,Lahore,Home & Kitchen,Online,132,752298
+2024-06,Lahore,Beauty,Retail Store,989,1761957
+2024-06,Lahore,Beauty,Distributor,501,868258
+2024-06,Lahore,Beauty,Online,335,555275
+2024-06,Islamabad,Electronics,Retail Store,75,3498574
+2024-06,Islamabad,Electronics,Distributor,33,1464013
+2024-06,Islamabad,Electronics,Online,20,849145
+2024-06,Islamabad,Apparel,Retail Store,505,1842931
+2024-06,Islamabad,Apparel,Distributor,234,810113
+2024-06,Islamabad,Apparel,Online,143,473147
+2024-06,Islamabad,Groceries,Retail Store,2504,1621385
+2024-06,Islamabad,Groceries,Distributor,1247,814959
+2024-06,Islamabad,Groceries,Online,693,421326
+2024-06,Islamabad,Home & Kitchen,Retail Store,278,1600386
+2024-06,Islamabad,Home & Kitchen,Distributor,146,895545
+2024-06,Islamabad,Home & Kitchen,Online,91,503893
+2024-06,Islamabad,Beauty,Retail Store,592,1092830
+2024-06,Islamabad,Beauty,Distributor,331,615270
+2024-06,Islamabad,Beauty,Online,211,364324
+2024-06,Rawalpindi,Electronics,Retail Store,56,2407249
+2024-06,Rawalpindi,Electronics,Distributor,32,1424518
+2024-06,Rawalpindi,Electronics,Online,18,775577
+2024-06,Rawalpindi,Apparel,Retail Store,402,1342073
+2024-06,Rawalpindi,Apparel,Distributor,247,869918
+2024-06,Rawalpindi,Apparel,Online,129,439368
+2024-06,Rawalpindi,Groceries,Retail Store,1476,959056
+2024-06,Rawalpindi,Groceries,Distributor,1036,640099
+2024-06,Rawalpindi,Groceries,Online,595,361193
+2024-06,Rawalpindi,Home & Kitchen,Retail Store,222,1315092
+2024-06,Rawalpindi,Home & Kitchen,Distributor,129,756224
+2024-06,Rawalpindi,Home & Kitchen,Online,70,409969
+2024-06,Rawalpindi,Beauty,Retail Store,407,735273
+2024-06,Rawalpindi,Beauty,Distributor,286,538665
+2024-06,Rawalpindi,Beauty,Online,152,251800
+2024-06,Faisalabad,Electronics,Retail Store,55,2568591
+2024-06,Faisalabad,Electronics,Distributor,27,1252782
+2024-06,Faisalabad,Electronics,Online,20,860506
+2024-06,Faisalabad,Apparel,Retail Store,362,1280584
+2024-06,Faisalabad,Apparel,Distributor,270,932714
+2024-06,Faisalabad,Apparel,Online,143,457331
+2024-06,Faisalabad,Groceries,Retail Store,2139,1437304
+2024-06,Faisalabad,Groceries,Distributor,1131,720726
+2024-06,Faisalabad,Groceries,Online,753,442843
+2024-06,Faisalabad,Home & Kitchen,Retail Store,258,1542377
+2024-06,Faisalabad,Home & Kitchen,Distributor,150,869705
+2024-06,Faisalabad,Home & Kitchen,Online,78,439120
+2024-06,Faisalabad,Beauty,Retail Store,483,829416
+2024-06,Faisalabad,Beauty,Distributor,324,584498
+2024-06,Faisalabad,Beauty,Online,157,258795
+2024-06,Multan,Electronics,Retail Store,42,1860543
+2024-06,Multan,Electronics,Distributor,20,940259
+2024-06,Multan,Electronics,Online,13,572921
+2024-06,Multan,Apparel,Retail Store,346,1160227
+2024-06,Multan,Apparel,Distributor,173,627989
+2024-06,Multan,Apparel,Online,96,316935
+2024-06,Multan,Groceries,Retail Store,1385,858469
+2024-06,Multan,Groceries,Distributor,700,477456
+2024-06,Multan,Groceries,Online,518,305164
+2024-06,Multan,Home & Kitchen,Retail Store,157,923326
+2024-06,Multan,Home & Kitchen,Distributor,90,515436
+2024-06,Multan,Home & Kitchen,Online,57,335865
+2024-06,Multan,Beauty,Retail Store,378,703174
+2024-06,Multan,Beauty,Distributor,208,375707
+2024-06,Multan,Beauty,Online,115,197976
+2024-06,Peshawar,Electronics,Retail Store,45,2013866
+2024-06,Peshawar,Electronics,Distributor,27,1271953
+2024-06,Peshawar,Electronics,Online,16,662752
+2024-06,Peshawar,Apparel,Retail Store,362,1325836
+2024-06,Peshawar,Apparel,Distributor,212,769254
+2024-06,Peshawar,Apparel,Online,123,422472
+2024-06,Peshawar,Groceries,Retail Store,1666,1119952
+2024-06,Peshawar,Groceries,Distributor,743,464933
+2024-06,Peshawar,Groceries,Online,525,325668
+2024-06,Peshawar,Home & Kitchen,Retail Store,198,1235392
+2024-06,Peshawar,Home & Kitchen,Distributor,119,728625
+2024-06,Peshawar,Home & Kitchen,Online,49,278082
+2024-06,Peshawar,Beauty,Retail Store,424,752637
+2024-06,Peshawar,Beauty,Distributor,236,407373
+2024-06,Peshawar,Beauty,Online,128,225006
+2024-06,Quetta,Electronics,Retail Store,24,1126514
+2024-06,Quetta,Electronics,Distributor,16,686533
+2024-06,Quetta,Electronics,Online,9,373431
+2024-06,Quetta,Apparel,Retail Store,230,782356
+2024-06,Quetta,Apparel,Distributor,108,394487
+2024-06,Quetta,Apparel,Online,58,187766
+2024-06,Quetta,Groceries,Retail Store,870,545911
+2024-06,Quetta,Groceries,Distributor,468,294926
+2024-06,Quetta,Groceries,Online,308,198034
+2024-06,Quetta,Home & Kitchen,Retail Store,117,710844
+2024-06,Quetta,Home & Kitchen,Distributor,63,389362
+2024-06,Quetta,Home & Kitchen,Online,43,254025
+2024-06,Quetta,Beauty,Retail Store,270,478608
+2024-06,Quetta,Beauty,Distributor,124,217083
+2024-06,Quetta,Beauty,Online,86,153614
+2024-07,Karachi,Electronics,Retail Store,72,3327731
+2024-07,Karachi,Electronics,Distributor,38,1655760
+2024-07,Karachi,Electronics,Online,27,1171932
+2024-07,Karachi,Apparel,Retail Store,504,1752492
+2024-07,Karachi,Apparel,Distributor,318,1137698
+2024-07,Karachi,Apparel,Online,195,676688
+2024-07,Karachi,Groceries,Retail Store,2239,1398200
+2024-07,Karachi,Groceries,Distributor,1146,746356
+2024-07,Karachi,Groceries,Online,814,499462
+2024-07,Karachi,Home & Kitchen,Retail Store,230,1378107
+2024-07,Karachi,Home & Kitchen,Distributor,179,1065598
+2024-07,Karachi,Home & Kitchen,Online,105,604063
+2024-07,Karachi,Beauty,Retail Store,741,1352154
+2024-07,Karachi,Beauty,Distributor,371,699947
+2024-07,Karachi,Beauty,Online,252,448017
+2024-07,Lahore,Electronics,Retail Store,102,4388192
+2024-07,Lahore,Electronics,Distributor,61,2785676
+2024-07,Lahore,Electronics,Online,35,1485502
+2024-07,Lahore,Apparel,Retail Store,798,2892495
+2024-07,Lahore,Apparel,Distributor,443,1526882
+2024-07,Lahore,Apparel,Online,281,950382
+2024-07,Lahore,Groceries,Retail Store,3376,2166073
+2024-07,Lahore,Groceries,Distributor,2026,1358003
+2024-07,Lahore,Groceries,Online,1218,769908
+2024-07,Lahore,Home & Kitchen,Retail Store,399,2325890
+2024-07,Lahore,Home & Kitchen,Distributor,209,1207747
+2024-07,Lahore,Home & Kitchen,Online,165,952428
+2024-07,Lahore,Beauty,Retail Store,807,1509932
+2024-07,Lahore,Beauty,Distributor,530,916863
+2024-07,Lahore,Beauty,Online,295,487017
+2024-07,Islamabad,Electronics,Retail Store,76,3348635
+2024-07,Islamabad,Electronics,Distributor,38,1775463
+2024-07,Islamabad,Electronics,Online,23,1003717
+2024-07,Islamabad,Apparel,Retail Store,471,1625039
+2024-07,Islamabad,Apparel,Distributor,244,823890
+2024-07,Islamabad,Apparel,Online,173,564200
+2024-07,Islamabad,Groceries,Retail Store,2235,1460049
+2024-07,Islamabad,Groceries,Distributor,1117,694825
+2024-07,Islamabad,Groceries,Online,692,439369
+2024-07,Islamabad,Home & Kitchen,Retail Store,254,1572017
+2024-07,Islamabad,Home & Kitchen,Distributor,138,854542
+2024-07,Islamabad,Home & Kitchen,Online,90,505860
+2024-07,Islamabad,Beauty,Retail Store,632,1133901
+2024-07,Islamabad,Beauty,Distributor,349,611925
+2024-07,Islamabad,Beauty,Online,208,349059
+2024-07,Rawalpindi,Electronics,Retail Store,54,2340306
+2024-07,Rawalpindi,Electronics,Distributor,30,1323400
+2024-07,Rawalpindi,Electronics,Online,15,624321
+2024-07,Rawalpindi,Apparel,Retail Store,409,1493055
+2024-07,Rawalpindi,Apparel,Distributor,243,862662
+2024-07,Rawalpindi,Apparel,Online,115,401449
+2024-07,Rawalpindi,Groceries,Retail Store,1397,943444
+2024-07,Rawalpindi,Groceries,Distributor,962,643524
+2024-07,Rawalpindi,Groceries,Online,659,389888
+2024-07,Rawalpindi,Home & Kitchen,Retail Store,220,1316990
+2024-07,Rawalpindi,Home & Kitchen,Distributor,128,760885
+2024-07,Rawalpindi,Home & Kitchen,Online,77,441189
+2024-07,Rawalpindi,Beauty,Retail Store,446,771383
+2024-07,Rawalpindi,Beauty,Distributor,248,459480
+2024-07,Rawalpindi,Beauty,Online,144,258425
+2024-07,Faisalabad,Electronics,Retail Store,67,3132555
+2024-07,Faisalabad,Electronics,Distributor,35,1559512
+2024-07,Faisalabad,Electronics,Online,20,864089
+2024-07,Faisalabad,Apparel,Retail Store,444,1529857
+2024-07,Faisalabad,Apparel,Distributor,231,792031
+2024-07,Faisalabad,Apparel,Online,158,509337
+2024-07,Faisalabad,Groceries,Retail Store,1899,1289809
+2024-07,Faisalabad,Groceries,Distributor,1067,716723
+2024-07,Faisalabad,Groceries,Online,648,387813
+2024-07,Faisalabad,Home & Kitchen,Retail Store,267,1651981
+2024-07,Faisalabad,Home & Kitchen,Distributor,135,843476
+2024-07,Faisalabad,Home & Kitchen,Online,86,498911
+2024-07,Faisalabad,Beauty,Retail Store,503,881430
+2024-07,Faisalabad,Beauty,Distributor,287,540597
+2024-07,Faisalabad,Beauty,Online,190,322624
+2024-07,Multan,Electronics,Retail Store,35,1536103
+2024-07,Multan,Electronics,Distributor,21,970690
+2024-07,Multan,Electronics,Online,13,574375
+2024-07,Multan,Apparel,Retail Store,271,901483
+2024-07,Multan,Apparel,Distributor,178,653781
+2024-07,Multan,Apparel,Online,105,338930
+2024-07,Multan,Groceries,Retail Store,1327,889284
+2024-07,Multan,Groceries,Distributor,691,444444
+2024-07,Multan,Groceries,Online,396,241389
+2024-07,Multan,Home & Kitchen,Retail Store,180,1047114
+2024-07,Multan,Home & Kitchen,Distributor,88,526913
+2024-07,Multan,Home & Kitchen,Online,50,289054
+2024-07,Multan,Beauty,Retail Store,348,656654
+2024-07,Multan,Beauty,Distributor,208,370782
+2024-07,Multan,Beauty,Online,127,211651
+2024-07,Peshawar,Electronics,Retail Store,43,1984260
+2024-07,Peshawar,Electronics,Distributor,27,1211140
+2024-07,Peshawar,Electronics,Online,14,579670
+2024-07,Peshawar,Apparel,Retail Store,391,1339683
+2024-07,Peshawar,Apparel,Distributor,195,710319
+2024-07,Peshawar,Apparel,Online,115,373429
+2024-07,Peshawar,Groceries,Retail Store,1536,973912
+2024-07,Peshawar,Groceries,Distributor,860,583808
+2024-07,Peshawar,Groceries,Online,554,332677
+2024-07,Peshawar,Home & Kitchen,Retail Store,168,997839
+2024-07,Peshawar,Home & Kitchen,Distributor,100,579716
+2024-07,Peshawar,Home & Kitchen,Online,66,386843
+2024-07,Peshawar,Beauty,Retail Store,471,883187
+2024-07,Peshawar,Beauty,Distributor,256,476853
+2024-07,Peshawar,Beauty,Online,164,267835
+2024-07,Quetta,Electronics,Retail Store,29,1279657
+2024-07,Quetta,Electronics,Distributor,13,600208
+2024-07,Quetta,Electronics,Online,9,395555
+2024-07,Quetta,Apparel,Retail Store,219,784005
+2024-07,Quetta,Apparel,Distributor,118,428557
+2024-07,Quetta,Apparel,Online,67,228228
+2024-07,Quetta,Groceries,Retail Store,932,620906
+2024-07,Quetta,Groceries,Distributor,470,293825
+2024-07,Quetta,Groceries,Online,267,164920
+2024-07,Quetta,Home & Kitchen,Retail Store,110,665455
+2024-07,Quetta,Home & Kitchen,Distributor,60,370328
+2024-07,Quetta,Home & Kitchen,Online,36,200003
+2024-07,Quetta,Beauty,Retail Store,256,469001
+2024-07,Quetta,Beauty,Distributor,131,228456
+2024-07,Quetta,Beauty,Online,86,153834
+2024-08,Karachi,Electronics,Retail Store,77,3609788
+2024-08,Karachi,Electronics,Distributor,47,2083709
+2024-08,Karachi,Electronics,Online,25,1065964
+2024-08,Karachi,Apparel,Retail Store,597,2004626
+2024-08,Karachi,Apparel,Distributor,303,1100326
+2024-08,Karachi,Apparel,Online,196,670455
+2024-08,Karachi,Groceries,Retail Store,2409,1641007
+2024-08,Karachi,Groceries,Distributor,1337,851784
+2024-08,Karachi,Groceries,Online,837,508415
+2024-08,Karachi,Home & Kitchen,Retail Store,327,1993094
+2024-08,Karachi,Home & Kitchen,Distributor,155,885774
+2024-08,Karachi,Home & Kitchen,Online,93,541334
+2024-08,Karachi,Beauty,Retail Store,638,1147895
+2024-08,Karachi,Beauty,Distributor,345,611578
+2024-08,Karachi,Beauty,Online,224,365071
+2024-08,Lahore,Electronics,Retail Store,106,4982336
+2024-08,Lahore,Electronics,Distributor,56,2582926
+2024-08,Lahore,Electronics,Online,37,1639738
+2024-08,Lahore,Apparel,Retail Store,774,2632044
+2024-08,Lahore,Apparel,Distributor,455,1636974
+2024-08,Lahore,Apparel,Online,338,1093590
+2024-08,Lahore,Groceries,Retail Store,3653,2483322
+2024-08,Lahore,Groceries,Distributor,1883,1240542
+2024-08,Lahore,Groceries,Online,1028,636797
+2024-08,Lahore,Home & Kitchen,Retail Store,517,3086345
+2024-08,Lahore,Home & Kitchen,Distributor,250,1455230
+2024-08,Lahore,Home & Kitchen,Online,155,911043
+2024-08,Lahore,Beauty,Retail Store,808,1465833
+2024-08,Lahore,Beauty,Distributor,534,1006602
+2024-08,Lahore,Beauty,Online,350,623751
+2024-08,Islamabad,Electronics,Retail Store,64,2784711
+2024-08,Islamabad,Electronics,Distributor,32,1380960
+2024-08,Islamabad,Electronics,Online,21,859264
+2024-08,Islamabad,Apparel,Retail Store,583,1953586
+2024-08,Islamabad,Apparel,Distributor,277,1001227
+2024-08,Islamabad,Apparel,Online,170,580761
+2024-08,Islamabad,Groceries,Retail Store,2253,1520418
+2024-08,Islamabad,Groceries,Distributor,1222,796057
+2024-08,Islamabad,Groceries,Online,698,428748
+2024-08,Islamabad,Home & Kitchen,Retail Store,301,1800158
+2024-08,Islamabad,Home & Kitchen,Distributor,150,926691
+2024-08,Islamabad,Home & Kitchen,Online,99,544749
+2024-08,Islamabad,Beauty,Retail Store,690,1284485
+2024-08,Islamabad,Beauty,Distributor,301,551880
+2024-08,Islamabad,Beauty,Online,203,332472
+2024-08,Rawalpindi,Electronics,Retail Store,55,2427397
+2024-08,Rawalpindi,Electronics,Distributor,31,1421352
+2024-08,Rawalpindi,Electronics,Online,18,753727
+2024-08,Rawalpindi,Apparel,Retail Store,386,1322607
+2024-08,Rawalpindi,Apparel,Distributor,231,818353
+2024-08,Rawalpindi,Apparel,Online,167,562135
+2024-08,Rawalpindi,Groceries,Retail Store,1807,1197282
+2024-08,Rawalpindi,Groceries,Distributor,919,608257
+2024-08,Rawalpindi,Groceries,Online,578,355018
+2024-08,Rawalpindi,Home & Kitchen,Retail Store,222,1276950
+2024-08,Rawalpindi,Home & Kitchen,Distributor,130,775395
+2024-08,Rawalpindi,Home & Kitchen,Online,96,532812
+2024-08,Rawalpindi,Beauty,Retail Store,481,869765
+2024-08,Rawalpindi,Beauty,Distributor,271,486461
+2024-08,Rawalpindi,Beauty,Online,197,340903
+2024-08,Faisalabad,Electronics,Retail Store,62,2787716
+2024-08,Faisalabad,Electronics,Distributor,33,1500147
+2024-08,Faisalabad,Electronics,Online,23,941152
+2024-08,Faisalabad,Apparel,Retail Store,458,1600049
+2024-08,Faisalabad,Apparel,Distributor,228,797482
+2024-08,Faisalabad,Apparel,Online,175,608769
+2024-08,Faisalabad,Groceries,Retail Store,1764,1110010
+2024-08,Faisalabad,Groceries,Distributor,1192,743435
+2024-08,Faisalabad,Groceries,Online,710,435441
+2024-08,Faisalabad,Home & Kitchen,Retail Store,246,1510460
+2024-08,Faisalabad,Home & Kitchen,Distributor,134,809627
+2024-08,Faisalabad,Home & Kitchen,Online,87,517773
+2024-08,Faisalabad,Beauty,Retail Store,536,977018
+2024-08,Faisalabad,Beauty,Distributor,314,573201
+2024-08,Faisalabad,Beauty,Online,189,331581
+2024-08,Multan,Electronics,Retail Store,34,1592086
+2024-08,Multan,Electronics,Distributor,22,1015353
+2024-08,Multan,Electronics,Online,15,673237
+2024-08,Multan,Apparel,Retail Store,255,873480
+2024-08,Multan,Apparel,Distributor,165,563806
+2024-08,Multan,Apparel,Online,102,355888
+2024-08,Multan,Groceries,Retail Store,1448,943720
+2024-08,Multan,Groceries,Distributor,719,484173
+2024-08,Multan,Groceries,Online,502,300805
+2024-08,Multan,Home & Kitchen,Retail Store,177,1097347
+2024-08,Multan,Home & Kitchen,Distributor,96,572533
+2024-08,Multan,Home & Kitchen,Online,66,394447
+2024-08,Multan,Beauty,Retail Store,363,672901
+2024-08,Multan,Beauty,Distributor,203,358854
+2024-08,Multan,Beauty,Online,134,230533
+2024-08,Peshawar,Electronics,Retail Store,47,2143906
+2024-08,Peshawar,Electronics,Distributor,25,1153032
+2024-08,Peshawar,Electronics,Online,15,630392
+2024-08,Peshawar,Apparel,Retail Store,354,1200431
+2024-08,Peshawar,Apparel,Distributor,169,588323
+2024-08,Peshawar,Apparel,Online,104,354768
+2024-08,Peshawar,Groceries,Retail Store,1431,885610
+2024-08,Peshawar,Groceries,Distributor,903,567992
+2024-08,Peshawar,Groceries,Online,562,339228
+2024-08,Peshawar,Home & Kitchen,Retail Store,207,1186723
+2024-08,Peshawar,Home & Kitchen,Distributor,101,577016
+2024-08,Peshawar,Home & Kitchen,Online,74,407265
+2024-08,Peshawar,Beauty,Retail Store,384,687377
+2024-08,Peshawar,Beauty,Distributor,215,370429
+2024-08,Peshawar,Beauty,Online,164,291463
+2024-08,Quetta,Electronics,Retail Store,27,1175950
+2024-08,Quetta,Electronics,Distributor,15,678341
+2024-08,Quetta,Electronics,Online,9,373315
+2024-08,Quetta,Apparel,Retail Store,193,690686
+2024-08,Quetta,Apparel,Distributor,99,362202
+2024-08,Quetta,Apparel,Online,60,195515
+2024-08,Quetta,Groceries,Retail Store,1028,658823
+2024-08,Quetta,Groceries,Distributor,426,264328
+2024-08,Quetta,Groceries,Online,351,221325
+2024-08,Quetta,Home & Kitchen,Retail Store,113,673876
+2024-08,Quetta,Home & Kitchen,Distributor,62,376107
+2024-08,Quetta,Home & Kitchen,Online,40,235080
+2024-08,Quetta,Beauty,Retail Store,257,444225
+2024-08,Quetta,Beauty,Distributor,126,229145
+2024-08,Quetta,Beauty,Online,71,115856
+2024-09,Karachi,Electronics,Retail Store,69,3090995
+2024-09,Karachi,Electronics,Distributor,41,1785345
+2024-09,Karachi,Electronics,Online,24,1069675
+2024-09,Karachi,Apparel,Retail Store,594,2168308
+2024-09,Karachi,Apparel,Distributor,295,1076377
+2024-09,Karachi,Apparel,Online,181,572459
+2024-09,Karachi,Groceries,Retail Store,2462,1675546
+2024-09,Karachi,Groceries,Distributor,1373,934459
+2024-09,Karachi,Groceries,Online,923,545909
+2024-09,Karachi,Home & Kitchen,Retail Store,233,1413913
+2024-09,Karachi,Home & Kitchen,Distributor,125,743794
+2024-09,Karachi,Home & Kitchen,Online,119,654802
+2024-09,Karachi,Beauty,Retail Store,590,1016867
+2024-09,Karachi,Beauty,Distributor,395,735812
+2024-09,Karachi,Beauty,Online,265,453595
+2024-09,Lahore,Electronics,Retail Store,97,4569919
+2024-09,Lahore,Electronics,Distributor,54,2398164
+2024-09,Lahore,Electronics,Online,41,1703599
+2024-09,Lahore,Apparel,Retail Store,785,2869096
+2024-09,Lahore,Apparel,Distributor,488,1659364
+2024-09,Lahore,Apparel,Online,333,1093739
+2024-09,Lahore,Groceries,Retail Store,3270,2070598
+2024-09,Lahore,Groceries,Distributor,1840,1247030
+2024-09,Lahore,Groceries,Online,1323,832714
+2024-09,Lahore,Home & Kitchen,Retail Store,372,2154014
+2024-09,Lahore,Home & Kitchen,Distributor,210,1281949
+2024-09,Lahore,Home & Kitchen,Online,152,829253
+2024-09,Lahore,Beauty,Retail Store,1150,2122531
+2024-09,Lahore,Beauty,Distributor,551,975440
+2024-09,Lahore,Beauty,Online,342,585994
+2024-09,Islamabad,Electronics,Retail Store,62,2775043
+2024-09,Islamabad,Electronics,Distributor,33,1507393
+2024-09,Islamabad,Electronics,Online,23,1021114
+2024-09,Islamabad,Apparel,Retail Store,481,1623170
+2024-09,Islamabad,Apparel,Distributor,271,966288
+2024-09,Islamabad,Apparel,Online,191,621522
+2024-09,Islamabad,Groceries,Retail Store,2237,1445482
+2024-09,Islamabad,Groceries,Distributor,1307,851409
+2024-09,Islamabad,Groceries,Online,800,470883
+2024-09,Islamabad,Home & Kitchen,Retail Store,319,1889830
+2024-09,Islamabad,Home & Kitchen,Distributor,163,939728
+2024-09,Islamabad,Home & Kitchen,Online,104,577879
+2024-09,Islamabad,Beauty,Retail Store,643,1145140
+2024-09,Islamabad,Beauty,Distributor,322,572519
+2024-09,Islamabad,Beauty,Online,221,381444
+2024-09,Rawalpindi,Electronics,Retail Store,52,2343541
+2024-09,Rawalpindi,Electronics,Distributor,27,1205436
+2024-09,Rawalpindi,Electronics,Online,17,747304
+2024-09,Rawalpindi,Apparel,Retail Store,423,1409772
+2024-09,Rawalpindi,Apparel,Distributor,238,854978
+2024-09,Rawalpindi,Apparel,Online,152,519933
+2024-09,Rawalpindi,Groceries,Retail Store,1789,1212755
+2024-09,Rawalpindi,Groceries,Distributor,1157,717632
+2024-09,Rawalpindi,Groceries,Online,621,385269
+2024-09,Rawalpindi,Home & Kitchen,Retail Store,229,1351506
+2024-09,Rawalpindi,Home & Kitchen,Distributor,133,759395
+2024-09,Rawalpindi,Home & Kitchen,Online,74,436253
+2024-09,Rawalpindi,Beauty,Retail Store,520,934109
+2024-09,Rawalpindi,Beauty,Distributor,308,553007
+2024-09,Rawalpindi,Beauty,Online,180,321510
+2024-09,Faisalabad,Electronics,Retail Store,61,2746116
+2024-09,Faisalabad,Electronics,Distributor,31,1384350
+2024-09,Faisalabad,Electronics,Online,23,983487
+2024-09,Faisalabad,Apparel,Retail Store,427,1458458
+2024-09,Faisalabad,Apparel,Distributor,247,895581
+2024-09,Faisalabad,Apparel,Online,146,474745
+2024-09,Faisalabad,Groceries,Retail Store,1605,1031763
+2024-09,Faisalabad,Groceries,Distributor,1063,723876
+2024-09,Faisalabad,Groceries,Online,709,429113
+2024-09,Faisalabad,Home & Kitchen,Retail Store,245,1454100
+2024-09,Faisalabad,Home & Kitchen,Distributor,146,891771
+2024-09,Faisalabad,Home & Kitchen,Online,99,574165
+2024-09,Faisalabad,Beauty,Retail Store,570,1011145
+2024-09,Faisalabad,Beauty,Distributor,320,588485
+2024-09,Faisalabad,Beauty,Online,190,320394
+2024-09,Multan,Electronics,Retail Store,37,1676980
+2024-09,Multan,Electronics,Distributor,23,1076409
+2024-09,Multan,Electronics,Online,13,530129
+2024-09,Multan,Apparel,Retail Store,274,922936
+2024-09,Multan,Apparel,Distributor,203,728057
+2024-09,Multan,Apparel,Online,111,380404
+2024-09,Multan,Groceries,Retail Store,1298,852688
+2024-09,Multan,Groceries,Distributor,701,465382
+2024-09,Multan,Groceries,Online,435,264356
+2024-09,Multan,Home & Kitchen,Retail Store,172,1033978
+2024-09,Multan,Home & Kitchen,Distributor,89,516801
+2024-09,Multan,Home & Kitchen,Online,66,357921
+2024-09,Multan,Beauty,Retail Store,387,680200
+2024-09,Multan,Beauty,Distributor,197,340709
+2024-09,Multan,Beauty,Online,114,190533
+2024-09,Peshawar,Electronics,Retail Store,47,2050057
+2024-09,Peshawar,Electronics,Distributor,25,1112081
+2024-09,Peshawar,Electronics,Online,14,588201
+2024-09,Peshawar,Apparel,Retail Store,366,1220179
+2024-09,Peshawar,Apparel,Distributor,175,628220
+2024-09,Peshawar,Apparel,Online,139,481980
+2024-09,Peshawar,Groceries,Retail Store,1565,1020487
+2024-09,Peshawar,Groceries,Distributor,817,545598
+2024-09,Peshawar,Groceries,Online,583,372396
+2024-09,Peshawar,Home & Kitchen,Retail Store,199,1186161
+2024-09,Peshawar,Home & Kitchen,Distributor,108,667855
+2024-09,Peshawar,Home & Kitchen,Online,76,451795
+2024-09,Peshawar,Beauty,Retail Store,371,700807
+2024-09,Peshawar,Beauty,Distributor,241,416156
+2024-09,Peshawar,Beauty,Online,149,242921
+2024-09,Quetta,Electronics,Retail Store,26,1205009
+2024-09,Quetta,Electronics,Distributor,16,745694
+2024-09,Quetta,Electronics,Online,9,376129
+2024-09,Quetta,Apparel,Retail Store,209,698031
+2024-09,Quetta,Apparel,Distributor,118,403303
+2024-09,Quetta,Apparel,Online,76,250807
+2024-09,Quetta,Groceries,Retail Store,905,574740
+2024-09,Quetta,Groceries,Distributor,500,322594
+2024-09,Quetta,Groceries,Online,343,211856
+2024-09,Quetta,Home & Kitchen,Retail Store,105,614714
+2024-09,Quetta,Home & Kitchen,Distributor,61,353256
+2024-09,Quetta,Home & Kitchen,Online,48,275400
+2024-09,Quetta,Beauty,Retail Store,256,475726
+2024-09,Quetta,Beauty,Distributor,136,256300
+2024-09,Quetta,Beauty,Online,87,155726
+2024-10,Karachi,Electronics,Retail Store,114,4946399
+2024-10,Karachi,Electronics,Distributor,67,2915499
+2024-10,Karachi,Electronics,Online,47,2026160
+2024-10,Karachi,Apparel,Retail Store,908,3314527
+2024-10,Karachi,Apparel,Distributor,607,2138068
+2024-10,Karachi,Apparel,Online,325,1032953
+2024-10,Karachi,Groceries,Retail Store,3761,2521877
+2024-10,Karachi,Groceries,Distributor,2154,1401814
+2024-10,Karachi,Groceries,Online,1529,959540
+2024-10,Karachi,Home & Kitchen,Retail Store,474,2968297
+2024-10,Karachi,Home & Kitchen,Distributor,282,1638867
+2024-10,Karachi,Home & Kitchen,Online,197,1132741
+2024-10,Karachi,Beauty,Retail Store,1179,2110030
+2024-10,Karachi,Beauty,Distributor,584,1009588
+2024-10,Karachi,Beauty,Online,466,795456
+2024-10,Lahore,Electronics,Retail Store,113,4875376
+2024-10,Lahore,Electronics,Distributor,72,3379201
+2024-10,Lahore,Electronics,Online,38,1594401
+2024-10,Lahore,Apparel,Retail Store,758,2640385
+2024-10,Lahore,Apparel,Distributor,433,1468526
+2024-10,Lahore,Apparel,Online,315,1021537
+2024-10,Lahore,Groceries,Retail Store,3755,2335104
+2024-10,Lahore,Groceries,Distributor,2067,1364204
+2024-10,Lahore,Groceries,Online,1598,1002105
+2024-10,Lahore,Home & Kitchen,Retail Store,384,2407646
+2024-10,Lahore,Home & Kitchen,Distributor,212,1319861
+2024-10,Lahore,Home & Kitchen,Online,169,945976
+2024-10,Lahore,Beauty,Retail Store,1154,2084922
+2024-10,Lahore,Beauty,Distributor,573,986083
+2024-10,Lahore,Beauty,Online,345,575470
+2024-10,Islamabad,Electronics,Retail Store,68,2967270
+2024-10,Islamabad,Electronics,Distributor,36,1640566
+2024-10,Islamabad,Electronics,Online,25,1052225
+2024-10,Islamabad,Apparel,Retail Store,486,1747243
+2024-10,Islamabad,Apparel,Distributor,279,985046
+2024-10,Islamabad,Apparel,Online,208,693120
+2024-10,Islamabad,Groceries,Retail Store,2177,1456606
+2024-10,Islamabad,Groceries,Distributor,1293,834491
+2024-10,Islamabad,Groceries,Online,907,587332
+2024-10,Islamabad,Home & Kitchen,Retail Store,311,1790014
+2024-10,Islamabad,Home & Kitchen,Distributor,143,825959
+2024-10,Islamabad,Home & Kitchen,Online,106,604664
+2024-10,Islamabad,Beauty,Retail Store,589,1099360
+2024-10,Islamabad,Beauty,Distributor,341,620702
+2024-10,Islamabad,Beauty,Online,236,417380
+2024-10,Rawalpindi,Electronics,Retail Store,49,2102783
+2024-10,Rawalpindi,Electronics,Distributor,29,1267973
+2024-10,Rawalpindi,Electronics,Online,24,1041226
+2024-10,Rawalpindi,Apparel,Retail Store,422,1430933
+2024-10,Rawalpindi,Apparel,Distributor,199,710693
+2024-10,Rawalpindi,Apparel,Online,142,452961
+2024-10,Rawalpindi,Groceries,Retail Store,1802,1202247
+2024-10,Rawalpindi,Groceries,Distributor,915,582398
+2024-10,Rawalpindi,Groceries,Online,750,472767
+2024-10,Rawalpindi,Home & Kitchen,Retail Store,200,1176915
+2024-10,Rawalpindi,Home & Kitchen,Distributor,128,732635
+2024-10,Rawalpindi,Home & Kitchen,Online,74,402531
+2024-10,Rawalpindi,Beauty,Retail Store,495,911448
+2024-10,Rawalpindi,Beauty,Distributor,248,457850
+2024-10,Rawalpindi,Beauty,Online,198,338108
+2024-10,Faisalabad,Electronics,Retail Store,66,2917919
+2024-10,Faisalabad,Electronics,Distributor,34,1519466
+2024-10,Faisalabad,Electronics,Online,25,1111299
+2024-10,Faisalabad,Apparel,Retail Store,370,1240447
+2024-10,Faisalabad,Apparel,Distributor,252,853838
+2024-10,Faisalabad,Apparel,Online,179,582526
+2024-10,Faisalabad,Groceries,Retail Store,2133,1423063
+2024-10,Faisalabad,Groceries,Distributor,945,640002
+2024-10,Faisalabad,Groceries,Online,794,469064
+2024-10,Faisalabad,Home & Kitchen,Retail Store,267,1534760
+2024-10,Faisalabad,Home & Kitchen,Distributor,140,880826
+2024-10,Faisalabad,Home & Kitchen,Online,86,475402
+2024-10,Faisalabad,Beauty,Retail Store,534,961008
+2024-10,Faisalabad,Beauty,Distributor,335,595567
+2024-10,Faisalabad,Beauty,Online,230,379085
+2024-10,Multan,Electronics,Retail Store,42,1925865
+2024-10,Multan,Electronics,Distributor,23,1021501
+2024-10,Multan,Electronics,Online,16,654529
+2024-10,Multan,Apparel,Retail Store,316,1058347
+2024-10,Multan,Apparel,Distributor,182,623499
+2024-10,Multan,Apparel,Online,126,400784
+2024-10,Multan,Groceries,Retail Store,1635,1098408
+2024-10,Multan,Groceries,Distributor,709,438902
+2024-10,Multan,Groceries,Online,492,314554
+2024-10,Multan,Home & Kitchen,Retail Store,132,795823
+2024-10,Multan,Home & Kitchen,Distributor,95,586845
+2024-10,Multan,Home & Kitchen,Online,73,416127
+2024-10,Multan,Beauty,Retail Store,411,713917
+2024-10,Multan,Beauty,Distributor,216,371372
+2024-10,Multan,Beauty,Online,156,277066
+2024-10,Peshawar,Electronics,Retail Store,49,2245840
+2024-10,Peshawar,Electronics,Distributor,25,1115840
+2024-10,Peshawar,Electronics,Online,21,899675
+2024-10,Peshawar,Apparel,Retail Store,367,1262265
+2024-10,Peshawar,Apparel,Distributor,211,720100
+2024-10,Peshawar,Apparel,Online,108,346529
+2024-10,Peshawar,Groceries,Retail Store,1301,854286
+2024-10,Peshawar,Groceries,Distributor,874,579113
+2024-10,Peshawar,Groceries,Online,554,333116
+2024-10,Peshawar,Home & Kitchen,Retail Store,201,1146739
+2024-10,Peshawar,Home & Kitchen,Distributor,103,634207
+2024-10,Peshawar,Home & Kitchen,Online,91,495093
+2024-10,Peshawar,Beauty,Retail Store,471,811502
+2024-10,Peshawar,Beauty,Distributor,265,489215
+2024-10,Peshawar,Beauty,Online,137,222813
+2024-10,Quetta,Electronics,Retail Store,28,1321897
+2024-10,Quetta,Electronics,Distributor,14,610438
+2024-10,Quetta,Electronics,Online,11,472848
+2024-10,Quetta,Apparel,Retail Store,214,770891
+2024-10,Quetta,Apparel,Distributor,110,400113
+2024-10,Quetta,Apparel,Online,69,223627
+2024-10,Quetta,Groceries,Retail Store,914,582064
+2024-10,Quetta,Groceries,Distributor,540,366161
+2024-10,Quetta,Groceries,Online,384,248373
+2024-10,Quetta,Home & Kitchen,Retail Store,109,656448
+2024-10,Quetta,Home & Kitchen,Distributor,74,426564
+2024-10,Quetta,Home & Kitchen,Online,46,262925
+2024-10,Quetta,Beauty,Retail Store,231,433740
+2024-10,Quetta,Beauty,Distributor,123,214713
+2024-10,Quetta,Beauty,Online,93,152620
+2024-11,Karachi,Electronics,Retail Store,178,8190786
+2024-11,Karachi,Electronics,Distributor,104,4769784
+2024-11,Karachi,Electronics,Online,72,3157212
+2024-11,Karachi,Apparel,Retail Store,897,3208051
+2024-11,Karachi,Apparel,Distributor,439,1509221
+2024-11,Karachi,Apparel,Online,379,1317761
+2024-11,Karachi,Groceries,Retail Store,3555,2348726
+2024-11,Karachi,Groceries,Distributor,2425,1616621
+2024-11,Karachi,Groceries,Online,1347,803525
+2024-11,Karachi,Home & Kitchen,Retail Store,442,2662459
+2024-11,Karachi,Home & Kitchen,Distributor,258,1559079
+2024-11,Karachi,Home & Kitchen,Online,192,1083924
+2024-11,Karachi,Beauty,Retail Store,1064,1931516
+2024-11,Karachi,Beauty,Distributor,590,1085387
+2024-11,Karachi,Beauty,Online,449,790075
+2024-11,Lahore,Electronics,Retail Store,151,6524011
+2024-11,Lahore,Electronics,Distributor,91,4106220
+2024-11,Lahore,Electronics,Online,51,2219288
+2024-11,Lahore,Apparel,Retail Store,757,2673948
+2024-11,Lahore,Apparel,Distributor,384,1375452
+2024-11,Lahore,Apparel,Online,348,1167914
+2024-11,Lahore,Groceries,Retail Store,3410,2180724
+2024-11,Lahore,Groceries,Distributor,2075,1397859
+2024-11,Lahore,Groceries,Online,1209,748032
+2024-11,Lahore,Home & Kitchen,Retail Store,509,2916686
+2024-11,Lahore,Home & Kitchen,Distributor,249,1448138
+2024-11,Lahore,Home & Kitchen,Online,207,1232305
+2024-11,Lahore,Beauty,Retail Store,996,1745262
+2024-11,Lahore,Beauty,Distributor,477,844717
+2024-11,Lahore,Beauty,Online,358,605038
+2024-11,Islamabad,Electronics,Retail Store,100,4636217
+2024-11,Islamabad,Electronics,Distributor,51,2272541
+2024-11,Islamabad,Electronics,Online,43,1916064
+2024-11,Islamabad,Apparel,Retail Store,512,1795968
+2024-11,Islamabad,Apparel,Distributor,256,870172
+2024-11,Islamabad,Apparel,Online,212,704801
+2024-11,Islamabad,Groceries,Retail Store,2198,1454847
+2024-11,Islamabad,Groceries,Distributor,1312,880870
+2024-11,Islamabad,Groceries,Online,850,501430
+2024-11,Islamabad,Home & Kitchen,Retail Store,295,1847360
+2024-11,Islamabad,Home & Kitchen,Distributor,149,906723
+2024-11,Islamabad,Home & Kitchen,Online,119,672858
+2024-11,Islamabad,Beauty,Retail Store,531,917258
+2024-11,Islamabad,Beauty,Distributor,305,567482
+2024-11,Islamabad,Beauty,Online,241,400847
+2024-11,Rawalpindi,Electronics,Retail Store,77,3366293
+2024-11,Rawalpindi,Electronics,Distributor,42,1901967
+2024-11,Rawalpindi,Electronics,Online,33,1428548
+2024-11,Rawalpindi,Apparel,Retail Store,392,1324116
+2024-11,Rawalpindi,Apparel,Distributor,228,830119
+2024-11,Rawalpindi,Apparel,Online,148,498561
+2024-11,Rawalpindi,Groceries,Retail Store,1518,1000436
+2024-11,Rawalpindi,Groceries,Distributor,1049,648881
+2024-11,Rawalpindi,Groceries,Online,813,506325
+2024-11,Rawalpindi,Home & Kitchen,Retail Store,230,1363065
+2024-11,Rawalpindi,Home & Kitchen,Distributor,122,732713
+2024-11,Rawalpindi,Home & Kitchen,Online,89,504103
+2024-11,Rawalpindi,Beauty,Retail Store,553,970498
+2024-11,Rawalpindi,Beauty,Distributor,277,492381
+2024-11,Rawalpindi,Beauty,Online,208,344047
+2024-11,Faisalabad,Electronics,Retail Store,97,4275064
+2024-11,Faisalabad,Electronics,Distributor,54,2429825
+2024-11,Faisalabad,Electronics,Online,35,1563582
+2024-11,Faisalabad,Apparel,Retail Store,438,1562552
+2024-11,Faisalabad,Apparel,Distributor,261,891794
+2024-11,Faisalabad,Apparel,Online,194,614797
+2024-11,Faisalabad,Groceries,Retail Store,2238,1480639
+2024-11,Faisalabad,Groceries,Distributor,1248,812545
+2024-11,Faisalabad,Groceries,Online,857,523697
+2024-11,Faisalabad,Home & Kitchen,Retail Store,242,1393913
+2024-11,Faisalabad,Home & Kitchen,Distributor,141,887924
+2024-11,Faisalabad,Home & Kitchen,Online,100,573282
+2024-11,Faisalabad,Beauty,Retail Store,561,1042798
+2024-11,Faisalabad,Beauty,Distributor,319,581086
+2024-11,Faisalabad,Beauty,Online,216,382619
+2024-11,Multan,Electronics,Retail Store,60,2790774
+2024-11,Multan,Electronics,Distributor,38,1657781
+2024-11,Multan,Electronics,Online,23,977867
+2024-11,Multan,Apparel,Retail Store,332,1123188
+2024-11,Multan,Apparel,Distributor,182,630781
+2024-11,Multan,Apparel,Online,122,421597
+2024-11,Multan,Groceries,Retail Store,1341,838912
+2024-11,Multan,Groceries,Distributor,690,467037
+2024-11,Multan,Groceries,Online,463,283239
+2024-11,Multan,Home & Kitchen,Retail Store,178,1116131
+2024-11,Multan,Home & Kitchen,Distributor,95,579542
+2024-11,Multan,Home & Kitchen,Online,70,409113
+2024-11,Multan,Beauty,Retail Store,359,623205
+2024-11,Multan,Beauty,Distributor,237,415191
+2024-11,Multan,Beauty,Online,152,256053
+2024-11,Peshawar,Electronics,Retail Store,70,3250567
+2024-11,Peshawar,Electronics,Distributor,32,1479297
+2024-11,Peshawar,Electronics,Online,27,1153587
+2024-11,Peshawar,Apparel,Retail Store,381,1381624
+2024-11,Peshawar,Apparel,Distributor,217,790043
+2024-11,Peshawar,Apparel,Online,140,486894
+2024-11,Peshawar,Groceries,Retail Store,1800,1220523
+2024-11,Peshawar,Groceries,Distributor,800,515970
+2024-11,Peshawar,Groceries,Online,643,390803
+2024-11,Peshawar,Home & Kitchen,Retail Store,205,1198182
+2024-11,Peshawar,Home & Kitchen,Distributor,113,677767
+2024-11,Peshawar,Home & Kitchen,Online,78,450387
+2024-11,Peshawar,Beauty,Retail Store,449,802429
+2024-11,Peshawar,Beauty,Distributor,219,382740
+2024-11,Peshawar,Beauty,Online,189,313442
+2024-11,Quetta,Electronics,Retail Store,43,1985307
+2024-11,Quetta,Electronics,Distributor,22,1025930
+2024-11,Quetta,Electronics,Online,17,754484
+2024-11,Quetta,Apparel,Retail Store,227,818236
+2024-11,Quetta,Apparel,Distributor,116,420062
+2024-11,Quetta,Apparel,Online,93,306756
+2024-11,Quetta,Groceries,Retail Store,958,637930
+2024-11,Quetta,Groceries,Distributor,462,313121
+2024-11,Quetta,Groceries,Online,363,225620
+2024-11,Quetta,Home & Kitchen,Retail Store,122,711927
+2024-11,Quetta,Home & Kitchen,Distributor,68,403779
+2024-11,Quetta,Home & Kitchen,Online,45,249984
+2024-11,Quetta,Beauty,Retail Store,231,428516
+2024-11,Quetta,Beauty,Distributor,133,229109
+2024-11,Quetta,Beauty,Online,87,148283
+2024-12,Karachi,Electronics,Retail Store,130,5819156
+2024-12,Karachi,Electronics,Distributor,64,2871902
+2024-12,Karachi,Electronics,Online,47,2009448
+2024-12,Karachi,Apparel,Retail Store,989,3571519
+2024-12,Karachi,Apparel,Distributor,568,1956466
+2024-12,Karachi,Apparel,Online,353,1215234
+2024-12,Karachi,Groceries,Retail Store,4161,2727013
+2024-12,Karachi,Groceries,Distributor,2204,1466864
+2024-12,Karachi,Groceries,Online,1857,1166352
+2024-12,Karachi,Home & Kitchen,Retail Store,509,3057403
+2024-12,Karachi,Home & Kitchen,Distributor,257,1523698
+2024-12,Karachi,Home & Kitchen,Online,207,1237355
+2024-12,Karachi,Beauty,Retail Store,1234,2117281
+2024-12,Karachi,Beauty,Distributor,603,1125639
+2024-12,Karachi,Beauty,Online,435,746285
+2024-12,Lahore,Electronics,Retail Store,108,5011776
+2024-12,Lahore,Electronics,Distributor,54,2422322
+2024-12,Lahore,Electronics,Online,43,1788608
+2024-12,Lahore,Apparel,Retail Store,784,2783185
+2024-12,Lahore,Apparel,Distributor,531,1811528
+2024-12,Lahore,Apparel,Online,282,971458
+2024-12,Lahore,Groceries,Retail Store,3397,2208752
+2024-12,Lahore,Groceries,Distributor,1891,1169185
+2024-12,Lahore,Groceries,Online,1365,843923
+2024-12,Lahore,Home & Kitchen,Retail Store,471,2785103
+2024-12,Lahore,Home & Kitchen,Distributor,234,1357378
+2024-12,Lahore,Home & Kitchen,Online,163,955552
+2024-12,Lahore,Beauty,Retail Store,1009,1796850
+2024-12,Lahore,Beauty,Distributor,533,911690
+2024-12,Lahore,Beauty,Online,385,661974
+2024-12,Islamabad,Electronics,Retail Store,76,3342039
+2024-12,Islamabad,Electronics,Distributor,38,1655540
+2024-12,Islamabad,Electronics,Online,28,1221742
+2024-12,Islamabad,Apparel,Retail Store,532,1786237
+2024-12,Islamabad,Apparel,Distributor,289,978624
+2024-12,Islamabad,Apparel,Online,204,668842
+2024-12,Islamabad,Groceries,Retail Store,2148,1355190
+2024-12,Islamabad,Groceries,Distributor,1254,814858
+2024-12,Islamabad,Groceries,Online,905,543486
+2024-12,Islamabad,Home & Kitchen,Retail Store,240,1488583
+2024-12,Islamabad,Home & Kitchen,Distributor,142,884553
+2024-12,Islamabad,Home & Kitchen,Online,112,662001
+2024-12,Islamabad,Beauty,Retail Store,673,1232497
+2024-12,Islamabad,Beauty,Distributor,345,630488
+2024-12,Islamabad,Beauty,Online,236,387439
+2024-12,Rawalpindi,Electronics,Retail Store,49,2110726
+2024-12,Rawalpindi,Electronics,Distributor,32,1432118
+2024-12,Rawalpindi,Electronics,Online,21,928374
+2024-12,Rawalpindi,Apparel,Retail Store,315,1065212
+2024-12,Rawalpindi,Apparel,Distributor,221,803467
+2024-12,Rawalpindi,Apparel,Online,175,596660
+2024-12,Rawalpindi,Groceries,Retail Store,1653,1090416
+2024-12,Rawalpindi,Groceries,Distributor,997,632480
+2024-12,Rawalpindi,Groceries,Online,748,444197
+2024-12,Rawalpindi,Home & Kitchen,Retail Store,207,1259114
+2024-12,Rawalpindi,Home & Kitchen,Distributor,136,792877
+2024-12,Rawalpindi,Home & Kitchen,Online,93,540005
+2024-12,Rawalpindi,Beauty,Retail Store,485,910972
+2024-12,Rawalpindi,Beauty,Distributor,269,500462
+2024-12,Rawalpindi,Beauty,Online,182,318684
+2024-12,Faisalabad,Electronics,Retail Store,54,2514223
+2024-12,Faisalabad,Electronics,Distributor,32,1458254
+2024-12,Faisalabad,Electronics,Online,24,1044415
+2024-12,Faisalabad,Apparel,Retail Store,451,1657145
+2024-12,Faisalabad,Apparel,Distributor,279,933661
+2024-12,Faisalabad,Apparel,Online,196,626872
+2024-12,Faisalabad,Groceries,Retail Store,1755,1121218
+2024-12,Faisalabad,Groceries,Distributor,1219,767297
+2024-12,Faisalabad,Groceries,Online,800,471521
+2024-12,Faisalabad,Home & Kitchen,Retail Store,271,1551195
+2024-12,Faisalabad,Home & Kitchen,Distributor,135,814753
+2024-12,Faisalabad,Home & Kitchen,Online,104,598534
+2024-12,Faisalabad,Beauty,Retail Store,508,953108
+2024-12,Faisalabad,Beauty,Distributor,315,577158
+2024-12,Faisalabad,Beauty,Online,244,436260
+2024-12,Multan,Electronics,Retail Store,35,1612654
+2024-12,Multan,Electronics,Distributor,23,1006019
+2024-12,Multan,Electronics,Online,15,656406
+2024-12,Multan,Apparel,Retail Store,349,1215541
+2024-12,Multan,Apparel,Distributor,177,639721
+2024-12,Multan,Apparel,Online,130,438438
+2024-12,Multan,Groceries,Retail Store,1346,854818
+2024-12,Multan,Groceries,Distributor,900,558421
+2024-12,Multan,Groceries,Online,533,326922
+2024-12,Multan,Home & Kitchen,Retail Store,156,912165
+2024-12,Multan,Home & Kitchen,Distributor,88,532637
+2024-12,Multan,Home & Kitchen,Online,75,408870
+2024-12,Multan,Beauty,Retail Store,377,670217
+2024-12,Multan,Beauty,Distributor,203,362890
+2024-12,Multan,Beauty,Online,146,245187
+2024-12,Peshawar,Electronics,Retail Store,47,2207964
+2024-12,Peshawar,Electronics,Distributor,24,1072622
+2024-12,Peshawar,Electronics,Online,20,847684
+2024-12,Peshawar,Apparel,Retail Store,350,1202671
+2024-12,Peshawar,Apparel,Distributor,185,641987
+2024-12,Peshawar,Apparel,Online,156,514055
+2024-12,Peshawar,Groceries,Retail Store,1466,993942
+2024-12,Peshawar,Groceries,Distributor,875,575658
+2024-12,Peshawar,Groceries,Online,547,321568
+2024-12,Peshawar,Home & Kitchen,Retail Store,177,1031924
+2024-12,Peshawar,Home & Kitchen,Distributor,105,623782
+2024-12,Peshawar,Home & Kitchen,Online,77,416998
+2024-12,Peshawar,Beauty,Retail Store,418,721820
+2024-12,Peshawar,Beauty,Distributor,253,447616
+2024-12,Peshawar,Beauty,Online,189,314200
+2024-12,Quetta,Electronics,Retail Store,27,1268626
+2024-12,Quetta,Electronics,Distributor,13,563171
+2024-12,Quetta,Electronics,Online,10,448075
+2024-12,Quetta,Apparel,Retail Store,236,835110
+2024-12,Quetta,Apparel,Distributor,133,446342
+2024-12,Quetta,Apparel,Online,89,287166
+2024-12,Quetta,Groceries,Retail Store,837,539702
+2024-12,Quetta,Groceries,Distributor,491,332913
+2024-12,Quetta,Groceries,Online,376,243721
+2024-12,Quetta,Home & Kitchen,Retail Store,114,694176
+2024-12,Quetta,Home & Kitchen,Distributor,67,384216
+2024-12,Quetta,Home & Kitchen,Online,48,275455
+2024-12,Quetta,Beauty,Retail Store,229,397739
+2024-12,Quetta,Beauty,Distributor,129,236229
+2024-12,Quetta,Beauty,Online,109,179959
+2025-01,Karachi,Electronics,Retail Store,137,6383483
+2025-01,Karachi,Electronics,Distributor,68,3123912
+2025-01,Karachi,Electronics,Online,58,2357380
+2025-01,Karachi,Apparel,Retail Store,932,3318806
+2025-01,Karachi,Apparel,Distributor,467,1649176
+2025-01,Karachi,Apparel,Online,408,1368558
+2025-01,Karachi,Groceries,Retail Store,5109,3386364
+2025-01,Karachi,Groceries,Distributor,2013,1270196
+2025-01,Karachi,Groceries,Online,1940,1243701
+2025-01,Karachi,Home & Kitchen,Retail Store,536,3206928
+2025-01,Karachi,Home & Kitchen,Distributor,264,1518404
+2025-01,Karachi,Home & Kitchen,Online,183,992112
+2025-01,Karachi,Beauty,Retail Store,926,1620543
+2025-01,Karachi,Beauty,Distributor,589,1025070
+2025-01,Karachi,Beauty,Online,490,831052
+2025-01,Lahore,Electronics,Retail Store,117,5422082
+2025-01,Lahore,Electronics,Distributor,65,3034774
+2025-01,Lahore,Electronics,Online,47,2064844
+2025-01,Lahore,Apparel,Retail Store,830,3025087
+2025-01,Lahore,Apparel,Distributor,435,1497589
+2025-01,Lahore,Apparel,Online,357,1129076
+2025-01,Lahore,Groceries,Retail Store,3455,2351254
+2025-01,Lahore,Groceries,Distributor,1797,1178817
+2025-01,Lahore,Groceries,Online,1546,958754
+2025-01,Lahore,Home & Kitchen,Retail Store,485,2846988
+2025-01,Lahore,Home & Kitchen,Distributor,220,1278198
+2025-01,Lahore,Home & Kitchen,Online,183,1058831
+2025-01,Lahore,Beauty,Retail Store,1006,1888772
+2025-01,Lahore,Beauty,Distributor,548,1017918
+2025-01,Lahore,Beauty,Online,441,769946
+2025-01,Islamabad,Electronics,Retail Store,78,3641660
+2025-01,Islamabad,Electronics,Distributor,30,1320059
+2025-01,Islamabad,Electronics,Online,33,1425739
+2025-01,Islamabad,Apparel,Retail Store,588,2004758
+2025-01,Islamabad,Apparel,Distributor,300,1055133
+2025-01,Islamabad,Apparel,Online,220,739576
+2025-01,Islamabad,Groceries,Retail Store,2162,1450534
+2025-01,Islamabad,Groceries,Distributor,1333,870692
+2025-01,Islamabad,Groceries,Online,981,604125
+2025-01,Islamabad,Home & Kitchen,Retail Store,277,1613816
+2025-01,Islamabad,Home & Kitchen,Distributor,166,955969
+2025-01,Islamabad,Home & Kitchen,Online,130,747973
+2025-01,Islamabad,Beauty,Retail Store,489,901824
+2025-01,Islamabad,Beauty,Distributor,380,702770
+2025-01,Islamabad,Beauty,Online,248,407573
+2025-01,Rawalpindi,Electronics,Retail Store,60,2767726
+2025-01,Rawalpindi,Electronics,Distributor,29,1355804
+2025-01,Rawalpindi,Electronics,Online,23,1002737
+2025-01,Rawalpindi,Apparel,Retail Store,424,1515007
+2025-01,Rawalpindi,Apparel,Distributor,244,819119
+2025-01,Rawalpindi,Apparel,Online,183,592330
+2025-01,Rawalpindi,Groceries,Retail Store,1776,1182375
+2025-01,Rawalpindi,Groceries,Distributor,825,540043
+2025-01,Rawalpindi,Groceries,Online,801,476875
+2025-01,Rawalpindi,Home & Kitchen,Retail Store,231,1435852
+2025-01,Rawalpindi,Home & Kitchen,Distributor,111,657874
+2025-01,Rawalpindi,Home & Kitchen,Online,98,534271
+2025-01,Rawalpindi,Beauty,Retail Store,502,879212
+2025-01,Rawalpindi,Beauty,Distributor,304,558478
+2025-01,Rawalpindi,Beauty,Online,245,398211
+2025-01,Faisalabad,Electronics,Retail Store,66,3010256
+2025-01,Faisalabad,Electronics,Distributor,33,1548006
+2025-01,Faisalabad,Electronics,Online,26,1105652
+2025-01,Faisalabad,Apparel,Retail Store,432,1533550
+2025-01,Faisalabad,Apparel,Distributor,239,815477
+2025-01,Faisalabad,Apparel,Online,193,615898
+2025-01,Faisalabad,Groceries,Retail Store,2020,1350137
+2025-01,Faisalabad,Groceries,Distributor,1001,650359
+2025-01,Faisalabad,Groceries,Online,962,573343
+2025-01,Faisalabad,Home & Kitchen,Retail Store,289,1694101
+2025-01,Faisalabad,Home & Kitchen,Distributor,155,924597
+2025-01,Faisalabad,Home & Kitchen,Online,122,722021
+2025-01,Faisalabad,Beauty,Retail Store,672,1203072
+2025-01,Faisalabad,Beauty,Distributor,288,501912
+2025-01,Faisalabad,Beauty,Online,282,479735
+2025-01,Multan,Electronics,Retail Store,39,1836434
+2025-01,Multan,Electronics,Distributor,23,1058138
+2025-01,Multan,Electronics,Online,15,667337
+2025-01,Multan,Apparel,Retail Store,296,1047495
+2025-01,Multan,Apparel,Distributor,182,622177
+2025-01,Multan,Apparel,Online,137,437938
+2025-01,Multan,Groceries,Retail Store,1329,888117
+2025-01,Multan,Groceries,Distributor,753,480458
+2025-01,Multan,Groceries,Online,550,338050
+2025-01,Multan,Home & Kitchen,Retail Store,185,1156519
+2025-01,Multan,Home & Kitchen,Distributor,78,489742
+2025-01,Multan,Home & Kitchen,Online,80,435365
+2025-01,Multan,Beauty,Retail Store,353,628428
+2025-01,Multan,Beauty,Distributor,205,385723
+2025-01,Multan,Beauty,Online,141,252186
+2025-01,Peshawar,Electronics,Retail Store,48,2190444
+2025-01,Peshawar,Electronics,Distributor,27,1194524
+2025-01,Peshawar,Electronics,Online,20,828212
+2025-01,Peshawar,Apparel,Retail Store,373,1279624
+2025-01,Peshawar,Apparel,Distributor,194,693338
+2025-01,Peshawar,Apparel,Online,150,496321
+2025-01,Peshawar,Groceries,Retail Store,1581,992658
+2025-01,Peshawar,Groceries,Distributor,836,530935
+2025-01,Peshawar,Groceries,Online,652,389009
+2025-01,Peshawar,Home & Kitchen,Retail Store,207,1221041
+2025-01,Peshawar,Home & Kitchen,Distributor,121,703524
+2025-01,Peshawar,Home & Kitchen,Online,77,440732
+2025-01,Peshawar,Beauty,Retail Store,436,799625
+2025-01,Peshawar,Beauty,Distributor,217,387741
+2025-01,Peshawar,Beauty,Online,177,290512
+2025-01,Quetta,Electronics,Retail Store,26,1195900
+2025-01,Quetta,Electronics,Distributor,15,698156
+2025-01,Quetta,Electronics,Online,11,483272
+2025-01,Quetta,Apparel,Retail Store,205,703389
+2025-01,Quetta,Apparel,Distributor,115,422465
+2025-01,Quetta,Apparel,Online,80,274698
+2025-01,Quetta,Groceries,Retail Store,927,616715
+2025-01,Quetta,Groceries,Distributor,528,355501
+2025-01,Quetta,Groceries,Online,357,209443
+2025-01,Quetta,Home & Kitchen,Retail Store,98,579407
+2025-01,Quetta,Home & Kitchen,Distributor,67,389383
+2025-01,Quetta,Home & Kitchen,Online,43,234566
+2025-01,Quetta,Beauty,Retail Store,240,449972
+2025-01,Quetta,Beauty,Distributor,144,271699
+2025-01,Quetta,Beauty,Online,98,161590
+2025-02,Karachi,Electronics,Retail Store,133,6045332
+2025-02,Karachi,Electronics,Distributor,63,2720520
+2025-02,Karachi,Electronics,Online,50,2047007
+2025-02,Karachi,Apparel,Retail Store,842,3090398
+2025-02,Karachi,Apparel,Distributor,478,1708260
+2025-02,Karachi,Apparel,Online,423,1431512
+2025-02,Karachi,Groceries,Retail Store,3945,2658359
+2025-02,Karachi,Groceries,Distributor,2434,1503685
+2025-02,Karachi,Groceries,Online,1804,1162652
+2025-02,Karachi,Home & Kitchen,Retail Store,520,3117352
+2025-02,Karachi,Home & Kitchen,Distributor,262,1502469
+2025-02,Karachi,Home & Kitchen,Online,246,1434031
+2025-02,Karachi,Beauty,Retail Store,1202,2086424
+2025-02,Karachi,Beauty,Distributor,654,1141299
+2025-02,Karachi,Beauty,Online,488,838939
+2025-02,Lahore,Electronics,Retail Store,98,4475214
+2025-02,Lahore,Electronics,Distributor,60,2714853
+2025-02,Lahore,Electronics,Online,50,2063607
+2025-02,Lahore,Apparel,Retail Store,860,3088714
+2025-02,Lahore,Apparel,Distributor,463,1688023
+2025-02,Lahore,Apparel,Online,370,1282934
+2025-02,Lahore,Groceries,Retail Store,3463,2139216
+2025-02,Lahore,Groceries,Distributor,1896,1184273
+2025-02,Lahore,Groceries,Online,1454,884530
+2025-02,Lahore,Home & Kitchen,Retail Store,496,3062497
+2025-02,Lahore,Home & Kitchen,Distributor,288,1666904
+2025-02,Lahore,Home & Kitchen,Online,248,1344757
+2025-02,Lahore,Beauty,Retail Store,1026,1815515
+2025-02,Lahore,Beauty,Distributor,565,1048717
+2025-02,Lahore,Beauty,Online,435,758396
+2025-02,Islamabad,Electronics,Retail Store,69,3200582
+2025-02,Islamabad,Electronics,Distributor,34,1483310
+2025-02,Islamabad,Electronics,Online,29,1237706
+2025-02,Islamabad,Apparel,Retail Store,482,1621565
+2025-02,Islamabad,Apparel,Distributor,274,920633
+2025-02,Islamabad,Apparel,Online,212,678998
+2025-02,Islamabad,Groceries,Retail Store,2387,1518171
+2025-02,Islamabad,Groceries,Distributor,1315,839542
+2025-02,Islamabad,Groceries,Online,1026,637544
+2025-02,Islamabad,Home & Kitchen,Retail Store,271,1593468
+2025-02,Islamabad,Home & Kitchen,Distributor,141,850756
+2025-02,Islamabad,Home & Kitchen,Online,131,769243
+2025-02,Islamabad,Beauty,Retail Store,631,1132685
+2025-02,Islamabad,Beauty,Distributor,294,532005
+2025-02,Islamabad,Beauty,Online,278,474856
+2025-02,Rawalpindi,Electronics,Retail Store,56,2596608
+2025-02,Rawalpindi,Electronics,Distributor,26,1147624
+2025-02,Rawalpindi,Electronics,Online,25,1019905
+2025-02,Rawalpindi,Apparel,Retail Store,366,1306123
+2025-02,Rawalpindi,Apparel,Distributor,211,736808
+2025-02,Rawalpindi,Apparel,Online,160,517534
+2025-02,Rawalpindi,Groceries,Retail Store,1709,1140111
+2025-02,Rawalpindi,Groceries,Distributor,903,565830
+2025-02,Rawalpindi,Groceries,Online,866,539822
+2025-02,Rawalpindi,Home & Kitchen,Retail Store,224,1372214
+2025-02,Rawalpindi,Home & Kitchen,Distributor,120,743026
+2025-02,Rawalpindi,Home & Kitchen,Online,109,623373
+2025-02,Rawalpindi,Beauty,Retail Store,547,945734
+2025-02,Rawalpindi,Beauty,Distributor,266,456469
+2025-02,Rawalpindi,Beauty,Online,225,369138
+2025-02,Faisalabad,Electronics,Retail Store,59,2691833
+2025-02,Faisalabad,Electronics,Distributor,33,1473277
+2025-02,Faisalabad,Electronics,Online,24,1019164
+2025-02,Faisalabad,Apparel,Retail Store,480,1717037
+2025-02,Faisalabad,Apparel,Distributor,277,968682
+2025-02,Faisalabad,Apparel,Online,218,758650
+2025-02,Faisalabad,Groceries,Retail Store,2072,1346393
+2025-02,Faisalabad,Groceries,Distributor,957,592595
+2025-02,Faisalabad,Groceries,Online,856,519022
+2025-02,Faisalabad,Home & Kitchen,Retail Store,256,1612709
+2025-02,Faisalabad,Home & Kitchen,Distributor,125,716052
+2025-02,Faisalabad,Home & Kitchen,Online,99,537524
+2025-02,Faisalabad,Beauty,Retail Store,634,1092307
+2025-02,Faisalabad,Beauty,Distributor,330,619952
+2025-02,Faisalabad,Beauty,Online,258,446326
+2025-02,Multan,Electronics,Retail Store,43,1850629
+2025-02,Multan,Electronics,Distributor,20,864161
+2025-02,Multan,Electronics,Online,16,671088
+2025-02,Multan,Apparel,Retail Store,315,1095227
+2025-02,Multan,Apparel,Distributor,172,620141
+2025-02,Multan,Apparel,Online,120,412840
+2025-02,Multan,Groceries,Retail Store,1392,936357
+2025-02,Multan,Groceries,Distributor,745,470838
+2025-02,Multan,Groceries,Online,645,389325
+2025-02,Multan,Home & Kitchen,Retail Store,176,1028826
+2025-02,Multan,Home & Kitchen,Distributor,105,620635
+2025-02,Multan,Home & Kitchen,Online,72,426124
+2025-02,Multan,Beauty,Retail Store,344,620486
+2025-02,Multan,Beauty,Distributor,232,431037
+2025-02,Multan,Beauty,Online,170,279174
+2025-02,Peshawar,Electronics,Retail Store,47,2151354
+2025-02,Peshawar,Electronics,Distributor,24,1089679
+2025-02,Peshawar,Electronics,Online,20,845827
+2025-02,Peshawar,Apparel,Retail Store,349,1174607
+2025-02,Peshawar,Apparel,Distributor,178,612343
+2025-02,Peshawar,Apparel,Online,130,426039
+2025-02,Peshawar,Groceries,Retail Store,1549,1004898
+2025-02,Peshawar,Groceries,Distributor,927,612610
+2025-02,Peshawar,Groceries,Online,772,469379
+2025-02,Peshawar,Home & Kitchen,Retail Store,216,1308498
+2025-02,Peshawar,Home & Kitchen,Distributor,118,695987
+2025-02,Peshawar,Home & Kitchen,Online,80,462722
+2025-02,Peshawar,Beauty,Retail Store,450,805224
+2025-02,Peshawar,Beauty,Distributor,250,429134
+2025-02,Peshawar,Beauty,Online,201,332133
+2025-02,Quetta,Electronics,Retail Store,27,1205807
+2025-02,Quetta,Electronics,Distributor,15,703039
+2025-02,Quetta,Electronics,Online,13,580996
+2025-02,Quetta,Apparel,Retail Store,221,801831
+2025-02,Quetta,Apparel,Distributor,116,408307
+2025-02,Quetta,Apparel,Online,94,318340
+2025-02,Quetta,Groceries,Retail Store,882,598785
+2025-02,Quetta,Groceries,Distributor,524,332716
+2025-02,Quetta,Groceries,Online,404,254425
+2025-02,Quetta,Home & Kitchen,Retail Store,122,697475
+2025-02,Quetta,Home & Kitchen,Distributor,59,369113
+2025-02,Quetta,Home & Kitchen,Online,53,290323
+2025-02,Quetta,Beauty,Retail Store,245,447525
+2025-02,Quetta,Beauty,Distributor,145,269728
+2025-02,Quetta,Beauty,Online,112,199319
+2025-03,Karachi,Electronics,Retail Store,124,5754379
+2025-03,Karachi,Electronics,Distributor,66,2896258
+2025-03,Karachi,Electronics,Online,55,2257391
+2025-03,Karachi,Apparel,Retail Store,1304,4396947
+2025-03,Karachi,Apparel,Distributor,718,2401016
+2025-03,Karachi,Apparel,Online,633,2048335
+2025-03,Karachi,Groceries,Retail Store,5208,3482283
+2025-03,Karachi,Groceries,Distributor,3465,2331143
+2025-03,Karachi,Groceries,Online,2881,1750957
+2025-03,Karachi,Home & Kitchen,Retail Store,506,3006433
+2025-03,Karachi,Home & Kitchen,Distributor,285,1714901
+2025-03,Karachi,Home & Kitchen,Online,216,1277797
+2025-03,Karachi,Beauty,Retail Store,1173,2179305
+2025-03,Karachi,Beauty,Distributor,579,1048203
+2025-03,Karachi,Beauty,Online,403,671757
+2025-03,Lahore,Electronics,Retail Store,121,5478727
+2025-03,Lahore,Electronics,Distributor,55,2431029
+2025-03,Lahore,Electronics,Online,49,2114910
+2025-03,Lahore,Apparel,Retail Store,1218,4129934
+2025-03,Lahore,Apparel,Distributor,678,2340813
+2025-03,Lahore,Apparel,Online,543,1775986
+2025-03,Lahore,Groceries,Retail Store,5451,3634048
+2025-03,Lahore,Groceries,Distributor,2843,1907388
+2025-03,Lahore,Groceries,Online,2125,1319961
+2025-03,Lahore,Home & Kitchen,Retail Store,458,2620243
+2025-03,Lahore,Home & Kitchen,Distributor,262,1616375
+2025-03,Lahore,Home & Kitchen,Online,191,1132499
+2025-03,Lahore,Beauty,Retail Store,1027,1902551
+2025-03,Lahore,Beauty,Distributor,633,1172392
+2025-03,Lahore,Beauty,Online,454,759897
+2025-03,Islamabad,Electronics,Retail Store,68,3149664
+2025-03,Islamabad,Electronics,Distributor,32,1411381
+2025-03,Islamabad,Electronics,Online,28,1252872
+2025-03,Islamabad,Apparel,Retail Store,700,2437046
+2025-03,Islamabad,Apparel,Distributor,427,1480975
+2025-03,Islamabad,Apparel,Online,314,1036985
+2025-03,Islamabad,Groceries,Retail Store,2832,1916098
+2025-03,Islamabad,Groceries,Distributor,1872,1224624
+2025-03,Islamabad,Groceries,Online,1420,894846
+2025-03,Islamabad,Home & Kitchen,Retail Store,252,1521523
+2025-03,Islamabad,Home & Kitchen,Distributor,165,1014723
+2025-03,Islamabad,Home & Kitchen,Online,126,735877
+2025-03,Islamabad,Beauty,Retail Store,655,1178808
+2025-03,Islamabad,Beauty,Distributor,301,514844
+2025-03,Islamabad,Beauty,Online,235,406271
+2025-03,Rawalpindi,Electronics,Retail Store,55,2553298
+2025-03,Rawalpindi,Electronics,Distributor,27,1246383
+2025-03,Rawalpindi,Electronics,Online,25,1106605
+2025-03,Rawalpindi,Apparel,Retail Store,605,2132430
+2025-03,Rawalpindi,Apparel,Distributor,326,1157530
+2025-03,Rawalpindi,Apparel,Online,294,984110
+2025-03,Rawalpindi,Groceries,Retail Store,3260,2184676
+2025-03,Rawalpindi,Groceries,Distributor,1495,950184
+2025-03,Rawalpindi,Groceries,Online,1386,873594
+2025-03,Rawalpindi,Home & Kitchen,Retail Store,199,1250269
+2025-03,Rawalpindi,Home & Kitchen,Distributor,121,744540
+2025-03,Rawalpindi,Home & Kitchen,Online,93,512722
+2025-03,Rawalpindi,Beauty,Retail Store,478,883233
+2025-03,Rawalpindi,Beauty,Distributor,269,502030
+2025-03,Rawalpindi,Beauty,Online,264,446065
+2025-03,Faisalabad,Electronics,Retail Store,62,2771119
+2025-03,Faisalabad,Electronics,Distributor,36,1563872
+2025-03,Faisalabad,Electronics,Online,27,1152448
+2025-03,Faisalabad,Apparel,Retail Store,644,2145017
+2025-03,Faisalabad,Apparel,Distributor,320,1082410
+2025-03,Faisalabad,Apparel,Online,352,1204965
+2025-03,Faisalabad,Groceries,Retail Store,3344,2193636
+2025-03,Faisalabad,Groceries,Distributor,1663,1059718
+2025-03,Faisalabad,Groceries,Online,1331,825517
+2025-03,Faisalabad,Home & Kitchen,Retail Store,260,1517139
+2025-03,Faisalabad,Home & Kitchen,Distributor,125,747821
+2025-03,Faisalabad,Home & Kitchen,Online,121,724023
+2025-03,Faisalabad,Beauty,Retail Store,629,1172049
+2025-03,Faisalabad,Beauty,Distributor,344,622494
+2025-03,Faisalabad,Beauty,Online,225,385490
+2025-03,Multan,Electronics,Retail Store,44,2039223
+2025-03,Multan,Electronics,Distributor,20,938326
+2025-03,Multan,Electronics,Online,15,642168
+2025-03,Multan,Apparel,Retail Store,489,1712173
+2025-03,Multan,Apparel,Distributor,235,796546
+2025-03,Multan,Apparel,Online,219,750908
+2025-03,Multan,Groceries,Retail Store,2135,1385378
+2025-03,Multan,Groceries,Distributor,1152,734331
+2025-03,Multan,Groceries,Online,910,541721
+2025-03,Multan,Home & Kitchen,Retail Store,155,924953
+2025-03,Multan,Home & Kitchen,Distributor,91,539831
+2025-03,Multan,Home & Kitchen,Online,86,478272
+2025-03,Multan,Beauty,Retail Store,408,703093
+2025-03,Multan,Beauty,Distributor,202,374218
+2025-03,Multan,Beauty,Online,168,293671
+2025-03,Peshawar,Electronics,Retail Store,50,2317660
+2025-03,Peshawar,Electronics,Distributor,26,1168153
+2025-03,Peshawar,Electronics,Online,21,879130
+2025-03,Peshawar,Apparel,Retail Store,546,1878144
+2025-03,Peshawar,Apparel,Distributor,297,996548
+2025-03,Peshawar,Apparel,Online,225,785357
+2025-03,Peshawar,Groceries,Retail Store,2395,1547147
+2025-03,Peshawar,Groceries,Distributor,1315,823126
+2025-03,Peshawar,Groceries,Online,1055,633225
+2025-03,Peshawar,Home & Kitchen,Retail Store,189,1077754
+2025-03,Peshawar,Home & Kitchen,Distributor,106,619876
+2025-03,Peshawar,Home & Kitchen,Online,84,465670
+2025-03,Peshawar,Beauty,Retail Store,455,804873
+2025-03,Peshawar,Beauty,Distributor,211,394622
+2025-03,Peshawar,Beauty,Online,224,390491
+2025-03,Quetta,Electronics,Retail Store,30,1304065
+2025-03,Quetta,Electronics,Distributor,15,706339
+2025-03,Quetta,Electronics,Online,13,543385
+2025-03,Quetta,Apparel,Retail Store,320,1157577
+2025-03,Quetta,Apparel,Distributor,165,581003
+2025-03,Quetta,Apparel,Online,133,449851
+2025-03,Quetta,Groceries,Retail Store,1302,820045
+2025-03,Quetta,Groceries,Distributor,819,557112
+2025-03,Quetta,Groceries,Online,565,345946
+2025-03,Quetta,Home & Kitchen,Retail Store,107,613868
+2025-03,Quetta,Home & Kitchen,Distributor,67,390609
+2025-03,Quetta,Home & Kitchen,Online,55,314578
+2025-03,Quetta,Beauty,Retail Store,248,425429
+2025-03,Quetta,Beauty,Distributor,144,250814
+2025-03,Quetta,Beauty,Online,120,210451
+2025-04,Karachi,Electronics,Retail Store,111,4939722
+2025-04,Karachi,Electronics,Distributor,75,3496223
+2025-04,Karachi,Electronics,Online,61,2532175
+2025-04,Karachi,Apparel,Retail Store,968,3287427
+2025-04,Karachi,Apparel,Distributor,537,1801113
+2025-04,Karachi,Apparel,Online,450,1483839
+2025-04,Karachi,Groceries,Retail Store,4127,2563791
+2025-04,Karachi,Groceries,Distributor,1916,1296255
+2025-04,Karachi,Groceries,Online,1973,1240190
+2025-04,Karachi,Home & Kitchen,Retail Store,462,2749771
+2025-04,Karachi,Home & Kitchen,Distributor,328,1894906
+2025-04,Karachi,Home & Kitchen,Online,241,1384116
+2025-04,Karachi,Beauty,Retail Store,1324,2409612
+2025-04,Karachi,Beauty,Distributor,631,1118292
+2025-04,Karachi,Beauty,Online,511,906868
+2025-04,Lahore,Electronics,Retail Store,122,5529262
+2025-04,Lahore,Electronics,Distributor,62,2665380
+2025-04,Lahore,Electronics,Online,62,2563299
+2025-04,Lahore,Apparel,Retail Store,790,2761418
+2025-04,Lahore,Apparel,Distributor,502,1685763
+2025-04,Lahore,Apparel,Online,464,1612579
+2025-04,Lahore,Groceries,Retail Store,4111,2640461
+2025-04,Lahore,Groceries,Distributor,2137,1402978
+2025-04,Lahore,Groceries,Online,1931,1197465
+2025-04,Lahore,Home & Kitchen,Retail Store,458,2727001
+2025-04,Lahore,Home & Kitchen,Distributor,235,1346181
+2025-04,Lahore,Home & Kitchen,Online,208,1177304
+2025-04,Lahore,Beauty,Retail Store,1023,1794272
+2025-04,Lahore,Beauty,Distributor,590,1081573
+2025-04,Lahore,Beauty,Online,448,739505
+2025-04,Islamabad,Electronics,Retail Store,67,3066283
+2025-04,Islamabad,Electronics,Distributor,35,1611886
+2025-04,Islamabad,Electronics,Online,35,1534909
+2025-04,Islamabad,Apparel,Retail Store,601,2157005
+2025-04,Islamabad,Apparel,Distributor,261,943862
+2025-04,Islamabad,Apparel,Online,255,873464
+2025-04,Islamabad,Groceries,Retail Store,2520,1633939
+2025-04,Islamabad,Groceries,Distributor,1242,808506
+2025-04,Islamabad,Groceries,Online,968,593637
+2025-04,Islamabad,Home & Kitchen,Retail Store,318,1965117
+2025-04,Islamabad,Home & Kitchen,Distributor,139,813060
+2025-04,Islamabad,Home & Kitchen,Online,153,894506
+2025-04,Islamabad,Beauty,Retail Store,600,1123945
+2025-04,Islamabad,Beauty,Distributor,304,551531
+2025-04,Islamabad,Beauty,Online,287,514080
+2025-04,Rawalpindi,Electronics,Retail Store,55,2530622
+2025-04,Rawalpindi,Electronics,Distributor,30,1342064
+2025-04,Rawalpindi,Electronics,Online,27,1118348
+2025-04,Rawalpindi,Apparel,Retail Store,425,1489100
+2025-04,Rawalpindi,Apparel,Distributor,260,929749
+2025-04,Rawalpindi,Apparel,Online,194,669329
+2025-04,Rawalpindi,Groceries,Retail Store,1900,1197983
+2025-04,Rawalpindi,Groceries,Distributor,1029,669621
+2025-04,Rawalpindi,Groceries,Online,755,477929
+2025-04,Rawalpindi,Home & Kitchen,Retail Store,209,1234415
+2025-04,Rawalpindi,Home & Kitchen,Distributor,126,739228
+2025-04,Rawalpindi,Home & Kitchen,Online,112,617019
+2025-04,Rawalpindi,Beauty,Retail Store,427,755297
+2025-04,Rawalpindi,Beauty,Distributor,319,559770
+2025-04,Rawalpindi,Beauty,Online,249,438139
+2025-04,Faisalabad,Electronics,Retail Store,62,2744519
+2025-04,Faisalabad,Electronics,Distributor,35,1595577
+2025-04,Faisalabad,Electronics,Online,28,1252213
+2025-04,Faisalabad,Apparel,Retail Store,475,1715337
+2025-04,Faisalabad,Apparel,Distributor,262,916203
+2025-04,Faisalabad,Apparel,Online,242,770715
+2025-04,Faisalabad,Groceries,Retail Store,2056,1398119
+2025-04,Faisalabad,Groceries,Distributor,1010,678566
+2025-04,Faisalabad,Groceries,Online,911,547139
+2025-04,Faisalabad,Home & Kitchen,Retail Store,255,1595462
+2025-04,Faisalabad,Home & Kitchen,Distributor,127,733645
+2025-04,Faisalabad,Home & Kitchen,Online,112,651050
+2025-04,Faisalabad,Beauty,Retail Store,533,942588
+2025-04,Faisalabad,Beauty,Distributor,304,528241
+2025-04,Faisalabad,Beauty,Online,280,486130
+2025-04,Multan,Electronics,Retail Store,40,1850105
+2025-04,Multan,Electronics,Distributor,23,1011556
+2025-04,Multan,Electronics,Online,19,788421
+2025-04,Multan,Apparel,Retail Store,289,978951
+2025-04,Multan,Apparel,Distributor,175,591519
+2025-04,Multan,Apparel,Online,149,501845
+2025-04,Multan,Groceries,Retail Store,1457,975288
+2025-04,Multan,Groceries,Distributor,807,505538
+2025-04,Multan,Groceries,Online,720,425109
+2025-04,Multan,Home & Kitchen,Retail Store,181,1074082
+2025-04,Multan,Home & Kitchen,Distributor,95,557450
+2025-04,Multan,Home & Kitchen,Online,85,501019
+2025-04,Multan,Beauty,Retail Store,368,670862
+2025-04,Multan,Beauty,Distributor,199,341403
+2025-04,Multan,Beauty,Online,200,343538
+2025-04,Peshawar,Electronics,Retail Store,46,2034363
+2025-04,Peshawar,Electronics,Distributor,24,1093431
+2025-04,Peshawar,Electronics,Online,23,995140
+2025-04,Peshawar,Apparel,Retail Store,351,1224837
+2025-04,Peshawar,Apparel,Distributor,211,734058
+2025-04,Peshawar,Apparel,Online,187,593170
+2025-04,Peshawar,Groceries,Retail Store,1529,972281
+2025-04,Peshawar,Groceries,Distributor,931,613787
+2025-04,Peshawar,Groceries,Online,726,453152
+2025-04,Peshawar,Home & Kitchen,Retail Store,199,1221739
+2025-04,Peshawar,Home & Kitchen,Distributor,113,660119
+2025-04,Peshawar,Home & Kitchen,Online,91,514759
+2025-04,Peshawar,Beauty,Retail Store,453,804534
+2025-04,Peshawar,Beauty,Distributor,240,436487
+2025-04,Peshawar,Beauty,Online,223,392934
+2025-04,Quetta,Electronics,Retail Store,29,1331915
+2025-04,Quetta,Electronics,Distributor,14,628108
+2025-04,Quetta,Electronics,Online,13,565526
+2025-04,Quetta,Apparel,Retail Store,225,822879
+2025-04,Quetta,Apparel,Distributor,104,366323
+2025-04,Quetta,Apparel,Online,96,323034
+2025-04,Quetta,Groceries,Retail Store,948,608228
+2025-04,Quetta,Groceries,Distributor,464,289883
+2025-04,Quetta,Groceries,Online,495,320916
+2025-04,Quetta,Home & Kitchen,Retail Store,112,638530
+2025-04,Quetta,Home & Kitchen,Distributor,71,405551
+2025-04,Quetta,Home & Kitchen,Online,51,297022
+2025-04,Quetta,Beauty,Retail Store,245,450388
+2025-04,Quetta,Beauty,Distributor,121,228133
+2025-04,Quetta,Beauty,Online,124,222364
+2025-05,Karachi,Electronics,Retail Store,114,5350041
+2025-05,Karachi,Electronics,Distributor,67,2907201
+2025-05,Karachi,Electronics,Online,57,2440615
+2025-05,Karachi,Apparel,Retail Store,957,3491726
+2025-05,Karachi,Apparel,Distributor,402,1380417
+2025-05,Karachi,Apparel,Online,460,1473443
+2025-05,Karachi,Groceries,Retail Store,4288,2687795
+2025-05,Karachi,Groceries,Distributor,2210,1465930
+2025-05,Karachi,Groceries,Online,1983,1209119
+2025-05,Karachi,Home & Kitchen,Retail Store,501,3100059
+2025-05,Karachi,Home & Kitchen,Distributor,281,1693927
+2025-05,Karachi,Home & Kitchen,Online,284,1620630
+2025-05,Karachi,Beauty,Retail Store,1230,2294907
+2025-05,Karachi,Beauty,Distributor,619,1102603
+2025-05,Karachi,Beauty,Online,541,926840
+2025-05,Lahore,Electronics,Retail Store,118,5395205
+2025-05,Lahore,Electronics,Distributor,61,2667546
+2025-05,Lahore,Electronics,Online,49,2062491
+2025-05,Lahore,Apparel,Retail Store,819,2782613
+2025-05,Lahore,Apparel,Distributor,505,1773972
+2025-05,Lahore,Apparel,Online,423,1355680
+2025-05,Lahore,Groceries,Retail Store,3598,2346050
+2025-05,Lahore,Groceries,Distributor,1791,1165334
+2025-05,Lahore,Groceries,Online,1840,1135869
+2025-05,Lahore,Home & Kitchen,Retail Store,464,2740204
+2025-05,Lahore,Home & Kitchen,Distributor,249,1493656
+2025-05,Lahore,Home & Kitchen,Online,240,1309592
+2025-05,Lahore,Beauty,Retail Store,1063,1854254
+2025-05,Lahore,Beauty,Distributor,493,858809
+2025-05,Lahore,Beauty,Online,498,826864
+2025-05,Islamabad,Electronics,Retail Store,62,2894833
+2025-05,Islamabad,Electronics,Distributor,36,1607918
+2025-05,Islamabad,Electronics,Online,30,1339490
+2025-05,Islamabad,Apparel,Retail Store,470,1574090
+2025-05,Islamabad,Apparel,Distributor,244,895767
+2025-05,Islamabad,Apparel,Online,261,833633
+2025-05,Islamabad,Groceries,Retail Store,2366,1509531
+2025-05,Islamabad,Groceries,Distributor,1260,834954
+2025-05,Islamabad,Groceries,Online,1079,655946
+2025-05,Islamabad,Home & Kitchen,Retail Store,258,1547685
+2025-05,Islamabad,Home & Kitchen,Distributor,152,905807
+2025-05,Islamabad,Home & Kitchen,Online,144,858052
+2025-05,Islamabad,Beauty,Retail Store,649,1170757
+2025-05,Islamabad,Beauty,Distributor,385,663642
+2025-05,Islamabad,Beauty,Online,339,553881
+2025-05,Rawalpindi,Electronics,Retail Store,55,2473387
+2025-05,Rawalpindi,Electronics,Distributor,29,1251148
+2025-05,Rawalpindi,Electronics,Online,25,1077433
+2025-05,Rawalpindi,Apparel,Retail Store,368,1271524
+2025-05,Rawalpindi,Apparel,Distributor,207,704223
+2025-05,Rawalpindi,Apparel,Online,176,613901
+2025-05,Rawalpindi,Groceries,Retail Store,2110,1437280
+2025-05,Rawalpindi,Groceries,Distributor,1032,642672
+2025-05,Rawalpindi,Groceries,Online,946,568833
+2025-05,Rawalpindi,Home & Kitchen,Retail Store,226,1301114
+2025-05,Rawalpindi,Home & Kitchen,Distributor,150,885570
+2025-05,Rawalpindi,Home & Kitchen,Online,102,593964
+2025-05,Rawalpindi,Beauty,Retail Store,446,831048
+2025-05,Rawalpindi,Beauty,Distributor,330,596281
+2025-05,Rawalpindi,Beauty,Online,221,377732
+2025-05,Faisalabad,Electronics,Retail Store,61,2652103
+2025-05,Faisalabad,Electronics,Distributor,32,1405985
+2025-05,Faisalabad,Electronics,Online,31,1382205
+2025-05,Faisalabad,Apparel,Retail Store,455,1602875
+2025-05,Faisalabad,Apparel,Distributor,268,914607
+2025-05,Faisalabad,Apparel,Online,243,774665
+2025-05,Faisalabad,Groceries,Retail Store,1840,1162715
+2025-05,Faisalabad,Groceries,Distributor,1064,678797
+2025-05,Faisalabad,Groceries,Online,1072,681585
+2025-05,Faisalabad,Home & Kitchen,Retail Store,282,1717712
+2025-05,Faisalabad,Home & Kitchen,Distributor,143,856287
+2025-05,Faisalabad,Home & Kitchen,Online,131,747512
+2025-05,Faisalabad,Beauty,Retail Store,638,1164521
+2025-05,Faisalabad,Beauty,Distributor,303,524894
+2025-05,Faisalabad,Beauty,Online,282,473218
+2025-05,Multan,Electronics,Retail Store,45,2000466
+2025-05,Multan,Electronics,Distributor,25,1118519
+2025-05,Multan,Electronics,Online,20,823817
+2025-05,Multan,Apparel,Retail Store,293,1023506
+2025-05,Multan,Apparel,Distributor,169,576209
+2025-05,Multan,Apparel,Online,152,516393
+2025-05,Multan,Groceries,Retail Store,1300,859284
+2025-05,Multan,Groceries,Distributor,717,463654
+2025-05,Multan,Groceries,Online,744,475484
+2025-05,Multan,Home & Kitchen,Retail Store,180,1128969
+2025-05,Multan,Home & Kitchen,Distributor,92,568564
+2025-05,Multan,Home & Kitchen,Online,77,447839
+2025-05,Multan,Beauty,Retail Store,361,655397
+2025-05,Multan,Beauty,Distributor,181,335220
+2025-05,Multan,Beauty,Online,188,327756
+2025-05,Peshawar,Electronics,Retail Store,45,1960404
+2025-05,Peshawar,Electronics,Distributor,27,1232875
+2025-05,Peshawar,Electronics,Online,25,1033996
+2025-05,Peshawar,Apparel,Retail Store,373,1293306
+2025-05,Peshawar,Apparel,Distributor,192,676972
+2025-05,Peshawar,Apparel,Online,165,545920
+2025-05,Peshawar,Groceries,Retail Store,1470,933925
+2025-05,Peshawar,Groceries,Distributor,965,615310
+2025-05,Peshawar,Groceries,Online,804,517482
+2025-05,Peshawar,Home & Kitchen,Retail Store,197,1195832
+2025-05,Peshawar,Home & Kitchen,Distributor,115,667791
+2025-05,Peshawar,Home & Kitchen,Online,106,620200
+2025-05,Peshawar,Beauty,Retail Store,421,734040
+2025-05,Peshawar,Beauty,Distributor,247,436740
+2025-05,Peshawar,Beauty,Online,221,382513
+2025-05,Quetta,Electronics,Retail Store,30,1404701
+2025-05,Quetta,Electronics,Distributor,14,640002
+2025-05,Quetta,Electronics,Online,12,503039
+2025-05,Quetta,Apparel,Retail Store,213,715343
+2025-05,Quetta,Apparel,Distributor,119,425991
+2025-05,Quetta,Apparel,Online,102,339780
+2025-05,Quetta,Groceries,Retail Store,1034,694127
+2025-05,Quetta,Groceries,Distributor,490,318510
+2025-05,Quetta,Groceries,Online,456,275044
+2025-05,Quetta,Home & Kitchen,Retail Store,102,634349
+2025-05,Quetta,Home & Kitchen,Distributor,58,347428
+2025-05,Quetta,Home & Kitchen,Online,53,311109
+2025-05,Quetta,Beauty,Retail Store,250,444836
+2025-05,Quetta,Beauty,Distributor,124,215445
+2025-05,Quetta,Beauty,Online,129,220133
+2025-06,Karachi,Electronics,Retail Store,117,5480137
+2025-06,Karachi,Electronics,Distributor,80,3645654
+2025-06,Karachi,Electronics,Online,59,2524854
+2025-06,Karachi,Apparel,Retail Store,1369,4561685
+2025-06,Karachi,Apparel,Distributor,739,2678572
+2025-06,Karachi,Apparel,Online,633,2166964
+2025-06,Karachi,Groceries,Retail Store,5962,3886528
+2025-06,Karachi,Groceries,Distributor,3248,2086499
+2025-06,Karachi,Groceries,Online,3267,1967989
+2025-06,Karachi,Home & Kitchen,Retail Store,537,3283349
+2025-06,Karachi,Home & Kitchen,Distributor,297,1766974
+2025-06,Karachi,Home & Kitchen,Online,281,1597533
+2025-06,Karachi,Beauty,Retail Store,1199,2051655
+2025-06,Karachi,Beauty,Distributor,637,1097421
+2025-06,Karachi,Beauty,Online,548,909658
+2025-06,Lahore,Electronics,Retail Store,112,4929236
+2025-06,Lahore,Electronics,Distributor,56,2493883
+2025-06,Lahore,Electronics,Online,55,2292205
+2025-06,Lahore,Apparel,Retail Store,1187,4114681
+2025-06,Lahore,Apparel,Distributor,650,2265797
+2025-06,Lahore,Apparel,Online,550,1866576
+2025-06,Lahore,Groceries,Retail Store,4248,2704612
+2025-06,Lahore,Groceries,Distributor,2836,1853642
+2025-06,Lahore,Groceries,Online,2951,1910777
+2025-06,Lahore,Home & Kitchen,Retail Store,465,2901270
+2025-06,Lahore,Home & Kitchen,Distributor,273,1576966
+2025-06,Lahore,Home & Kitchen,Online,218,1240651
+2025-06,Lahore,Beauty,Retail Store,982,1821836
+2025-06,Lahore,Beauty,Distributor,656,1137573
+2025-06,Lahore,Beauty,Online,482,823663
+2025-06,Islamabad,Electronics,Retail Store,72,3312472
+2025-06,Islamabad,Electronics,Distributor,39,1813948
+2025-06,Islamabad,Electronics,Online,36,1541946
+2025-06,Islamabad,Apparel,Retail Store,789,2867710
+2025-06,Islamabad,Apparel,Distributor,386,1297279
+2025-06,Islamabad,Apparel,Online,370,1267924
+2025-06,Islamabad,Groceries,Retail Store,2707,1779684
+2025-06,Islamabad,Groceries,Distributor,2046,1363291
+2025-06,Islamabad,Groceries,Online,1770,1045062
+2025-06,Islamabad,Home & Kitchen,Retail Store,274,1595089
+2025-06,Islamabad,Home & Kitchen,Distributor,147,869360
+2025-06,Islamabad,Home & Kitchen,Online,159,871270
+2025-06,Islamabad,Beauty,Retail Store,600,1046037
+2025-06,Islamabad,Beauty,Distributor,329,566805
+2025-06,Islamabad,Beauty,Online,295,513758
+2025-06,Rawalpindi,Electronics,Retail Store,58,2483179
+2025-06,Rawalpindi,Electronics,Distributor,32,1390005
+2025-06,Rawalpindi,Electronics,Online,27,1197275
+2025-06,Rawalpindi,Apparel,Retail Store,653,2211554
+2025-06,Rawalpindi,Apparel,Distributor,338,1154109
+2025-06,Rawalpindi,Apparel,Online,279,884330
+2025-06,Rawalpindi,Groceries,Retail Store,2982,1991215
+2025-06,Rawalpindi,Groceries,Distributor,1346,846192
+2025-06,Rawalpindi,Groceries,Online,1339,857273
+2025-06,Rawalpindi,Home & Kitchen,Retail Store,227,1383153
+2025-06,Rawalpindi,Home & Kitchen,Distributor,122,756019
+2025-06,Rawalpindi,Home & Kitchen,Online,99,564796
+2025-06,Rawalpindi,Beauty,Retail Store,590,1036867
+2025-06,Rawalpindi,Beauty,Distributor,239,409584
+2025-06,Rawalpindi,Beauty,Online,287,505503
+2025-06,Faisalabad,Electronics,Retail Store,58,2518606
+2025-06,Faisalabad,Electronics,Distributor,32,1444429
+2025-06,Faisalabad,Electronics,Online,34,1391094
+2025-06,Faisalabad,Apparel,Retail Store,704,2455417
+2025-06,Faisalabad,Apparel,Distributor,331,1132898
+2025-06,Faisalabad,Apparel,Online,306,1056895
+2025-06,Faisalabad,Groceries,Retail Store,3094,2074841
+2025-06,Faisalabad,Groceries,Distributor,1512,983962
+2025-06,Faisalabad,Groceries,Online,1586,1010254
+2025-06,Faisalabad,Home & Kitchen,Retail Store,273,1680086
+2025-06,Faisalabad,Home & Kitchen,Distributor,133,826926
+2025-06,Faisalabad,Home & Kitchen,Online,126,685311
+2025-06,Faisalabad,Beauty,Retail Store,588,1096157
+2025-06,Faisalabad,Beauty,Distributor,292,536113
+2025-06,Faisalabad,Beauty,Online,291,490413
+2025-06,Multan,Electronics,Retail Store,49,2123361
+2025-06,Multan,Electronics,Distributor,23,999424
+2025-06,Multan,Electronics,Online,20,830751
+2025-06,Multan,Apparel,Retail Store,530,1874431
+2025-06,Multan,Apparel,Distributor,263,880484
+2025-06,Multan,Apparel,Online,210,704527
+2025-06,Multan,Groceries,Retail Store,1878,1208855
+2025-06,Multan,Groceries,Distributor,954,625637
+2025-06,Multan,Groceries,Online,1042,655536
+2025-06,Multan,Home & Kitchen,Retail Store,145,888606
+2025-06,Multan,Home & Kitchen,Distributor,110,650120
+2025-06,Multan,Home & Kitchen,Online,85,466362
+2025-06,Multan,Beauty,Retail Store,409,724734
+2025-06,Multan,Beauty,Distributor,202,368234
+2025-06,Multan,Beauty,Online,197,346910
+2025-06,Peshawar,Electronics,Retail Store,48,2229064
+2025-06,Peshawar,Electronics,Distributor,26,1184002
+2025-06,Peshawar,Electronics,Online,26,1143496
+2025-06,Peshawar,Apparel,Retail Store,601,2081824
+2025-06,Peshawar,Apparel,Distributor,325,1143282
+2025-06,Peshawar,Apparel,Online,336,1067922
+2025-06,Peshawar,Groceries,Retail Store,2220,1450354
+2025-06,Peshawar,Groceries,Distributor,1322,880048
+2025-06,Peshawar,Groceries,Online,1122,721959
+2025-06,Peshawar,Home & Kitchen,Retail Store,221,1384307
+2025-06,Peshawar,Home & Kitchen,Distributor,101,604428
+2025-06,Peshawar,Home & Kitchen,Online,112,610969
+2025-06,Peshawar,Beauty,Retail Store,452,774950
+2025-06,Peshawar,Beauty,Distributor,241,447317
+2025-06,Peshawar,Beauty,Online,225,370307
+2025-06,Quetta,Electronics,Retail Store,25,1095108
+2025-06,Quetta,Electronics,Distributor,13,611304
+2025-06,Quetta,Electronics,Online,14,621074
+2025-06,Quetta,Apparel,Retail Store,307,1110208
+2025-06,Quetta,Apparel,Distributor,156,522432
+2025-06,Quetta,Apparel,Online,149,473228
+2025-06,Quetta,Groceries,Retail Store,1394,923457
+2025-06,Quetta,Groceries,Distributor,686,437601
+2025-06,Quetta,Groceries,Online,583,368703
+2025-06,Quetta,Home & Kitchen,Retail Store,129,777239
+2025-06,Quetta,Home & Kitchen,Distributor,64,402386
+2025-06,Quetta,Home & Kitchen,Online,56,318413
+2025-06,Quetta,Beauty,Retail Store,240,416734
+2025-06,Quetta,Beauty,Distributor,130,228946
+2025-06,Quetta,Beauty,Online,140,239688
+2025-07,Karachi,Electronics,Retail Store,67,3042297
+2025-07,Karachi,Electronics,Distributor,42,1932259
+2025-07,Karachi,Electronics,Online,40,1777765
+2025-07,Karachi,Apparel,Retail Store,598,2097604
+2025-07,Karachi,Apparel,Distributor,298,1014325
+2025-07,Karachi,Apparel,Online,328,1127901
+2025-07,Karachi,Groceries,Retail Store,2667,1699442
+2025-07,Karachi,Groceries,Distributor,1322,878217
+2025-07,Karachi,Groceries,Online,1237,741010
+2025-07,Karachi,Home & Kitchen,Retail Store,310,1863521
+2025-07,Karachi,Home & Kitchen,Distributor,164,970159
+2025-07,Karachi,Home & Kitchen,Online,152,838705
+2025-07,Karachi,Beauty,Retail Store,693,1204616
+2025-07,Karachi,Beauty,Distributor,368,682140
+2025-07,Karachi,Beauty,Online,409,665779
+2025-07,Lahore,Electronics,Retail Store,107,4799755
+2025-07,Lahore,Electronics,Distributor,57,2672530
+2025-07,Lahore,Electronics,Online,58,2572487
+2025-07,Lahore,Apparel,Retail Store,853,2947071
+2025-07,Lahore,Apparel,Distributor,468,1677720
+2025-07,Lahore,Apparel,Online,448,1453406
+2025-07,Lahore,Groceries,Retail Store,3727,2304807
+2025-07,Lahore,Groceries,Distributor,2021,1315050
+2025-07,Lahore,Groceries,Online,2040,1219429
+2025-07,Lahore,Home & Kitchen,Retail Store,429,2504100
+2025-07,Lahore,Home & Kitchen,Distributor,238,1410759
+2025-07,Lahore,Home & Kitchen,Online,214,1175656
+2025-07,Lahore,Beauty,Retail Store,945,1621024
+2025-07,Lahore,Beauty,Distributor,603,1129028
+2025-07,Lahore,Beauty,Online,559,943655
+2025-07,Islamabad,Electronics,Retail Store,79,3578947
+2025-07,Islamabad,Electronics,Distributor,42,1840159
+2025-07,Islamabad,Electronics,Online,38,1592300
+2025-07,Islamabad,Apparel,Retail Store,528,1813754
+2025-07,Islamabad,Apparel,Distributor,285,1038596
+2025-07,Islamabad,Apparel,Online,228,754920
+2025-07,Islamabad,Groceries,Retail Store,2306,1497305
+2025-07,Islamabad,Groceries,Distributor,1209,748150
+2025-07,Islamabad,Groceries,Online,1128,729533
+2025-07,Islamabad,Home & Kitchen,Retail Store,299,1822785
+2025-07,Islamabad,Home & Kitchen,Distributor,155,914587
+2025-07,Islamabad,Home & Kitchen,Online,153,879431
+2025-07,Islamabad,Beauty,Retail Store,586,1089029
+2025-07,Islamabad,Beauty,Distributor,371,662107
+2025-07,Islamabad,Beauty,Online,322,576464
+2025-07,Rawalpindi,Electronics,Retail Store,57,2475560
+2025-07,Rawalpindi,Electronics,Distributor,29,1325688
+2025-07,Rawalpindi,Electronics,Online,24,998860
+2025-07,Rawalpindi,Apparel,Retail Store,432,1478527
+2025-07,Rawalpindi,Apparel,Distributor,225,751314
+2025-07,Rawalpindi,Apparel,Online,191,644891
+2025-07,Rawalpindi,Groceries,Retail Store,1688,1068435
+2025-07,Rawalpindi,Groceries,Distributor,1084,737726
+2025-07,Rawalpindi,Groceries,Online,854,534513
+2025-07,Rawalpindi,Home & Kitchen,Retail Store,223,1303411
+2025-07,Rawalpindi,Home & Kitchen,Distributor,146,856746
+2025-07,Rawalpindi,Home & Kitchen,Online,126,690341
+2025-07,Rawalpindi,Beauty,Retail Store,540,975268
+2025-07,Rawalpindi,Beauty,Distributor,272,506757
+2025-07,Rawalpindi,Beauty,Online,232,381137
+2025-07,Faisalabad,Electronics,Retail Store,63,2794629
+2025-07,Faisalabad,Electronics,Distributor,31,1394150
+2025-07,Faisalabad,Electronics,Online,29,1273293
+2025-07,Faisalabad,Apparel,Retail Store,472,1644570
+2025-07,Faisalabad,Apparel,Distributor,235,819243
+2025-07,Faisalabad,Apparel,Online,245,806273
+2025-07,Faisalabad,Groceries,Retail Store,1975,1243661
+2025-07,Faisalabad,Groceries,Distributor,1132,722659
+2025-07,Faisalabad,Groceries,Online,1047,647539
+2025-07,Faisalabad,Home & Kitchen,Retail Store,260,1501034
+2025-07,Faisalabad,Home & Kitchen,Distributor,158,929070
+2025-07,Faisalabad,Home & Kitchen,Online,144,804264
+2025-07,Faisalabad,Beauty,Retail Store,567,994602
+2025-07,Faisalabad,Beauty,Distributor,344,613862
+2025-07,Faisalabad,Beauty,Online,309,546913
+2025-07,Multan,Electronics,Retail Store,45,2036722
+2025-07,Multan,Electronics,Distributor,20,916325
+2025-07,Multan,Electronics,Online,20,859340
+2025-07,Multan,Apparel,Retail Store,317,1089210
+2025-07,Multan,Apparel,Distributor,168,586911
+2025-07,Multan,Apparel,Online,163,519757
+2025-07,Multan,Groceries,Retail Store,1452,978314
+2025-07,Multan,Groceries,Distributor,770,493799
+2025-07,Multan,Groceries,Online,778,457818
+2025-07,Multan,Home & Kitchen,Retail Store,185,1109275
+2025-07,Multan,Home & Kitchen,Distributor,87,510249
+2025-07,Multan,Home & Kitchen,Online,75,416909
+2025-07,Multan,Beauty,Retail Store,351,618138
+2025-07,Multan,Beauty,Distributor,190,348268
+2025-07,Multan,Beauty,Online,200,348011
+2025-07,Peshawar,Electronics,Retail Store,48,2213159
+2025-07,Peshawar,Electronics,Distributor,26,1196221
+2025-07,Peshawar,Electronics,Online,26,1134145
+2025-07,Peshawar,Apparel,Retail Store,437,1490135
+2025-07,Peshawar,Apparel,Distributor,195,703898
+2025-07,Peshawar,Apparel,Online,194,655408
+2025-07,Peshawar,Groceries,Retail Store,1618,1003023
+2025-07,Peshawar,Groceries,Distributor,842,551453
+2025-07,Peshawar,Groceries,Online,887,568336
+2025-07,Peshawar,Home & Kitchen,Retail Store,198,1171866
+2025-07,Peshawar,Home & Kitchen,Distributor,103,598882
+2025-07,Peshawar,Home & Kitchen,Online,99,540547
+2025-07,Peshawar,Beauty,Retail Store,478,823861
+2025-07,Peshawar,Beauty,Distributor,253,468634
+2025-07,Peshawar,Beauty,Online,224,401474
+2025-07,Quetta,Electronics,Retail Store,28,1293902
+2025-07,Quetta,Electronics,Distributor,15,702860
+2025-07,Quetta,Electronics,Online,14,621456
+2025-07,Quetta,Apparel,Retail Store,198,692774
+2025-07,Quetta,Apparel,Distributor,104,353179
+2025-07,Quetta,Apparel,Online,106,369299
+2025-07,Quetta,Groceries,Retail Store,861,541843
+2025-07,Quetta,Groceries,Distributor,467,300435
+2025-07,Quetta,Groceries,Online,432,278044
+2025-07,Quetta,Home & Kitchen,Retail Store,96,584738
+2025-07,Quetta,Home & Kitchen,Distributor,60,353586
+2025-07,Quetta,Home & Kitchen,Online,66,365584
+2025-07,Quetta,Beauty,Retail Store,271,510885
+2025-07,Quetta,Beauty,Distributor,157,277051
+2025-07,Quetta,Beauty,Online,122,207932
+2025-08,Karachi,Electronics,Retail Store,79,3479198
+2025-08,Karachi,Electronics,Distributor,40,1808877
+2025-08,Karachi,Electronics,Online,38,1626480
+2025-08,Karachi,Apparel,Retail Store,609,2224990
+2025-08,Karachi,Apparel,Distributor,304,1106518
+2025-08,Karachi,Apparel,Online,264,888584
+2025-08,Karachi,Groceries,Retail Store,2673,1708073
+2025-08,Karachi,Groceries,Distributor,1406,892425
+2025-08,Karachi,Groceries,Online,1373,843351
+2025-08,Karachi,Home & Kitchen,Retail Store,284,1665025
+2025-08,Karachi,Home & Kitchen,Distributor,174,997337
+2025-08,Karachi,Home & Kitchen,Online,190,1103550
+2025-08,Karachi,Beauty,Retail Store,707,1237085
+2025-08,Karachi,Beauty,Distributor,332,567775
+2025-08,Karachi,Beauty,Online,386,629629
+2025-08,Lahore,Electronics,Retail Store,114,5383834
+2025-08,Lahore,Electronics,Distributor,64,2797942
+2025-08,Lahore,Electronics,Online,61,2598285
+2025-08,Lahore,Apparel,Retail Store,773,2787381
+2025-08,Lahore,Apparel,Distributor,458,1542799
+2025-08,Lahore,Apparel,Online,444,1530937
+2025-08,Lahore,Groceries,Retail Store,3766,2351787
+2025-08,Lahore,Groceries,Distributor,2194,1376996
+2025-08,Lahore,Groceries,Online,1911,1229183
+2025-08,Lahore,Home & Kitchen,Retail Store,532,3058920
+2025-08,Lahore,Home & Kitchen,Distributor,261,1551674
+2025-08,Lahore,Home & Kitchen,Online,268,1503211
+2025-08,Lahore,Beauty,Retail Store,1077,1901084
+2025-08,Lahore,Beauty,Distributor,573,1008838
+2025-08,Lahore,Beauty,Online,578,953024
+2025-08,Islamabad,Electronics,Retail Store,52,2253978
+2025-08,Islamabad,Electronics,Distributor,40,1867434
+2025-08,Islamabad,Electronics,Online,35,1428404
+2025-08,Islamabad,Apparel,Retail Store,519,1859579
+2025-08,Islamabad,Apparel,Distributor,292,1017205
+2025-08,Islamabad,Apparel,Online,308,1047510
+2025-08,Islamabad,Groceries,Retail Store,2161,1368770
+2025-08,Islamabad,Groceries,Distributor,1221,821787
+2025-08,Islamabad,Groceries,Online,1228,771074
+2025-08,Islamabad,Home & Kitchen,Retail Store,294,1760206
+2025-08,Islamabad,Home & Kitchen,Distributor,155,955643
+2025-08,Islamabad,Home & Kitchen,Online,164,929599
+2025-08,Islamabad,Beauty,Retail Store,552,981040
+2025-08,Islamabad,Beauty,Distributor,344,606626
+2025-08,Islamabad,Beauty,Online,390,662091
+2025-08,Rawalpindi,Electronics,Retail Store,54,2392677
+2025-08,Rawalpindi,Electronics,Distributor,31,1359557
+2025-08,Rawalpindi,Electronics,Online,32,1422882
+2025-08,Rawalpindi,Apparel,Retail Store,430,1458916
+2025-08,Rawalpindi,Apparel,Distributor,263,928818
+2025-08,Rawalpindi,Apparel,Online,228,731462
+2025-08,Rawalpindi,Groceries,Retail Store,1946,1270348
+2025-08,Rawalpindi,Groceries,Distributor,1031,677686
+2025-08,Rawalpindi,Groceries,Online,1116,677870
+2025-08,Rawalpindi,Home & Kitchen,Retail Store,224,1311648
+2025-08,Rawalpindi,Home & Kitchen,Distributor,147,874065
+2025-08,Rawalpindi,Home & Kitchen,Online,119,706526
+2025-08,Rawalpindi,Beauty,Retail Store,580,1016509
+2025-08,Rawalpindi,Beauty,Distributor,257,473977
+2025-08,Rawalpindi,Beauty,Online,291,475194
+2025-08,Faisalabad,Electronics,Retail Store,62,2828597
+2025-08,Faisalabad,Electronics,Distributor,36,1575553
+2025-08,Faisalabad,Electronics,Online,35,1464219
+2025-08,Faisalabad,Apparel,Retail Store,501,1672213
+2025-08,Faisalabad,Apparel,Distributor,235,832134
+2025-08,Faisalabad,Apparel,Online,223,712617
+2025-08,Faisalabad,Groceries,Retail Store,1898,1237377
+2025-08,Faisalabad,Groceries,Distributor,1033,670277
+2025-08,Faisalabad,Groceries,Online,1042,646323
+2025-08,Faisalabad,Home & Kitchen,Retail Store,249,1567122
+2025-08,Faisalabad,Home & Kitchen,Distributor,135,845001
+2025-08,Faisalabad,Home & Kitchen,Online,141,804002
+2025-08,Faisalabad,Beauty,Retail Store,537,967308
+2025-08,Faisalabad,Beauty,Distributor,295,518919
+2025-08,Faisalabad,Beauty,Online,306,526904
+2025-08,Multan,Electronics,Retail Store,45,2067406
+2025-08,Multan,Electronics,Distributor,22,979836
+2025-08,Multan,Electronics,Online,22,935476
+2025-08,Multan,Apparel,Retail Store,316,1058995
+2025-08,Multan,Apparel,Distributor,158,529880
+2025-08,Multan,Apparel,Online,165,557156
+2025-08,Multan,Groceries,Retail Store,1319,900016
+2025-08,Multan,Groceries,Distributor,816,534925
+2025-08,Multan,Groceries,Online,806,516021
+2025-08,Multan,Home & Kitchen,Retail Store,163,1002411
+2025-08,Multan,Home & Kitchen,Distributor,94,574409
+2025-08,Multan,Home & Kitchen,Online,99,537034
+2025-08,Multan,Beauty,Retail Store,392,737732
+2025-08,Multan,Beauty,Distributor,216,376415
+2025-08,Multan,Beauty,Online,192,327638
+2025-08,Peshawar,Electronics,Retail Store,55,2538855
+2025-08,Peshawar,Electronics,Distributor,25,1092232
+2025-08,Peshawar,Electronics,Online,25,1064756
+2025-08,Peshawar,Apparel,Retail Store,329,1177948
+2025-08,Peshawar,Apparel,Distributor,196,692497
+2025-08,Peshawar,Apparel,Online,216,723875
+2025-08,Peshawar,Groceries,Retail Store,1664,1101173
+2025-08,Peshawar,Groceries,Distributor,880,597203
+2025-08,Peshawar,Groceries,Online,935,549413
+2025-08,Peshawar,Home & Kitchen,Retail Store,221,1326080
+2025-08,Peshawar,Home & Kitchen,Distributor,118,711709
+2025-08,Peshawar,Home & Kitchen,Online,94,523726
+2025-08,Peshawar,Beauty,Retail Store,474,870608
+2025-08,Peshawar,Beauty,Distributor,252,449162
+2025-08,Peshawar,Beauty,Online,227,384831
+2025-08,Quetta,Electronics,Retail Store,28,1311531
+2025-08,Quetta,Electronics,Distributor,16,705555
+2025-08,Quetta,Electronics,Online,14,612873
+2025-08,Quetta,Apparel,Retail Store,224,809601
+2025-08,Quetta,Apparel,Distributor,116,386137
+2025-08,Quetta,Apparel,Online,88,282535
+2025-08,Quetta,Groceries,Retail Store,927,598030
+2025-08,Quetta,Groceries,Distributor,518,334312
+2025-08,Quetta,Groceries,Online,492,297778
+2025-08,Quetta,Home & Kitchen,Retail Store,119,725132
+2025-08,Quetta,Home & Kitchen,Distributor,62,382246
+2025-08,Quetta,Home & Kitchen,Online,74,431559
+2025-08,Quetta,Beauty,Retail Store,248,429675
+2025-08,Quetta,Beauty,Distributor,130,244520
+2025-08,Quetta,Beauty,Online,148,256376
+2025-09,Karachi,Electronics,Retail Store,74,3256310
+2025-09,Karachi,Electronics,Distributor,40,1869519
+2025-09,Karachi,Electronics,Online,41,1800984
+2025-09,Karachi,Apparel,Retail Store,601,2022572
+2025-09,Karachi,Apparel,Distributor,283,964535
+2025-09,Karachi,Apparel,Online,341,1149170
+2025-09,Karachi,Groceries,Retail Store,2624,1662028
+2025-09,Karachi,Groceries,Distributor,1572,1030431
+2025-09,Karachi,Groceries,Online,1438,892797
+2025-09,Karachi,Home & Kitchen,Retail Store,290,1771395
+2025-09,Karachi,Home & Kitchen,Distributor,174,1029746
+2025-09,Karachi,Home & Kitchen,Online,181,1041691
+2025-09,Karachi,Beauty,Retail Store,760,1346153
+2025-09,Karachi,Beauty,Distributor,348,648039
+2025-09,Karachi,Beauty,Online,343,597970
+2025-09,Lahore,Electronics,Retail Store,113,5339105
+2025-09,Lahore,Electronics,Distributor,70,3080865
+2025-09,Lahore,Electronics,Online,66,2756243
+2025-09,Lahore,Apparel,Retail Store,888,3102066
+2025-09,Lahore,Apparel,Distributor,410,1435915
+2025-09,Lahore,Apparel,Online,474,1622133
+2025-09,Lahore,Groceries,Retail Store,4104,2611178
+2025-09,Lahore,Groceries,Distributor,2089,1409229
+2025-09,Lahore,Groceries,Online,1841,1145021
+2025-09,Lahore,Home & Kitchen,Retail Store,467,2695998
+2025-09,Lahore,Home & Kitchen,Distributor,266,1550787
+2025-09,Lahore,Home & Kitchen,Online,197,1119038
+2025-09,Lahore,Beauty,Retail Store,1019,1915120
+2025-09,Lahore,Beauty,Distributor,521,967332
+2025-09,Lahore,Beauty,Online,617,1099425
+2025-09,Islamabad,Electronics,Retail Store,67,2981736
+2025-09,Islamabad,Electronics,Distributor,39,1715646
+2025-09,Islamabad,Electronics,Online,39,1662979
+2025-09,Islamabad,Apparel,Retail Store,506,1720723
+2025-09,Islamabad,Apparel,Distributor,332,1187177
+2025-09,Islamabad,Apparel,Online,282,961815
+2025-09,Islamabad,Groceries,Retail Store,2348,1570088
+2025-09,Islamabad,Groceries,Distributor,1272,837633
+2025-09,Islamabad,Groceries,Online,1333,811916
+2025-09,Islamabad,Home & Kitchen,Retail Store,335,2036465
+2025-09,Islamabad,Home & Kitchen,Distributor,166,1031691
+2025-09,Islamabad,Home & Kitchen,Online,158,909175
+2025-09,Islamabad,Beauty,Retail Store,717,1294666
+2025-09,Islamabad,Beauty,Distributor,371,674156
+2025-09,Islamabad,Beauty,Online,348,604339
+2025-09,Rawalpindi,Electronics,Retail Store,61,2670284
+2025-09,Rawalpindi,Electronics,Distributor,27,1183156
+2025-09,Rawalpindi,Electronics,Online,28,1164416
+2025-09,Rawalpindi,Apparel,Retail Store,366,1326946
+2025-09,Rawalpindi,Apparel,Distributor,192,662653
+2025-09,Rawalpindi,Apparel,Online,259,831787
+2025-09,Rawalpindi,Groceries,Retail Store,1896,1230719
+2025-09,Rawalpindi,Groceries,Distributor,894,565739
+2025-09,Rawalpindi,Groceries,Online,1048,638756
+2025-09,Rawalpindi,Home & Kitchen,Retail Store,250,1429673
+2025-09,Rawalpindi,Home & Kitchen,Distributor,119,723043
+2025-09,Rawalpindi,Home & Kitchen,Online,128,716251
+2025-09,Rawalpindi,Beauty,Retail Store,597,1083430
+2025-09,Rawalpindi,Beauty,Distributor,275,493273
+2025-09,Rawalpindi,Beauty,Online,255,449650
+2025-09,Faisalabad,Electronics,Retail Store,60,2810879
+2025-09,Faisalabad,Electronics,Distributor,30,1324450
+2025-09,Faisalabad,Electronics,Online,37,1551254
+2025-09,Faisalabad,Apparel,Retail Store,440,1560498
+2025-09,Faisalabad,Apparel,Distributor,239,871583
+2025-09,Faisalabad,Apparel,Online,312,986244
+2025-09,Faisalabad,Groceries,Retail Store,1902,1261492
+2025-09,Faisalabad,Groceries,Distributor,1022,670644
+2025-09,Faisalabad,Groceries,Online,1084,647173
+2025-09,Faisalabad,Home & Kitchen,Retail Store,282,1667159
+2025-09,Faisalabad,Home & Kitchen,Distributor,149,868803
+2025-09,Faisalabad,Home & Kitchen,Online,141,825148
+2025-09,Faisalabad,Beauty,Retail Store,549,943124
+2025-09,Faisalabad,Beauty,Distributor,326,602880
+2025-09,Faisalabad,Beauty,Online,331,577437
+2025-09,Multan,Electronics,Retail Store,41,1796097
+2025-09,Multan,Electronics,Distributor,23,1004402
+2025-09,Multan,Electronics,Online,21,870545
+2025-09,Multan,Apparel,Retail Store,293,1026171
+2025-09,Multan,Apparel,Distributor,180,636354
+2025-09,Multan,Apparel,Online,181,627070
+2025-09,Multan,Groceries,Retail Store,1168,787982
+2025-09,Multan,Groceries,Distributor,766,504622
+2025-09,Multan,Groceries,Online,921,565014
+2025-09,Multan,Home & Kitchen,Retail Store,186,1126268
+2025-09,Multan,Home & Kitchen,Distributor,91,519107
+2025-09,Multan,Home & Kitchen,Online,92,500614
+2025-09,Multan,Beauty,Retail Store,396,720996
+2025-09,Multan,Beauty,Distributor,230,430383
+2025-09,Multan,Beauty,Online,186,330290
+2025-09,Peshawar,Electronics,Retail Store,50,2191667
+2025-09,Peshawar,Electronics,Distributor,26,1148499
+2025-09,Peshawar,Electronics,Online,28,1166570
+2025-09,Peshawar,Apparel,Retail Store,326,1110153
+2025-09,Peshawar,Apparel,Distributor,219,740371
+2025-09,Peshawar,Apparel,Online,231,746993
+2025-09,Peshawar,Groceries,Retail Store,1724,1127163
+2025-09,Peshawar,Groceries,Distributor,1015,680652
+2025-09,Peshawar,Groceries,Online,891,552903
+2025-09,Peshawar,Home & Kitchen,Retail Store,208,1260810
+2025-09,Peshawar,Home & Kitchen,Distributor,117,678737
+2025-09,Peshawar,Home & Kitchen,Online,118,659286
+2025-09,Peshawar,Beauty,Retail Store,440,825416
+2025-09,Peshawar,Beauty,Distributor,242,440983
+2025-09,Peshawar,Beauty,Online,281,469758
+2025-09,Quetta,Electronics,Retail Store,27,1190010
+2025-09,Quetta,Electronics,Distributor,16,716598
+2025-09,Quetta,Electronics,Online,15,672307
+2025-09,Quetta,Apparel,Retail Store,229,800536
+2025-09,Quetta,Apparel,Distributor,115,396462
+2025-09,Quetta,Apparel,Online,124,398878
+2025-09,Quetta,Groceries,Retail Store,884,569814
+2025-09,Quetta,Groceries,Distributor,520,352638
+2025-09,Quetta,Groceries,Online,498,316246
+2025-09,Quetta,Home & Kitchen,Retail Store,112,701391
+2025-09,Quetta,Home & Kitchen,Distributor,62,368735
+2025-09,Quetta,Home & Kitchen,Online,64,359097
+2025-09,Quetta,Beauty,Retail Store,277,523272
+2025-09,Quetta,Beauty,Distributor,135,247602
+2025-09,Quetta,Beauty,Online,146,257847
+2025-10,Karachi,Electronics,Retail Store,137,6203997
+2025-10,Karachi,Electronics,Distributor,72,3085387
+2025-10,Karachi,Electronics,Online,63,2780907
+2025-10,Karachi,Apparel,Retail Store,839,2838041
+2025-10,Karachi,Apparel,Distributor,533,1867363
+2025-10,Karachi,Apparel,Online,531,1707621
+2025-10,Karachi,Groceries,Retail Store,3690,2459270
+2025-10,Karachi,Groceries,Distributor,2196,1372688
+2025-10,Karachi,Groceries,Online,2545,1587484
+2025-10,Karachi,Home & Kitchen,Retail Store,512,2934920
+2025-10,Karachi,Home & Kitchen,Distributor,288,1749190
+2025-10,Karachi,Home & Kitchen,Online,301,1703973
+2025-10,Karachi,Beauty,Retail Store,1095,1981357
+2025-10,Karachi,Beauty,Distributor,644,1152185
+2025-10,Karachi,Beauty,Online,587,1045597
+2025-10,Lahore,Electronics,Retail Store,105,4630333
+2025-10,Lahore,Electronics,Distributor,65,2842955
+2025-10,Lahore,Electronics,Online,58,2572359
+2025-10,Lahore,Apparel,Retail Store,843,2819318
+2025-10,Lahore,Apparel,Distributor,444,1511637
+2025-10,Lahore,Apparel,Online,472,1588465
+2025-10,Lahore,Groceries,Retail Store,4013,2561229
+2025-10,Lahore,Groceries,Distributor,2223,1420556
+2025-10,Lahore,Groceries,Online,2005,1287104
+2025-10,Lahore,Home & Kitchen,Retail Store,370,2307532
+2025-10,Lahore,Home & Kitchen,Distributor,252,1535955
+2025-10,Lahore,Home & Kitchen,Online,232,1318953
+2025-10,Lahore,Beauty,Retail Store,1098,1889985
+2025-10,Lahore,Beauty,Distributor,559,988567
+2025-10,Lahore,Beauty,Online,530,902243
+2025-10,Islamabad,Electronics,Retail Store,65,3068676
+2025-10,Islamabad,Electronics,Distributor,34,1472725
+2025-10,Islamabad,Electronics,Online,38,1648680
+2025-10,Islamabad,Apparel,Retail Store,450,1553954
+2025-10,Islamabad,Apparel,Distributor,319,1074536
+2025-10,Islamabad,Apparel,Online,282,957944
+2025-10,Islamabad,Groceries,Retail Store,2342,1573634
+2025-10,Islamabad,Groceries,Distributor,1320,830063
+2025-10,Islamabad,Groceries,Online,1487,889952
+2025-10,Islamabad,Home & Kitchen,Retail Store,293,1758740
+2025-10,Islamabad,Home & Kitchen,Distributor,156,950779
+2025-10,Islamabad,Home & Kitchen,Online,171,926278
+2025-10,Islamabad,Beauty,Retail Store,590,1014666
+2025-10,Islamabad,Beauty,Distributor,323,553647
+2025-10,Islamabad,Beauty,Online,367,652354
+2025-10,Rawalpindi,Electronics,Retail Store,46,2092442
+2025-10,Rawalpindi,Electronics,Distributor,29,1255724
+2025-10,Rawalpindi,Electronics,Online,31,1375657
+2025-10,Rawalpindi,Apparel,Retail Store,486,1691313
+2025-10,Rawalpindi,Apparel,Distributor,252,904342
+2025-10,Rawalpindi,Apparel,Online,254,824053
+2025-10,Rawalpindi,Groceries,Retail Store,2001,1257759
+2025-10,Rawalpindi,Groceries,Distributor,941,591473
+2025-10,Rawalpindi,Groceries,Online,1102,650005
+2025-10,Rawalpindi,Home & Kitchen,Retail Store,247,1418713
+2025-10,Rawalpindi,Home & Kitchen,Distributor,117,698573
+2025-10,Rawalpindi,Home & Kitchen,Online,121,721612
+2025-10,Rawalpindi,Beauty,Retail Store,527,939564
+2025-10,Rawalpindi,Beauty,Distributor,250,444380
+2025-10,Rawalpindi,Beauty,Online,313,524143
+2025-10,Faisalabad,Electronics,Retail Store,68,2938325
+2025-10,Faisalabad,Electronics,Distributor,31,1339028
+2025-10,Faisalabad,Electronics,Online,34,1450668
+2025-10,Faisalabad,Apparel,Retail Store,513,1730437
+2025-10,Faisalabad,Apparel,Distributor,259,878668
+2025-10,Faisalabad,Apparel,Online,296,1013750
+2025-10,Faisalabad,Groceries,Retail Store,2064,1328982
+2025-10,Faisalabad,Groceries,Distributor,1132,751434
+2025-10,Faisalabad,Groceries,Online,1231,736133
+2025-10,Faisalabad,Home & Kitchen,Retail Store,298,1776845
+2025-10,Faisalabad,Home & Kitchen,Distributor,153,884833
+2025-10,Faisalabad,Home & Kitchen,Online,145,810461
+2025-10,Faisalabad,Beauty,Retail Store,587,1052454
+2025-10,Faisalabad,Beauty,Distributor,307,553119
+2025-10,Faisalabad,Beauty,Online,324,532041
+2025-10,Multan,Electronics,Retail Store,43,1930995
+2025-10,Multan,Electronics,Distributor,23,1009966
+2025-10,Multan,Electronics,Online,22,964175
+2025-10,Multan,Apparel,Retail Store,316,1117291
+2025-10,Multan,Apparel,Distributor,165,573263
+2025-10,Multan,Apparel,Online,190,641277
+2025-10,Multan,Groceries,Retail Store,1340,840939
+2025-10,Multan,Groceries,Distributor,755,484295
+2025-10,Multan,Groceries,Online,788,478215
+2025-10,Multan,Home & Kitchen,Retail Store,152,950026
+2025-10,Multan,Home & Kitchen,Distributor,107,671297
+2025-10,Multan,Home & Kitchen,Online,102,600309
+2025-10,Multan,Beauty,Retail Store,436,775530
+2025-10,Multan,Beauty,Distributor,211,382737
+2025-10,Multan,Beauty,Online,237,392212
+2025-10,Peshawar,Electronics,Retail Store,46,2164722
+2025-10,Peshawar,Electronics,Distributor,25,1179693
+2025-10,Peshawar,Electronics,Online,28,1161057
+2025-10,Peshawar,Apparel,Retail Store,416,1497490
+2025-10,Peshawar,Apparel,Distributor,186,638444
+2025-10,Peshawar,Apparel,Online,182,594990
+2025-10,Peshawar,Groceries,Retail Store,1773,1194245
+2025-10,Peshawar,Groceries,Distributor,946,631035
+2025-10,Peshawar,Groceries,Online,924,598608
+2025-10,Peshawar,Home & Kitchen,Retail Store,238,1394055
+2025-10,Peshawar,Home & Kitchen,Distributor,130,784214
+2025-10,Peshawar,Home & Kitchen,Online,102,594537
+2025-10,Peshawar,Beauty,Retail Store,426,729400
+2025-10,Peshawar,Beauty,Distributor,244,461103
+2025-10,Peshawar,Beauty,Online,271,448763
+2025-10,Quetta,Electronics,Retail Store,28,1250602
+2025-10,Quetta,Electronics,Distributor,15,684329
+2025-10,Quetta,Electronics,Online,15,634585
+2025-10,Quetta,Apparel,Retail Store,219,798535
+2025-10,Quetta,Apparel,Distributor,120,412782
+2025-10,Quetta,Apparel,Online,132,444789
+2025-10,Quetta,Groceries,Retail Store,849,526529
+2025-10,Quetta,Groceries,Distributor,502,314762
+2025-10,Quetta,Groceries,Online,525,337843
+2025-10,Quetta,Home & Kitchen,Retail Store,106,626066
+2025-10,Quetta,Home & Kitchen,Distributor,62,381024
+2025-10,Quetta,Home & Kitchen,Online,62,341414
+2025-10,Quetta,Beauty,Retail Store,230,425410
+2025-10,Quetta,Beauty,Distributor,148,270818
+2025-10,Quetta,Beauty,Online,145,242424
+2025-11,Karachi,Electronics,Retail Store,179,7686354
+2025-11,Karachi,Electronics,Distributor,113,5126916
+2025-11,Karachi,Electronics,Online,120,4909111
+2025-11,Karachi,Apparel,Retail Store,801,2873234
+2025-11,Karachi,Apparel,Distributor,535,1817033
+2025-11,Karachi,Apparel,Online,593,2021641
+2025-11,Karachi,Groceries,Retail Store,4136,2728980
+2025-11,Karachi,Groceries,Distributor,2249,1524462
+2025-11,Karachi,Groceries,Online,2234,1368000
+2025-11,Karachi,Home & Kitchen,Retail Store,615,3807740
+2025-11,Karachi,Home & Kitchen,Distributor,282,1620473
+2025-11,Karachi,Home & Kitchen,Online,328,1944419
+2025-11,Karachi,Beauty,Retail Store,1145,2154123
+2025-11,Karachi,Beauty,Distributor,598,1106976
+2025-11,Karachi,Beauty,Online,750,1258863
+2025-11,Lahore,Electronics,Retail Store,171,8077462
+2025-11,Lahore,Electronics,Distributor,90,4089421
+2025-11,Lahore,Electronics,Online,105,4570351
+2025-11,Lahore,Apparel,Retail Store,839,3001567
+2025-11,Lahore,Apparel,Distributor,524,1894346
+2025-11,Lahore,Apparel,Online,544,1844380
+2025-11,Lahore,Groceries,Retail Store,3906,2459926
+2025-11,Lahore,Groceries,Distributor,1806,1206664
+2025-11,Lahore,Groceries,Online,2370,1418219
+2025-11,Lahore,Home & Kitchen,Retail Store,488,3053957
+2025-11,Lahore,Home & Kitchen,Distributor,236,1400095
+2025-11,Lahore,Home & Kitchen,Online,250,1419829
+2025-11,Lahore,Beauty,Retail Store,1095,1953585
+2025-11,Lahore,Beauty,Distributor,603,1066481
+2025-11,Lahore,Beauty,Online,594,969101
+2025-11,Islamabad,Electronics,Retail Store,100,4365542
+2025-11,Islamabad,Electronics,Distributor,58,2517747
+2025-11,Islamabad,Electronics,Online,61,2667559
+2025-11,Islamabad,Apparel,Retail Store,464,1569339
+2025-11,Islamabad,Apparel,Distributor,265,957005
+2025-11,Islamabad,Apparel,Online,327,1117143
+2025-11,Islamabad,Groceries,Retail Store,2172,1367855
+2025-11,Islamabad,Groceries,Distributor,1376,891587
+2025-11,Islamabad,Groceries,Online,1476,953351
+2025-11,Islamabad,Home & Kitchen,Retail Store,301,1779525
+2025-11,Islamabad,Home & Kitchen,Distributor,161,964979
+2025-11,Islamabad,Home & Kitchen,Online,167,904885
+2025-11,Islamabad,Beauty,Retail Store,678,1238217
+2025-11,Islamabad,Beauty,Distributor,330,612853
+2025-11,Islamabad,Beauty,Online,421,727181
+2025-11,Rawalpindi,Electronics,Retail Store,94,4205853
+2025-11,Rawalpindi,Electronics,Distributor,46,2054875
+2025-11,Rawalpindi,Electronics,Online,56,2296288
+2025-11,Rawalpindi,Apparel,Retail Store,389,1321225
+2025-11,Rawalpindi,Apparel,Distributor,239,807686
+2025-11,Rawalpindi,Apparel,Online,255,874318
+2025-11,Rawalpindi,Groceries,Retail Store,1994,1327046
+2025-11,Rawalpindi,Groceries,Distributor,866,549984
+2025-11,Rawalpindi,Groceries,Online,1200,730036
+2025-11,Rawalpindi,Home & Kitchen,Retail Store,222,1324754
+2025-11,Rawalpindi,Home & Kitchen,Distributor,128,773719
+2025-11,Rawalpindi,Home & Kitchen,Online,165,909892
+2025-11,Rawalpindi,Beauty,Retail Store,538,971344
+2025-11,Rawalpindi,Beauty,Distributor,290,529618
+2025-11,Rawalpindi,Beauty,Online,320,523317
+2025-11,Faisalabad,Electronics,Retail Store,103,4454557
+2025-11,Faisalabad,Electronics,Distributor,55,2534386
+2025-11,Faisalabad,Electronics,Online,59,2600382
+2025-11,Faisalabad,Apparel,Retail Store,483,1629878
+2025-11,Faisalabad,Apparel,Distributor,262,880011
+2025-11,Faisalabad,Apparel,Online,286,909387
+2025-11,Faisalabad,Groceries,Retail Store,1914,1207739
+2025-11,Faisalabad,Groceries,Distributor,1200,751007
+2025-11,Faisalabad,Groceries,Online,1221,750269
+2025-11,Faisalabad,Home & Kitchen,Retail Store,285,1795306
+2025-11,Faisalabad,Home & Kitchen,Distributor,141,803727
+2025-11,Faisalabad,Home & Kitchen,Online,171,961654
+2025-11,Faisalabad,Beauty,Retail Store,578,1083325
+2025-11,Faisalabad,Beauty,Distributor,313,543297
+2025-11,Faisalabad,Beauty,Online,355,621976
+2025-11,Multan,Electronics,Retail Store,61,2789809
+2025-11,Multan,Electronics,Distributor,40,1768215
+2025-11,Multan,Electronics,Online,43,1792387
+2025-11,Multan,Apparel,Retail Store,362,1242453
+2025-11,Multan,Apparel,Distributor,177,604316
+2025-11,Multan,Apparel,Online,182,605563
+2025-11,Multan,Groceries,Retail Store,1511,994530
+2025-11,Multan,Groceries,Distributor,749,481983
+2025-11,Multan,Groceries,Online,920,573297
+2025-11,Multan,Home & Kitchen,Retail Store,166,999704
+2025-11,Multan,Home & Kitchen,Distributor,99,583730
+2025-11,Multan,Home & Kitchen,Online,116,693011
+2025-11,Multan,Beauty,Retail Store,379,661239
+2025-11,Multan,Beauty,Distributor,206,373403
+2025-11,Multan,Beauty,Online,207,345105
+2025-11,Peshawar,Electronics,Retail Store,70,3204659
+2025-11,Peshawar,Electronics,Distributor,41,1921613
+2025-11,Peshawar,Electronics,Online,46,1907147
+2025-11,Peshawar,Apparel,Retail Store,387,1396565
+2025-11,Peshawar,Apparel,Distributor,173,626174
+2025-11,Peshawar,Apparel,Online,218,713742
+2025-11,Peshawar,Groceries,Retail Store,1470,979594
+2025-11,Peshawar,Groceries,Distributor,914,600438
+2025-11,Peshawar,Groceries,Online,869,509834
+2025-11,Peshawar,Home & Kitchen,Retail Store,187,1127568
+2025-11,Peshawar,Home & Kitchen,Distributor,119,721132
+2025-11,Peshawar,Home & Kitchen,Online,119,664059
+2025-11,Peshawar,Beauty,Retail Store,501,912772
+2025-11,Peshawar,Beauty,Distributor,258,462301
+2025-11,Peshawar,Beauty,Online,268,438315
+2025-11,Quetta,Electronics,Retail Store,45,1959410
+2025-11,Quetta,Electronics,Distributor,22,1027521
+2025-11,Quetta,Electronics,Online,27,1134960
+2025-11,Quetta,Apparel,Retail Store,199,672072
+2025-11,Quetta,Apparel,Distributor,124,428091
+2025-11,Quetta,Apparel,Online,112,360285
+2025-11,Quetta,Groceries,Retail Store,858,543597
+2025-11,Quetta,Groceries,Distributor,474,297506
+2025-11,Quetta,Groceries,Online,541,346737
+2025-11,Quetta,Home & Kitchen,Retail Store,120,685350
+2025-11,Quetta,Home & Kitchen,Distributor,64,397929
+2025-11,Quetta,Home & Kitchen,Online,75,411604
+2025-11,Quetta,Beauty,Retail Store,282,516571
+2025-11,Quetta,Beauty,Distributor,122,225137
+2025-11,Quetta,Beauty,Online,172,290725
+2025-12,Karachi,Electronics,Retail Store,125,5747039
+2025-12,Karachi,Electronics,Distributor,79,3715184
+2025-12,Karachi,Electronics,Online,75,3140400
+2025-12,Karachi,Apparel,Retail Store,812,2874317
+2025-12,Karachi,Apparel,Distributor,546,1966636
+2025-12,Karachi,Apparel,Online,625,1976180
+2025-12,Karachi,Groceries,Retail Store,3881,2556354
+2025-12,Karachi,Groceries,Distributor,2133,1374488
+2025-12,Karachi,Groceries,Online,2833,1745004
+2025-12,Karachi,Home & Kitchen,Retail Store,546,3134249
+2025-12,Karachi,Home & Kitchen,Distributor,282,1761442
+2025-12,Karachi,Home & Kitchen,Online,345,1977622
+2025-12,Karachi,Beauty,Retail Store,1191,2164799
+2025-12,Karachi,Beauty,Distributor,591,1086038
+2025-12,Karachi,Beauty,Online,783,1367166
+2025-12,Lahore,Electronics,Retail Store,119,5436238
+2025-12,Lahore,Electronics,Distributor,61,2670018
+2025-12,Lahore,Electronics,Online,75,3313862
+2025-12,Lahore,Apparel,Retail Store,978,3275379
+2025-12,Lahore,Apparel,Distributor,426,1462935
+2025-12,Lahore,Apparel,Online,521,1752171
+2025-12,Lahore,Groceries,Retail Store,3708,2436157
+2025-12,Lahore,Groceries,Distributor,2185,1458416
+2025-12,Lahore,Groceries,Online,2252,1363307
+2025-12,Lahore,Home & Kitchen,Retail Store,498,2892316
+2025-12,Lahore,Home & Kitchen,Distributor,246,1412699
+2025-12,Lahore,Home & Kitchen,Online,269,1559166
+2025-12,Lahore,Beauty,Retail Store,1043,1917089
+2025-12,Lahore,Beauty,Distributor,542,981717
+2025-12,Lahore,Beauty,Online,659,1160355
+2025-12,Islamabad,Electronics,Retail Store,72,3199681
+2025-12,Islamabad,Electronics,Distributor,33,1422818
+2025-12,Islamabad,Electronics,Online,42,1738534
+2025-12,Islamabad,Apparel,Retail Store,533,1855221
+2025-12,Islamabad,Apparel,Distributor,308,1062949
+2025-12,Islamabad,Apparel,Online,350,1129177
+2025-12,Islamabad,Groceries,Retail Store,2204,1475501
+2025-12,Islamabad,Groceries,Distributor,1269,845201
+2025-12,Islamabad,Groceries,Online,1532,900166
+2025-12,Islamabad,Home & Kitchen,Retail Store,289,1669850
+2025-12,Islamabad,Home & Kitchen,Distributor,151,923761
+2025-12,Islamabad,Home & Kitchen,Online,184,1089901
+2025-12,Islamabad,Beauty,Retail Store,666,1238634
+2025-12,Islamabad,Beauty,Distributor,328,612177
+2025-12,Islamabad,Beauty,Online,425,730321
+2025-12,Rawalpindi,Electronics,Retail Store,57,2668572
+2025-12,Rawalpindi,Electronics,Distributor,32,1451241
+2025-12,Rawalpindi,Electronics,Online,35,1476806
+2025-12,Rawalpindi,Apparel,Retail Store,482,1665578
+2025-12,Rawalpindi,Apparel,Distributor,237,836472
+2025-12,Rawalpindi,Apparel,Online,281,889028
+2025-12,Rawalpindi,Groceries,Retail Store,1970,1241480
+2025-12,Rawalpindi,Groceries,Distributor,1014,684939
+2025-12,Rawalpindi,Groceries,Online,1206,715331
+2025-12,Rawalpindi,Home & Kitchen,Retail Store,224,1391793
+2025-12,Rawalpindi,Home & Kitchen,Distributor,145,837278
+2025-12,Rawalpindi,Home & Kitchen,Online,153,902980
+2025-12,Rawalpindi,Beauty,Retail Store,486,903115
+2025-12,Rawalpindi,Beauty,Distributor,313,538795
+2025-12,Rawalpindi,Beauty,Online,322,552619
+2025-12,Faisalabad,Electronics,Retail Store,68,3183582
+2025-12,Faisalabad,Electronics,Distributor,30,1290279
+2025-12,Faisalabad,Electronics,Online,43,1888300
+2025-12,Faisalabad,Apparel,Retail Store,492,1805174
+2025-12,Faisalabad,Apparel,Distributor,242,813471
+2025-12,Faisalabad,Apparel,Online,308,1057511
+2025-12,Faisalabad,Groceries,Retail Store,2376,1482368
+2025-12,Faisalabad,Groceries,Distributor,1105,737168
+2025-12,Faisalabad,Groceries,Online,1270,750390
+2025-12,Faisalabad,Home & Kitchen,Retail Store,261,1613050
+2025-12,Faisalabad,Home & Kitchen,Distributor,145,883095
+2025-12,Faisalabad,Home & Kitchen,Online,178,1055825
+2025-12,Faisalabad,Beauty,Retail Store,604,1062794
+2025-12,Faisalabad,Beauty,Distributor,313,573588
+2025-12,Faisalabad,Beauty,Online,374,617534
+2025-12,Multan,Electronics,Retail Store,48,2184352
+2025-12,Multan,Electronics,Distributor,24,1124719
+2025-12,Multan,Electronics,Online,26,1135906
+2025-12,Multan,Apparel,Retail Store,312,1123423
+2025-12,Multan,Apparel,Distributor,176,627092
+2025-12,Multan,Apparel,Online,214,689004
+2025-12,Multan,Groceries,Retail Store,1336,909098
+2025-12,Multan,Groceries,Distributor,818,507072
+2025-12,Multan,Groceries,Online,879,556877
+2025-12,Multan,Home & Kitchen,Retail Store,177,1018024
+2025-12,Multan,Home & Kitchen,Distributor,115,665358
+2025-12,Multan,Home & Kitchen,Online,116,643988
+2025-12,Multan,Beauty,Retail Store,373,643203
+2025-12,Multan,Beauty,Distributor,218,402000
+2025-12,Multan,Beauty,Online,263,448380
+2025-12,Peshawar,Electronics,Retail Store,52,2306867
+2025-12,Peshawar,Electronics,Distributor,22,975304
+2025-12,Peshawar,Electronics,Online,24,1056915
+2025-12,Peshawar,Apparel,Retail Store,370,1261693
+2025-12,Peshawar,Apparel,Distributor,209,711270
+2025-12,Peshawar,Apparel,Online,239,811190
+2025-12,Peshawar,Groceries,Retail Store,1595,1059966
+2025-12,Peshawar,Groceries,Distributor,949,647417
+2025-12,Peshawar,Groceries,Online,1128,694102
+2025-12,Peshawar,Home & Kitchen,Retail Store,181,1058152
+2025-12,Peshawar,Home & Kitchen,Distributor,98,610298
+2025-12,Peshawar,Home & Kitchen,Online,133,781736
+2025-12,Peshawar,Beauty,Retail Store,481,893505
+2025-12,Peshawar,Beauty,Distributor,236,409187
+2025-12,Peshawar,Beauty,Online,240,421560
+2025-12,Quetta,Electronics,Retail Store,28,1262441
+2025-12,Quetta,Electronics,Distributor,15,685772
+2025-12,Quetta,Electronics,Online,17,720495
+2025-12,Quetta,Apparel,Retail Store,229,822361
+2025-12,Quetta,Apparel,Distributor,118,413362
+2025-12,Quetta,Apparel,Online,126,427550
+2025-12,Quetta,Groceries,Retail Store,900,559409
+2025-12,Quetta,Groceries,Distributor,515,335211
+2025-12,Quetta,Groceries,Online,576,362047
+2025-12,Quetta,Home & Kitchen,Retail Store,102,613446
+2025-12,Quetta,Home & Kitchen,Distributor,65,382210
+2025-12,Quetta,Home & Kitchen,Online,70,393044
+2025-12,Quetta,Beauty,Retail Store,251,460652
+2025-12,Quetta,Beauty,Distributor,130,239169
+2025-12,Quetta,Beauty,Online,182,307056
