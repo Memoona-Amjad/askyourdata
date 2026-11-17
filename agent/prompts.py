@@ -66,7 +66,8 @@ The analysis code produced this result:
 
 Write a 2-4 sentence insight for a busy business executive.
 Lead with the direct answer, use the real numbers, mention one notable pattern or
-recommended action. Plain business language, no code, no jargon, no markdown headings."""
+recommended action. Round large numbers for readability (e.g. 62,397,977 -> 62.4M,
+0.2783 -> 27.8%). Plain business language, no code, no jargon, no markdown headings."""
 
 AUTO_REPORT_QUESTIONS = """You are exploring a dataset to write a short executive report.
 

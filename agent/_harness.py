@@ -80,7 +80,9 @@ def main() -> None:
     except Exception as exc:
         # Keep only the frames from the generated code so the LLM sees a short, useful error.
         tb = traceback.extract_tb(exc.__traceback__)
-        lines = [f"line {f.lineno}: {f.line}" for f in tb if f.filename == "generated_code.py"]
+        source = code.splitlines()
+        lines = [f"line {f.lineno}: {source[f.lineno - 1].strip()}"
+                 for f in tb if f.filename == "generated_code.py" and f.lineno and f.lineno <= len(source)]
         where = f" (at {lines[-1]})" if lines else ""
         output.update(ok=False, error=f"{type(exc).__name__}: {exc}{where}")
 
