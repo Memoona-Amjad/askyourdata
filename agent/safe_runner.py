@@ -108,7 +108,7 @@ def run_code(code: str, df: pd.DataFrame, timeout: int = TIMEOUT_SECONDS) -> Run
         df.to_pickle(tmp_path / "data.pkl")
 
         # Minimal environment: no API keys or other secrets are passed to the child.
-        env = {k: os.environ[k] for k in ("PATH", "SYSTEMROOT", "TEMP", "TMP") if k in os.environ}
+        env = {k: os.environ[k] for k in ("PATH", "SYSTEMROOT", "TEMP", "TMP", "HOME", "LANG") if k in os.environ}
         env["PYTHONIOENCODING"] = "utf-8"
 
         try:
