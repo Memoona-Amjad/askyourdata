@@ -48,9 +48,11 @@ def _to_jsonable(value):
         value = value.to_frame(name=value.name if value.name is not None else "value")
     if isinstance(value, pd.DataFrame):
         table = value.head(MAX_ROWS)
-        # Keep a meaningful index (e.g. after groupby) as normal columns
-        if not isinstance(table.index, pd.RangeIndex):
-            table = table.reset_index()
+        # Keep a meaningful index (e.g. city names after groupby) as normal columns,
+        # but drop a plain unnamed 0,1,2... index (left over after sorting).
+        plain = table.index.name is None and pd.api.types.is_integer_dtype(table.index.dtype) \
+            and not isinstance(table.index, pd.MultiIndex)
+        table = table.reset_index(drop=plain)
         table.columns = [str(c) for c in table.columns]
         return json.loads(table.to_json(orient="split", date_format="iso", index=False)), "table"
     if isinstance(value, (np.generic,)):

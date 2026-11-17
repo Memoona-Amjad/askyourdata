@@ -7,8 +7,10 @@ They are already imported and `df` is already loaded. You can also import math, 
 
 CODE_RULES = """Code rules:
 - Use only the real column names shown in the data profile.
-- Store the final answer in a variable called `result` (a DataFrame, Series, number or short string).
-  Keep tables small (at most ~20 rows): aggregate, sort and pick the top rows.
+- Store the final answer in a variable called `result`. Prefer a small DataFrame that holds the
+  numbers behind the answer (e.g. every category with its average), not just a single label.
+  Name columns clearly and keep units from the source column (e.g. avg_first_response_hours).
+  Keep tables small (at most ~25 rows): aggregate, sort and pick the top rows.
 - Store ONE plotly chart in a variable called `fig` (use px or go) with a clear title and axis labels.
   If a chart makes no sense, set fig = None.
 - Do NOT read or write files, do NOT call fig.show(), do NOT use print for the answer.
@@ -66,7 +68,8 @@ The analysis code produced this result:
 
 Write a 2-4 sentence insight for a busy business executive.
 Lead with the direct answer, use the real numbers, mention one notable pattern or
-recommended action. Round large numbers for readability (e.g. 62,397,977 -> 62.4M,
+recommended action. Only use numbers that appear in the result, with the units implied by the
+column names (do not convert units or invent numbers). Round large numbers for readability (e.g. 62,397,977 -> 62.4M,
 0.2783 -> 27.8%). Plain business language, no code, no jargon, no markdown headings."""
 
 AUTO_REPORT_QUESTIONS = """You are exploring a dataset to write a short executive report.

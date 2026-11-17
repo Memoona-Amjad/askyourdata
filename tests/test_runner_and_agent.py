@@ -49,6 +49,13 @@ def test_run_returns_table_and_chart(df: pd.DataFrame) -> None:
     assert out.fig_json
 
 
+def test_plain_index_is_dropped_but_named_index_kept(df: pd.DataFrame) -> None:
+    sorted_out = run_code("result = df.sort_values('revenue')", df)
+    assert sorted_out.result["columns"] == ["city", "revenue"]
+    grouped = run_code("result = df.groupby('city')['revenue'].mean()", df)
+    assert grouped.result["columns"] == ["city", "revenue"]
+
+
 def test_runtime_error_is_reported(df: pd.DataFrame) -> None:
     out = run_code("result = df['sales'].sum()", df)
     assert not out.ok

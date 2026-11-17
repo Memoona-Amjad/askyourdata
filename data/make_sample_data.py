@@ -78,18 +78,17 @@ def make_sales(rng: np.random.Generator) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def make_tickets(rng: np.random.Generator, n: int = 1800) -> pd.DataFrame:
+def make_tickets(rng: np.random.Generator, n_normal: int = 1800, n_june_billing: int = 150) -> pd.DataFrame:
     start = pd.Timestamp("2025-01-01")
-    days = rng.integers(0, 365, n)
+    # Normal tickets spread over the year, plus extra Billing tickets in June 2025
+    # (customers complaining after a price change) -> a visible spike.
+    days = np.concatenate([rng.integers(0, 365, n_normal), rng.integers(151, 181, n_june_billing)])
+    n = len(days)
     created = start + pd.to_timedelta(days, unit="D") + pd.to_timedelta(rng.integers(8, 22, n), unit="h")
 
     categories = np.array(["Delivery", "Billing", "Technical", "Account", "Refund"])
     cat_p = np.array([0.34, 0.20, 0.20, 0.12, 0.14])
-    category = rng.choice(categories, n, p=cat_p)
-    # Billing spike in June 2025 (after a price change)
-    june = created.month == 6
-    spike = june & (rng.random(n) < 0.35)
-    category = np.where(spike, "Billing", category)
+    category = np.concatenate([rng.choice(categories, n_normal, p=cat_p), np.full(n_june_billing, "Billing")])
 
     channel = rng.choice(["Email", "Phone", "Chat", "WhatsApp"], n, p=[0.30, 0.20, 0.25, 0.25])
     priority = rng.choice(["Low", "Medium", "High", "Urgent"], n, p=[0.30, 0.40, 0.22, 0.08])
@@ -117,7 +116,6 @@ def make_tickets(rng: np.random.Generator, n: int = 1800) -> pd.DataFrame:
     status = rng.choice(["Resolved", "Open", "Escalated"], n, p=[0.85, 0.09, 0.06])
 
     df = pd.DataFrame({
-        "ticket_id": [f"T-{10001 + i}" for i in range(n)],
         "created_at": created.strftime("%Y-%m-%d %H:%M"),
         "city": city,
         "channel": channel,
@@ -128,7 +126,10 @@ def make_tickets(rng: np.random.Generator, n: int = 1800) -> pd.DataFrame:
         "satisfaction": satisfaction,
         "status": status,
     })
-    return df.sort_values("created_at").reset_index(drop=True)
+    df = df.sort_values("created_at").reset_index(drop=True)
+    # Ticket ids in time order
+    df.insert(0, "ticket_id", [f"T-{10001 + i}" for i in range(len(df))])
+    return df
 
 
 def main() -> None:

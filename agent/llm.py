@@ -14,6 +14,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+REQUEST_TIMEOUT_MS = 60_000
+
 
 class LLMError(Exception):
     """A friendly, user-facing LLM problem (missing key, quota hit, outage...)."""
@@ -33,22 +35,24 @@ def _setting(name: str, default: str = "") -> str:
 
 
 def model_name() -> str:
-    return _setting("LLM_MODEL", "gemini-3.6-flash")
+    return _setting("LLM_MODEL", "gemini-3.5-flash-lite")
 
 
 def fallback_model_name() -> str:
     """Used when the main model is overloaded (HTTP 503) or rate limited (429)."""
-    return _setting("LLM_FALLBACK_MODEL", "gemini-3.5-flash-lite")
+    return _setting("LLM_FALLBACK_MODEL", "gemini-3.1-flash-lite")
 
 
 @lru_cache(maxsize=1)
 def _client():
     from google import genai
+    from google.genai import types
 
     api_key = _setting("GEMINI_API_KEY")
     if not api_key:
         raise LLMError("No Gemini API key found. Add GEMINI_API_KEY to your .env file or Streamlit secrets.")
-    return genai.Client(api_key=api_key)
+    # 60 s timeout so a stuck request fails (and falls back) instead of hanging forever
+    return genai.Client(api_key=api_key, http_options=types.HttpOptions(timeout=REQUEST_TIMEOUT_MS))
 
 
 TEMPORARY_CODES = (429, 500, 503, 504)
