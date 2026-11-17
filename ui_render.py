@@ -56,7 +56,8 @@ def render_answer(run: AgentRun, key: str) -> None:
         if run.insight:
             st.markdown(run.insight)
         if run.fig_json:
-            st.plotly_chart(pio.from_json(run.fig_json), key=f"chart_{key}")
+            # theme=None keeps the agent's own chart style, so the app matches the HTML report
+            st.plotly_chart(pio.from_json(run.fig_json), key=f"chart_{key}", theme=None)
         frame = run.result_frame()
         if frame is not None:
             st.dataframe(frame, hide_index=True, key=f"table_{key}")

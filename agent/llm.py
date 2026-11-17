@@ -21,7 +21,7 @@ class LLMError(Exception):
     """A friendly, user-facing LLM problem (missing key, quota hit, outage...)."""
 
 
-def _setting(name: str, default: str = "") -> str:
+def setting(name: str, default: str = "") -> str:
     """Read a setting from the environment / .env first, then Streamlit secrets."""
     value = os.getenv(name, "")
     if value:
@@ -35,12 +35,12 @@ def _setting(name: str, default: str = "") -> str:
 
 
 def model_name() -> str:
-    return _setting("LLM_MODEL", "gemini-3.5-flash-lite")
+    return setting("LLM_MODEL", "gemini-3.5-flash-lite")
 
 
 def fallback_model_name() -> str:
     """Used when the main model is overloaded (HTTP 503) or rate limited (429)."""
-    return _setting("LLM_FALLBACK_MODEL", "gemini-3.1-flash-lite")
+    return setting("LLM_FALLBACK_MODEL", "gemini-3.1-flash-lite")
 
 
 @lru_cache(maxsize=1)
@@ -48,7 +48,7 @@ def _client():
     from google import genai
     from google.genai import types
 
-    api_key = _setting("GEMINI_API_KEY")
+    api_key = setting("GEMINI_API_KEY")
     if not api_key:
         raise LLMError("No Gemini API key found. Add GEMINI_API_KEY to your .env file or Streamlit secrets.")
     # 60 s timeout so a stuck request fails (and falls back) instead of hanging forever

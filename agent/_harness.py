@@ -18,6 +18,22 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import plotly.io as pio
+
+# One consistent chart style for every chart the agent makes (colour-blind-checked palette,
+# recessive grid, readable fonts). Applied as the default template before the code runs.
+pio.templates["askyourdata"] = go.layout.Template(layout=dict(
+    colorway=["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#6250d6", "#e34948"],
+    font=dict(family="Inter, Segoe UI, Arial, sans-serif", size=13, color="#0b0b0b"),
+    title=dict(font=dict(size=16), x=0.0, xanchor="left"),
+    paper_bgcolor="#ffffff", plot_bgcolor="#ffffff",
+    xaxis=dict(gridcolor="#ecebe8", linecolor="#c9c8c3", zeroline=False),
+    yaxis=dict(gridcolor="#ecebe8", linecolor="#c9c8c3", zeroline=False),
+    legend=dict(bgcolor="rgba(0,0,0,0)"),
+    hoverlabel=dict(font=dict(family="Inter, Segoe UI, Arial, sans-serif")),
+    margin=dict(l=60, r=24, t=64, b=56),
+))
+pio.templates.default = "plotly_white+askyourdata"
 
 ALLOWED_MODULES = {"pandas", "numpy", "plotly", "math", "datetime", "statistics"}
 MAX_ROWS = 200

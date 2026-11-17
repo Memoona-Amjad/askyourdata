@@ -77,23 +77,22 @@ AUTO_REPORT_QUESTIONS = """You are exploring a dataset to write a short executiv
 Data profile:
 {profile}
 
-Propose the 5 most useful, DIFFERENT business questions to answer from this data
-(trends over time, top/bottom segments, comparisons, drivers, anomalies).
-Each must be answerable with pandas and shown as one chart.
+Propose {n} DIFFERENT business questions to answer from this data, ranked from most to least
+useful for a business leader. Favour questions that reveal something a leader would act on:
+change over time, growth or decline of a segment, seasonal dips or spikes, unusual segments,
+and drivers of a key outcome. Avoid more than one plain "total by X" question.
+Each must be answerable with pandas and shown as one chart. Keep each question short and specific.
 
-Reply with exactly 5 lines, one question per line, no numbering, no extra text."""
+Reply with exactly {n} lines of plain text, one question per line, no numbering, no quotes, no code."""
 
 REPORT_SUMMARY = """You analysed a dataset and found these results:
 
 {findings}
 
-For EACH numbered finding, write a 2-3 sentence insight for a busy executive using the real numbers.
-Then write a 2-sentence overall summary.
+For EACH numbered finding, write a 2-3 sentence insight for a busy executive. Only use numbers that
+appear in that finding's result, with the units implied by the column names, rounded for readability
+(e.g. 62.4M, 27.8%). Then write a 2-sentence overall summary with the single most important takeaway.
 
 Reply in exactly this format:
-1. <insight>
-2. <insight>
-3. <insight>
-4. <insight>
-5. <insight>
+{format_lines}
 SUMMARY: <overall summary>"""

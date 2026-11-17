@@ -54,6 +54,7 @@ class AgentRun:
     fig_json: str | None = None
     insight: str = ""
     error_message: str = ""   # friendly message if the run failed
+    service_error: bool = False  # True if the AI service failed (not the agent's code)
 
     def result_frame(self) -> pd.DataFrame | None:
         """The result as a DataFrame if it was a table."""
@@ -131,6 +132,7 @@ class Analyst:
                 self._record(run, Step("explain", "Explained the result", run.insight), on_step)
         except llm.LLMError as exc:
             run.success = False
+            run.service_error = True
             run.error_message = str(exc)
         return run
 
